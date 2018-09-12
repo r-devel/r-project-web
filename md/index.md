@@ -10,13 +10,13 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+- You can now support the R Foundation with a renewable subscription as a
+  [supporting member](https://www.r-project.org/foundation/donations.html)
+  
 -   [**R version 3.5.1 (Feather Spray)**](https://cran.r-project.org/src/base/R-3)
     has been released on 2018-07-02.
 
 - The R Foundation has been awarded the Personality/Organization of the year 2018 award by the professional association of German market and social researchers.
-
--   [**R version 3.5.0 (Joy in Playing)**](https://cran.r-project.org/src/base/R-3)
-    has been released on 2018-04-23.
     
 ## News via Twitter
 
