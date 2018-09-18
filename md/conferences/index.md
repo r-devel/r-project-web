@@ -30,8 +30,6 @@ Usually, no proceedings are published for useR! conferences.
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
 
-* useR! 2020, Boston, MA, USA.
-
 * [useR! 2019](http://www.user2019.fr/), Toulouse, France.
 
 * [useR! 2018](https://user2018.R-project.org/), Brisbane, Australia.

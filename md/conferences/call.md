@@ -1,12 +1,12 @@
 ---
-title: Call for Proposals to Host useR! in 2020
+title: Call for Proposals to Host useR! 2020
 --- 
 
 The R Foundation Conference Committee invites proposals to host the useR! 2020 conference, to be held in North America.
 
 A distinctive feature of useR! is its emphasis on innovative contribution; as such we require all proposals to have substantial involvement from academic partners.
 
-Further details are given below. Please submit your proposals to r-conferences@r-project.org by Friday 16 November 2018.
+Further details are given below. Please submit your proposals to <R-conferences@r-project.org> by **Friday 16 November 2018**.
 
 # Overview
 

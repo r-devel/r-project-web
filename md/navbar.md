@@ -17,7 +17,7 @@
 * [What's New?](/news.html)
 * [Reporting Bugs](/bugs.html)
 * [Development Site](http://developer.R-project.org)
-* [Conferences](/conferences.html)
+* [Conferences](/conferences/)
 * [Search](/search.html)
 </div>
 
