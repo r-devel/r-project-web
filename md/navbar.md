@@ -16,9 +16,10 @@
 * [Contributors](/contributors.html)
 * [What's New?](/news.html)
 * [Reporting Bugs](/bugs.html)
-* [Development Site](http://developer.R-project.org)
 * [Conferences](/conferences.html)
 * [Search](/search.html)
+* [Get Involded: Mailing Lists](/mail.html)
+* ([Developer Pages](http://developer.R-project.org))
 </div>
 
 <div class="col-xs-6 col-sm-12">
