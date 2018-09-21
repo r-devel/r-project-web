@@ -18,8 +18,8 @@
 * [Reporting Bugs](/bugs.html)
 * [Conferences](/conferences.html)
 * [Search](/search.html)
-* [Get Involded: Mailing Lists](/mail.html)
-* ([Developer Pages](http://developer.R-project.org))
+* [Get Involved: Mailing Lists](/mail.html)
+* [Developer Pages](http://developer.R-project.org)
 </div>
 
 <div class="col-xs-6 col-sm-12">
