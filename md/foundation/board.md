@@ -2,7 +2,7 @@
 title: Board and Auditors
 ---
 
-__Presidents:__ [Simon Urbanek](http://urbanek.info) & [Martyn Plummer](http://www.iarc.fr/en/staffdirectory/displaystaff.php?id=10118)
+__Presidents:__ [Simon Urbanek](http://urbanek.info) & [Martyn Plummer](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/plummer)
 
 __Secretary General:__ [Martin Mächler](http://stat.ethz.ch/people/maechler)
 
