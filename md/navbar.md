@@ -20,6 +20,7 @@
 * [Search](/search.html)
 * [Get Involved: Mailing Lists](/mail.html)
 * [Developer Pages](http://developer.R-project.org)
+* [R Blog](https://developer.r-project.org/Blog/public/)
 </div>
 
 <div class="col-xs-6 col-sm-12">
