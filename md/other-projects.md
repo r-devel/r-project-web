@@ -55,7 +55,7 @@ Omega is a joint project with the goal of providing a variety of open-source sof
 An Emacs-Lisp interface to interactive statistical programming and data analysis languages, including: S dialects (such as R), LispStat dialects and SAS.
 
 ### R for Mediawiki 
-<http://mars.wiwi.hu-berlin.de/mediawiki/sk/index.php/R_Extension_for_MediaWiki>
+<https://www.mediawiki.org/wiki/Extension:R>
 
 allows to run R programs and display results (graphics, text) within [Mediawiki](http://www.mediawiki.org), the software behind [Wikipedia](http://www.wikipedia.org) and other wiki projects.
 
