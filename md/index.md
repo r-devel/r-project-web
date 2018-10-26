@@ -10,9 +10,9 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
-- The R Foundation Conference Committee has released a [call for
-  proposals] (https://www.r-project.org/useR-2020_call.html) to host
-  useR! 2020 in North America.
+- The R Foundation Conference Committee has released a
+  [call for proposals](https://www.r-project.org/useR-2020_call.html)
+  to host useR! 2020 in North America.
 
 - You can now support the R Foundation with a renewable subscription as a
   [supporting member](https://www.r-project.org/foundation/donations.html)
