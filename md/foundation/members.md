@@ -7,6 +7,7 @@ The ordinary members are elected by a majority vote of the general assembly. New
 ## Ordinary members
 
 * Douglas Bates (USA)
+* Henrik Bengtsson (Sweden, USA)
 * Roger Bivand (Norway)
 * Jennifer Bryan (Canada)
 * John Chambers (USA)
@@ -32,6 +33,8 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Paul Murrell (New Zealand)
 * Balasubramanian Narasimhan (USA)
 * Martyn Plummer (UK)
+* Edzer Pebesma (Germany)
+* Gabriela de Queiroz (USA)
 * Deepayan Sarkar (India)
 * Marc Schwartz (USA)
 * Duncan Temple Lang (USA)
