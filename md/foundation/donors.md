@@ -43,18 +43,15 @@ Donors (after March 2017)
 -   Steven McKinney (Canada)
 -   Yahaya Nazoumou (Niger)
 -   Joni Oksanen (Finland)
--   Jørgen Raffnsøe (Denmark)
 -   Julian Ricardo (United States)
 -   Romuald Riem (France)
 -   Renan Silverio (Brazil)
 -   Pratham Singh (India)
--   Chris Swan (Australia)
 -   Ravinderpal Vaid (United States)
 -   Dominic Walden (United Kingdom)
 -   Tore Wentzel-Larsen (Norway)
 -   Daniel Wollschläger (Germany)
 -   kai wu (China)
--   Victor Zurkowski (Canada)
 -   Appstam Consulting GmbH, Berlin (Germany)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -156,7 +153,6 @@ Supporting Benefactors
 -   Kansai University, Fac of Commerce, Suita (Japan)
 -   Mirai Solutions GmbH, Zürich (Switzerland)
 -   NA, Decatur (United States)
--   Transmitting Science, Barcelona (Spain)
 
 Supporting Institutions
 -----------
@@ -192,10 +188,8 @@ Supporting Members
 -   Jan Galkowski (United States)
 -   Jan Marvin Garbuszus (Germany)
 -   J. Antonio García (Mexico)
--   Michael Griffiths (United States)
 -   Susan Gruber (United States)
 -   Eugene Horber (Switzerland)
--   Artem Ilievskiy (Russian Federation)
 -   Landon Jensen (United States)
 -   Stephen Kaluzny (United States)
 -   Jonathan Keane (United States)
@@ -208,7 +202,6 @@ Supporting Members
 -   Luca La Rocca (Italy)
 -   Kwangchun Lee (Korea, Republic of)
 -   Kee-Won Lee (Korea, Republic of)
--   Chel Hee Lee (Canada)
 -   Detlef Lehmann (Germany)
 -   Thomas Levine (United States)
 -   Bryan Lewis (United States)
@@ -227,7 +220,6 @@ Supporting Members
 -   Alfonso Reyes (United States)
 -   Choonghyun Ryu (Korea, Republic of)
 -   Antonio J. Saez-Castillo (Spain)
--   Fabian Scheipl (Germany)
 -   Laurent Schüpbach (Switzerland)
 -   Jagat Sheth (United States)
 -   Eduard Szöcs (Germany)
@@ -244,4 +236,4 @@ Supporting Members
 
 
 
-Last update: 2018-09-18
+Last update: 2018-11-05
