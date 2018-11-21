@@ -16,7 +16,7 @@
 * [Contributors](/contributors.html)
 * [What's New?](/news.html)
 * [Reporting Bugs](/bugs.html)
-* [Conferences](/conferences.html)
+* [Conferences](/conferences/)
 * [Search](/search.html)
 * [Get Involved: Mailing Lists](/mail.html)
 * [Developer Pages](http://developer.R-project.org)
