@@ -2,10 +2,10 @@
 title: Conferences
 ---
 
+<!--
 **News**: [call for proposals](https://www.r-project.org/useR-2020_call.html)
 to host useR! 2020 in North America.
-
----
+-->
 
 The R Foundation actively supports two conference series, organized regularly by members from the R community:
 
