@@ -10,6 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   [**R version 3.5.2 (Eggshell Igloo) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2018-12-10. Final release is scheduled for Thursday 2018-12-20. 
+
 - The R Foundation Conference Committee has released a
   [call for proposals](https://www.r-project.org/useR-2020_call.html)
   to host useR! 2020 in North America.
