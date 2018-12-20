@@ -10,7 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
--   [**R version 3.5.2 (Eggshell Igloo) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2018-12-10. Final release is scheduled for Thursday 2018-12-20. 
+-   [**R version 3.5.2 (Eggshell Igloo)**](https://cran.r-project.org/src/base/R-3)
+    has been released on 2018-12-20.
 
 - The R Foundation Conference Committee has released a
   [call for proposals](https://www.r-project.org/useR-2020_call.html)
@@ -19,9 +20,6 @@ If you have questions about R like how to download and install the software, or 
 - You can now support the R Foundation with a renewable subscription as a
   [supporting member](https://www.r-project.org/foundation/donations.html)
   
--   [**R version 3.5.1 (Feather Spray)**](https://cran.r-project.org/src/base/R-3)
-    has been released on 2018-07-02.
-
 - The R Foundation has been awarded the Personality/Organization of the year 2018 award by the professional association of German market and social researchers.
     
 ## News via Twitter
