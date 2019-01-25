@@ -94,7 +94,12 @@ Go through and make the changes you need to make in order to patch the bug - try
     svn update
     svn diff > patch.diff
 
-This updates the code then creates a new file, `patch.diff`, that contains the changes between the latest version of R, and your alterations. And that's a patch! Just attach that to the bug report you're writing, note in the report that there's an associated patch, and you're done.
+This updates the code then creates a new file, `patch.diff`, that contains the changes between the latest version of R, and your alterations. 
+And that’s a patch! Before submitting the patch, make sure that the built system works correctly by running:
+
+	make check-devel
+
+Read the output and look for notes, warnings, and errors. Finally, attach the patch to the bug report you're writing, note in the report that there's an associated patch, and you're done.
 
 ## What to do if there is an issue
 
