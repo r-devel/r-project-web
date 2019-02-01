@@ -70,7 +70,7 @@ Donors (after March 2017)
 -   Somewhat Retired, North Potomac (United States)
 -   Spängler IQAM Invest GmbH, Salzburg (Austria)
 -   The Analytical Edge, Elackmans Bay (Australia)
--   Zurich R Courses, Zurich (Switzerland)
+-   [Zurich R Courses, Zurich (Switzerland)](https://www.zhRcourses.uzh.ch)
 
 Donors (before March 2017)
 -----------
@@ -195,7 +195,7 @@ Supporting Members
 -   Robert Daly (Australia)
 -   Jorge de la Vega G (Mexico)
 -   Steph de Silva (Australia)
--   Ajit de Silva (United States)
+-   [Ajit de Silva (United States)](https://www.linkedin.com/groups/77616)
 -   Ajit  de Silva  (United States)
 -   Jasja Dekker (Netherlands)
 -   Shaban Demirel (United States)
