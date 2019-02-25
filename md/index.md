@@ -10,6 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   [**R version 3.5.3 (Great Truth) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Friday 2019-03-01. Final release is scheduled for Monday 2019-03-11. 
+
 -   [**R version 3.5.2 (Eggshell Igloo)**](https://cran.r-project.org/src/base/R-3)
     has been released on 2018-12-20.
 
