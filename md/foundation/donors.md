@@ -38,7 +38,6 @@ Donors (after March 2017)
 -   Shalese Fitzgerald (United States)
 -   Michael Forster (Austria)
 -   Corrado Giannasca (Italy)
--   Danilo Godone (Italy)
 -   Brian Gough (United Kingdom)
 -   Reigo Hendrikson (Estonia)
 -   Diego Hilsaca (United States)
@@ -49,19 +48,18 @@ Donors (after March 2017)
 -   Ann-Sophie Lehnert (Germany)
 -   Michael Litts (United States)
 -   J. BRIAN LORIA (United States)
--   Joerg Maeder (Switzerland)
 -   Scott Marchese (United States)
 -   Steven McKinney (Canada)
 -   Joni Oksanen (Finland)
 -   Julian Ricardo (United States)
 -   Pratham Singh (India)
 -   Ravinderpal Vaid (United States)
--   Dominic Walden (United Kingdom)
 -   Tore Wentzel-Larsen (Norway)
 -   Kurt Whittemore (United States)
 -   Daniel Wollschläger (Germany)
 -   kai wu (China)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
+-   Direction départementale des finances publiques des Yvelines, Versailles (France)
 -   Estonian Genome Center, Tartu (Estonia)
 -   Google Inc., Mountain View (United States)
 -   Merck Research Laboratories, Kenilwort (United States)
@@ -160,7 +158,6 @@ Supporting Benefactors
 -   b-data GmbH, Zürich (Switzerland)
 -   Brigham Young University, Provo (United States)
 -   Kansai University, Fac of Commerce, Suita (Japan)
--   Mirai Solutions GmbH, Zürich (Switzerland)
 
 Supporting Institutions
 -----------
@@ -176,7 +173,6 @@ Supporting Members
 -----------
 
 
--   Douglas Adamoski (Brazil)
 -   Ayala S. Allon (Israel)
 -   Tim Appelhans (Germany)
 -   Joaquín Baquer-Miravete (Spain)
@@ -190,7 +186,6 @@ Supporting Members
 -   Jiddu Broersma (Netherlands)
 -   Lee Bu Il (Korea, Republic of)
 -   Daniel Callahan (United States)
--   Michael Cantrall (United States)
 -   Robin Crockett (United Kingdom)
 -   Robert Daly (Australia)
 -   Jorge de la Vega G (Mexico)
@@ -201,7 +196,9 @@ Supporting Members
 -   Shaban Demirel (United States)
 -   Michael Dorman (Israel)
 -   Lukman Edwindra (Indonesia)
+-   Gerrit Eichner (Germany)
 -   Johan Eklund (Sweden)
+-   Martin Elff (Germany)
 -   Arturo Erdely (Mexico)
 -   Michael Feyder (United States)
 -   Samuel Frame (Canada)
@@ -210,7 +207,6 @@ Supporting Members
 -   Jan Marvin Garbuszus (Germany)
 -   J. Antonio García (Mexico)
 -   J. Antonio  García Ramírez (Mexico)
--   Susan Gruber (United States)
 -   Krushi Gurudu (United States)
 -   Karl Habermeier (United States)
 -   Hlynur Hallgrímsson (Iceland)
@@ -281,9 +277,7 @@ Supporting Members
 -   Uku Vainik (Estonia)
 -   Frans van Dunné (Costa Rica)
 -   Jaime Vera (Colombia)
--   Pari Viswanathan (India)
 -   Marcus Vollmer (Germany)
--   Chatchavan Wacharamanotham (Switzerland)
 -   Jaap Walhout (Netherlands)
 -   Earo Wang (Australia)
 -   Sandra Ware (Australia)
@@ -296,4 +290,4 @@ Supporting Members
 
 
 
-Last update: 2019-02-01
+Last update: 2019-02-27
