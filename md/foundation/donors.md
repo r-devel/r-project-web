@@ -185,7 +185,6 @@ Supporting Members
 -   Daniel Booth (Australia)
 -   Petr Bouchal (Czech Republic)
 -   Florian Brezina (Germany)
--   Jiddu Broersma (Netherlands)
 -   Lee Bu Il (Korea, Republic of)
 -   Daniel Callahan (United States)
 -   Gerard Conaghan (United Kingdom)
@@ -221,7 +220,6 @@ Supporting Members
 -   Ken Ikeda (Japan)
 -   Larry Jamner (United States)
 -   Knut Helge Jensen (Norway)
--   Landon Jensen (United States)
 -   Woojune Jung (Korea, Republic of)
 -   Stephen Kaluzny (United States)
 -   Jonathan Keane (United States)
@@ -240,7 +238,6 @@ Supporting Members
 -   Bryan Lewis (United States)
 -   Chin Soon Lim (Singapore)
 -   Michael Mahoney (United States)
--   Fabio Marroni (Italy)
 -   Daniel McNichol (United States)
 -   Diego Mercadal (United States)
 -   Hans Mielke (Germany)
@@ -258,7 +255,6 @@ Supporting Members
 -   Gopal Peddinti (Finland)
 -   Peter Perez (United States)
 -   Elgin Perry (United States)
--   Casper Petersen (Denmark)
 -   Que Binh PHUNG (France)
 -   Emma Rand (United Kingdom)
 -   MA READER  (United Kingdom)
@@ -286,6 +282,7 @@ Supporting Members
 -   Jaap Walhout (Netherlands)
 -   Earo Wang (Australia)
 -   Sandra Ware (Australia)
+-   Roger Watson (United Kingdom)
 -   Brandon Weinberg (United States)
 -   Klaus  Wiese (Honduras)
 -   Nan Xiao (United States)
@@ -296,4 +293,4 @@ Supporting Members
 
 
 
-Last update: 2019-03-01
+Last update: 2019-03-05
