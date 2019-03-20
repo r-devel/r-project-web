@@ -9,7 +9,8 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
-
+-   [**R version 3.6.0 (Planting of a Tree) prerelease versions**](https://cran.r-project.org/src/base-prerelease) will appear starting Tuesday 2019-03-26. Final release is scheduled for Friday 2019-04-26. 
+ 
 - useR! 2020 will take place in St. Louis, Missouri, USA.
 
 -   [**R version 3.5.3 (Great Truth)**](https://cran.r-project.org/src/base/R-3)
