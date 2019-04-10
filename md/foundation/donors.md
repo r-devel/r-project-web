@@ -175,7 +175,6 @@ Supporting Members
 -----------
 
 
--   Ayala S. Allon (Israel)
 -   Tim Appelhans (Germany)
 -   Joaquín Baquer-Miravete (Spain)
 -   Marcel Baumgartner (Switzerland)
@@ -190,7 +189,6 @@ Supporting Members
 -   Gerard Conaghan (United Kingdom)
 -   Robin Crockett (United Kingdom)
 -   Robert Daly (Australia)
--   Jorge de la Vega G (Mexico)
 -   Steph de Silva (Australia)
 -   [Ajit de Silva (United States)](https://www.linkedin.com/groups/77616)
 -   Ajit  de Silva  (United States)
@@ -207,14 +205,12 @@ Supporting Members
 -   Naohiro Furutani (Japan)
 -   Jan Galkowski (United States)
 -   Jan Marvin Garbuszus (Germany)
--   J. Antonio García (Mexico)
 -   J. Antonio  García Ramírez (Mexico)
 -   Krushi Gurudu (United States)
 -   Karl Habermeier (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   Joe Harwood (United Kingdom)
 -   Bela Hausmann (Austria)
--   Eugene Horber (Switzerland)
 -   Joshua Hruzik (Germany)
 -   Abner Huertas (Guatemala)
 -   Ken Ikeda (Japan)
@@ -226,7 +222,6 @@ Supporting Members
 -   Yeonjong Kim (Korea, Republic of)
 -   JUNE KEE KIM (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
--   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
 -   Jan Herman Kuiper (United Kingdom)
 -   HOONJEONG KWON (Korea, Republic of)
@@ -240,7 +235,6 @@ Supporting Members
 -   Michael Mahoney (United States)
 -   Daniel McNichol (United States)
 -   Diego Mercadal (United States)
--   Hans Mielke (Germany)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
 -   Vialaneix Nathalie (France)
@@ -250,7 +244,6 @@ Supporting Members
 -   Dan Orsholits (Switzerland)
 -   Mucio Osorio (Mexico)
 -   Floris Padt (Netherlands)
--   Alfredo Páez Jiménez (Spain)
 -   Stavros Panidis (Greece)
 -   Gopal Peddinti (Finland)
 -   Peter Perez (United States)
@@ -274,7 +267,6 @@ Supporting Members
 -   Eduard Szöcs (Germany)
 -   András Tajti (Hungary)
 -   Koray Tascilar (Germany)
--   Marius Teodosiu (Romania)
 -   Uku Vainik (Estonia)
 -   Frans van Dunné (Costa Rica)
 -   Jaime Vera (Colombia)
@@ -293,4 +285,4 @@ Supporting Members
 
 
 
-Last update: 2019-03-05
+Last update: 2019-04-10
