@@ -44,8 +44,8 @@ If your problem is definitely a bug - either because it falls into one of the bu
 
 Depending on the problem, you might need to submit bug reports in different places. The first step is to see which package the function with a bug comes from. The R Core team only maintains the core language and the R packages
 labelled with `Maintainer: R Core Team <R-core@r-project.org>`. You can see
-this label by running e.g. `maintainer("graphics")` in R.
- * NB: Do **not** send e-mail to R-core about bugs etc !!
+this label by running e.g. `maintainer("graphics")` in R.  
+NOTE however: Do **not** send e-mail to R-core about bugs etc !!
 
 If your bug is in `somePkg` and that is not maintained by the R Core team, you should submit your report to the package maintainer. Running `bug.report(package = "somePkg")`
 directs you to the right place,
