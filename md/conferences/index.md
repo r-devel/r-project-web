@@ -119,6 +119,7 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 Endorsement of other conferences is a new initiative intended to encourage the development of useR!-like meetings in regions beyond the reach of useR!, where the local R community is not so well-established. These meetings may have official languages other than English.
 
+* [R@IIRSA](https://r-iisa2019.rbind.io/) [English] December, 2019, Mumbai, India.
 * [ConectaR](https://www.conectar2019.org) [Spanish] January, 2019, San José, Costa Rica.
 * [LatinR](http://47jaiio.sadio.org.ar/index.php?q=node/125) [Spanish/Portuguese/English] September 2018, Buenos Aires, Argentina.
 * [R Day](http://rday.leg.ufpr.br/) [Portuguese] May 2018, Curitiba, Brazil.
