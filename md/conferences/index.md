@@ -37,44 +37,44 @@ Usually, no proceedings are published for useR! conferences.
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
 
-* [useR! 2019](http://www.user2019.fr/), Toulouse, France.
+* [useR! 2019](https://user2019.r-project.org/), Toulouse, France.
 
-* [useR! 2018](https://user2018.R-project.org/), Brisbane, Australia.
+* [useR! 2018](https://user2018.r-project.org/), Brisbane, Australia.
 
-* [useR! 2017](https://user2017.brussels/), Brussels, Belgium.
+* [useR! 2017](https://user2017.r-project.org/), Brussels, Belgium.
 
-* [useR! 2016](https://www.r-project.org/useR-2016/), Stanford, CA, USA.
+* [useR! 2016](https://user2016.r-project.org/), Stanford, CA, USA.
 
-* [useR! 2015](https://www.r-project.org/useR-2015/), Aalborg, Denmark.
+* [useR! 2015](https://user2015.r-project.org/), Aalborg, Denmark.
 
-* [useR! 2014](https://www.r-project.org/useR-2014/), Los Angeles, CA, USA.
+* [useR! 2014](https://user2014.r-project.org/), Los Angeles, CA, USA.
   ([local copy](https://www.r-project.org/conferences/useR-2014)).
 
-* [useR! 2013](https://www.r-project.org/useR-2013/), Albacete, Spain
+* [useR! 2013](https://user2013.r-project.org/), Albacete, Spain
   ([local copy](https://www.r-project.org/conferences/useR-2013)).
 
-* [useR! 2012](http://biostat.mc.vanderbilt.edu/UseR-2012), Nashville, TN, USA
+* [useR! 2012](https://user2012.r-project.org/), Nashville, TN, USA
   ([local copy](https://www.r-project.org/conferences/useR-2012)).
 
-* [useR! 2011](http://www.warwick.ac.uk/statsdept/useR-2011/), Coventry, UK
+* [useR! 2011](https://user2011.r-project.org/), Coventry, UK
   ([local copy](https://www.r-project.org/conferences/useR-2011)).
 
-* [useR! 2010](https://www.r-project.org/conferences/useR-2010), Gaithersburg, MD, USA.
+* [useR! 2010](https://user2010.r-project.org/), Gaithersburg, MD, USA.
   ([local copy](https://www.r-project.org/conferences/useR-2010)).
 
-* [useR! 2009](http://math.agrocampus-ouest.fr/infoglueDeliverLive/evenements/useR2009),
+* [useR! 2009](https://user2009.r-project.org/),
   Rennes, France ([local copy](https://www.r-project.org/conferences/useR-2009)).
 
-* [useR! 2008](https://www.r-project.org/useR-2008/), Dortmund, Germany
+* [useR! 2008](https://user2008.r-project.org/), Dortmund, Germany
   ([local copy](https://www.r-project.org/conferences/useR-2008)).
 
-* [useR! 2007](http://user2007.org/), Ames, IA, USA
+* [useR! 2007](https://user2007.r-project.org/), Ames, IA, USA
   ([local copy](https://www.r-project.org/conferences/useR-2007)).
 
-* [useR! 2006](https://www.r-project.org/useR-2006/), Vienna, Austria
+* [useR! 2006](https://user2006.r-project.org/), Vienna, Austria
   ([local copy](https://www.r-project.org/conferences/useR-2006)).
 
-* [useR! 2004](http://www.ci.tuwien.ac.at/Conferences/useR-2004), Vienna, Austria
+* [useR! 2004](https://user2004.r-project.org/), Vienna, Austria
   ([local copy](https://www.r-project.org/conferences/useR-2004)).
 
 ## DSC --- Directions in Statistical Computing
