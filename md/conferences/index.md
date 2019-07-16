@@ -30,7 +30,7 @@ The R Foundation has a policy requiring [codes of conduct at R conferences](/beh
 This is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
 
 -   The invited keynote lectures cover a broad spectrum of topics ranging from technical and R-related computing issues to general statistical topics of current interest.
--   The user-contributed presentations are submitted as abstracts prior to the conference and may be related to (virtually) any R-related topic. The presentations are typically organized in sessions of either broad or special interest, which also comprise a "free" discussion format. Such a discussion format not only provides a forum for software demonstrations and detailed discussions but also supports the self-organization of the respective communities.
+-   The user-contributed presentations are submitted as abstracts prior to the conference and may be related to (virtually) any R-related topic. The presentations are typically organized in sessions of regular talks, lightning talks, and poster presentations.
 -   The RFCC actively invites potential local organisers to submit proposals regarding future useR! conferences. Groups thinking about hosting a useR! conference are welcome to contact the RFCC by email at <R-conferences@r-project.org>.
 
 Usually, no proceedings are published for useR! conferences.
