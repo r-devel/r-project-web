@@ -19,7 +19,7 @@ The R Foundation is also endorsing a small number of conferences in under-suppor
 Conference-related activities are co-ordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of
 [Julie Josse (Ecole Polytechnique)](http://juliejosse.com/), [Heather Turner](http://www.heatherturner.net/) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
 
-The R Foundation has a policy requiring [codes of conduct at R conferences](/behaviour.html).
+The R Foundation has a policy requiring [codes of conduct at R conferences](/coc-policy.html).
 
 ------------
 
