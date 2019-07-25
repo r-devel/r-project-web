@@ -40,12 +40,16 @@ Usually, no proceedings are published for useR! conferences.
 * [useR! 2019](https://user2019.r-project.org/), Toulouse, France.
 
 * [useR! 2018](https://user2018.r-project.org/), Brisbane, Australia.
+  ([local copy](https://www.r-project.org/conferences/useR-2018)).
 
 * [useR! 2017](https://user2017.r-project.org/), Brussels, Belgium.
+  ([local copy](https://www.r-project.org/conferences/useR-2017)).
 
 * [useR! 2016](https://user2016.r-project.org/), Stanford, CA, USA.
+  ([local copy](https://www.r-project.org/conferences/useR-2016)).
 
 * [useR! 2015](https://user2015.r-project.org/), Aalborg, Denmark.
+  ([local copy](https://www.r-project.org/conferences/useR-2015)).
 
 * [useR! 2014](https://user2014.r-project.org/), Los Angeles, CA, USA.
   ([local copy](https://www.r-project.org/conferences/useR-2014)).
