@@ -2,11 +2,6 @@
 title: Conferences
 ---
 
-<!--
-**News**: [call for proposals](https://www.r-project.org/useR-2020_call.html)
-to host useR! 2020 in North America.
--->
-
 The R Foundation actively supports two conference series, organized regularly by members from the R community:
 
 * useR!, providing a forum to the R user community.
@@ -26,6 +21,10 @@ The R Foundation has a policy requiring [codes of conduct at R conferences](/coc
 ## useR! --- International R User Conference
 
 ![useR logo](useR.png)\
+
+<b>useR! 2020</b> will be held in St. Louis, Missouri from July 7 to July 10 at 
+the Marriott St. Louis Grand. 
+Follow <a href="https://twitter.com/useR2020stl">@useR2020stl</a> for further news.
 
 This is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
 
