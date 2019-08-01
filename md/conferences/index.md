@@ -22,9 +22,9 @@ The R Foundation has a policy requiring [codes of conduct at R conferences](/coc
 
 ![useR logo](useR.png)\
 
-<b>useR! 2020</b> will be held in St. Louis, Missouri from July 7 to July 10 at 
+**useR! 2020** will be held in St. Louis, Missouri from July 7 to July 10 at 
 the Marriott St. Louis Grand. 
-Follow <a href="https://twitter.com/useR2020stl">@useR2020stl</a> for further news.
+Follow ['@useR2020stl'](https://twitter.com/useR2020stl) for further news.
 
 This is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
 
