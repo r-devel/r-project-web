@@ -28,11 +28,11 @@ Donors (after March 2017)
 
 
 -   Pedro Albuquerque (France)
+-   [ilustat (Portugal)](https://ilustat.com)
 -   Robert Baskin (United States)
 -   David Baumann (Canada)
 -   Jacopo Cerri (Italy)
 -   André Costa Oliveira (Brazil)
--   Cesar Escalante_Coterio (Colombia)
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
 -   Michael Forster (Austria)
@@ -55,10 +55,10 @@ Donors (after March 2017)
 -   Steffen Moritz (Germany)
 -   Bill Pikounis (United States)
 -   Konstantinos Pitsakis (United Kingdom)
+-   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
 -   Pratham Singh (India)
 -   Ravinderpal Vaid (United States)
--   Tore Wentzel-Larsen (Norway)
 -   Kurt Whittemore (United States)
 -   Daniel Wollschläger (Germany)
 -   kai wu (China)
@@ -161,6 +161,7 @@ Supporting Benefactors
 -   Jay Raol (United States)
 -   b-data GmbH, Zürich (Switzerland)
 -   INWT Statistics GmbH, Bezirk Tempelhof-Schöneberg (Germany)
+-   Mirai Solutions GmbH, Zürich (Switzerland)
 
 Supporting Institutions
 -----------
@@ -168,7 +169,7 @@ Supporting Institutions
 
 -   Ef-prime, Inc., Tokyo (Japan)
 -   General Counsel Metrics, LLC, PRINCETON (United States)
--   Inference Technologies, Praha  (Czech Republic)
+-   Inference Technologies, Praha  (Czechia)
 -   Marine Scotland, Aberdeen CityAberdeen (United Kingdom)
 -   University of Iowa, Iowa City (United States)
 -   vizGet, Autrans (France)
@@ -181,11 +182,10 @@ Supporting Members
 -   Joaquín Baquer-Miravete (Spain)
 -   Marcel Baumgartner (Switzerland)
 -   Ashanka Beligaswatte (Australia)
--   Justin Bem (Gabon)
+-   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
--   Riccardo Bonfichi (Italy)
 -   Daniel Booth (Australia)
--   Petr Bouchal (Czech Republic)
+-   Petr Bouchal (Czechia)
 -   Florian Brezina (Germany)
 -   Lee Bu Il (Korea, Republic of)
 -   Daniel Callahan (United States)
@@ -205,6 +205,7 @@ Supporting Members
 -   Gerrit Eichner (Germany)
 -   Johan Eklund (Sweden)
 -   Martin Elff (Germany)
+-   Mitch Eppley (United States)
 -   Arturo Erdely (Mexico)
 -   Michael Feyder (United States)
 -   Spyridon Fortis (United States)
@@ -306,4 +307,4 @@ Supporting Members
 
 
 
-Last update: 2019-07-15
+Last update: 2019-08-07
