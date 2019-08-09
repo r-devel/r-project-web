@@ -46,6 +46,8 @@ Donors (after March 2017)
 -   [Dreamz Inc. (Sweden)](https://dreamz.com/sv/)
 -   Gen KOBAYASHI (Japan)
 -   Oleg V Kolesnikov (Ukraine)
+-   [Dotcom-Monitor (United States)](https://www.dotcom-monitor.com/)
+-   [Loadview-Testing (United States)](https://www.loadview-testing.com/)
 -   Ann-Sophie Lehnert (Germany)
 -   Michael Litts (United States)
 -   Zixing Liu (Canada)
@@ -158,9 +160,9 @@ Supporting Benefactors
 -----------
 
 
+-   [INWT Statistics GmbH (Germany)](https://www.inwt-statistics.com/)
 -   Jay Raol (United States)
 -   b-data GmbH, Zürich (Switzerland)
--   INWT Statistics GmbH, Bezirk Tempelhof-Schöneberg (Germany)
 -   Mirai Solutions GmbH, Zürich (Switzerland)
 
 Supporting Institutions
@@ -292,6 +294,7 @@ Supporting Members
 -   Koray Tascilar (Germany)
 -   Uku Vainik (Estonia)
 -   Robert van den Berg (Austria)
+-   Mark van der Loo (Netherlands)
 -   Frans van Dunné (Costa Rica)
 -   Jaime Vera (Colombia)
 -   Marcus Vollmer (Germany)
@@ -307,4 +310,4 @@ Supporting Members
 
 
 
-Last update: 2019-08-07
+Last update: 2019-08-09
