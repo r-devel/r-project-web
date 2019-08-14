@@ -28,6 +28,7 @@ Donors (after March 2017)
 
 
 -   Pedro Albuquerque (France)
+-   [Brian Altstatt (United States)](https://webhostingbuddy.com)
 -   [ilustat (Portugal)](https://ilustat.com)
 -   Robert Baskin (United States)
 -   David Baumann (Canada)
@@ -55,6 +56,9 @@ Donors (after March 2017)
 -   Scott Marchese (United States)
 -   Steven McKinney (Canada)
 -   Steffen Moritz (Germany)
+-   [Security Guard Training Central (United States)](https://www.securityguardtrainingcentral.com)
+-   [Driven Coffee Roasters (United States)](https://www.drivencoffee.com)
+-   [WebHostingProf (United States)](https://webhostingprof.com)
 -   Bill Pikounis (United States)
 -   Konstantinos Pitsakis (United Kingdom)
 -   Nickalus Redell (United States)
@@ -169,7 +173,6 @@ Supporting Institutions
 -----------
 
 
--   Ef-prime, Inc., Tokyo (Japan)
 -   General Counsel Metrics, LLC, PRINCETON (United States)
 -   Inference Technologies, Praha  (Czechia)
 -   Marine Scotland, Aberdeen CityAberdeen (United Kingdom)
@@ -310,4 +313,4 @@ Supporting Members
 
 
 
-Last update: 2019-08-09
+Last update: 2019-08-14
