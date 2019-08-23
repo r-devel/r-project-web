@@ -28,7 +28,7 @@ Donors (after March 2017)
 
 
 -   Pedro Albuquerque (France)
--   [Brian Altstatt (United States)](https://webhostingbuddy.com)
+-   [Web Hosting Buddy (United States)](https://webhostingbuddy.com)
 -   [ilustat (Portugal)](https://ilustat.com)
 -   Robert Baskin (United States)
 -   David Baumann (Canada)
@@ -232,7 +232,6 @@ Supporting Members
 -   Knut Helge Jensen (Norway)
 -   Woojune Jung (Korea, Republic of)
 -   Christian Kampichler (Netherlands)
--   Jonathan Keane (United States)
 -   Curtis Kephart (United States)
 -   Yeonjong Kim (Korea, Republic of)
 -   JUNE KEE KIM (Korea, Republic of)
@@ -313,4 +312,4 @@ Supporting Members
 
 
 
-Last update: 2019-08-14
+Last update: 2019-08-23
