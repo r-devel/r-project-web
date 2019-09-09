@@ -8,6 +8,8 @@ __Secretary General:__ [Martin Mächler](http://stat.ethz.ch/people/maechler)
 
 __Treasurer:__ [Torsten Hothorn](http://user.math.uzh.ch/hothorn/)
 
+__RF Representative in R Consortium:__ [Michael Lawrence](mailto:lawrence@r-project.org)
+
 __Members at Large:__
 
 * [John Chambers](http://statweb.stanford.edu/~jmc4/)
