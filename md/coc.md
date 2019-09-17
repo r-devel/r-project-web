@@ -2,7 +2,7 @@
 title: "Code of Conduct for R Conferences"
 ---
 
-This is the standard code of conduct referred to in the [Code of Conduct Policy](coc_policy.html).
+This is the standard code of conduct referred to in the [Code of Conduct Policy](coc-policy.html).
 
 Organizers should replace the placeholders (marked by square brackets) with relevant details for 
 their conference.
