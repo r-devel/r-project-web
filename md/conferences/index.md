@@ -2,6 +2,8 @@
 title: Conferences
 ---
 
+**News**: [call for proposals](/useR-2021_call.html) to host useR! 2021.
+
 The R Foundation actively supports two conference series, organized regularly by members from the R community:
 
 * useR!, providing a forum to the R user community.
@@ -26,7 +28,9 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 the Marriott St. Louis Grand. 
 Follow ['@useR2020stl'](https://twitter.com/useR2020stl) for further news.
 
-This is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
+The [call for proposals](/useR-2021_call.html) to host useR! 2021 is now open, the deadline is **Friday 01 November 2019**.
+
+useR! is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
 
 -   The invited keynote lectures cover a broad spectrum of topics ranging from technical and R-related computing issues to general statistical topics of current interest.
 -   The user-contributed presentations are submitted as abstracts prior to the conference and may be related to (virtually) any R-related topic. The presentations are typically organized in sessions of regular talks, lightning talks, and poster presentations.
