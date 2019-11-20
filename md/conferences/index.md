@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: [call for proposals](/useR-2021_call.html) to host useR! 2021.
+**News**: [call for proposals](/useR-2021_call.html) to host useR! 2021 (deadline now passed).
 
 The R Foundation actively supports two conference series, organized regularly by members from the R community:
 
@@ -24,11 +24,13 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-**useR! 2020** will be held in St. Louis, Missouri from July 7 to July 10 at 
-the Marriott St. Louis Grand. 
-Follow ['@useR2020stl'](https://twitter.com/useR2020stl) for further news.
+[useR! 2020](https://user2020.r-project.org/) will be held in St. Louis, Missouri from 
+July 7 to July 10 at the Marriott St. Louis Grand. 
+Follow ['@useR2020stl'](https://twitter.com/useR2020stl) on Twitter for further news.
 
-The [call for proposals](/useR-2021_call.html) to host useR! 2021 is now open, the deadline is **Friday 01 November 2019**.
+The [call for proposals](/useR-2021_call.html) to host useR! 2021 is now closed. For updates, follow 
+['@_R_Foundation'](https://twitter.com/_r_foundation) on Twitter. Announcements are also made on 
+the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
 
 useR! is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
 
@@ -40,7 +42,10 @@ Usually, no proceedings are published for useR! conferences.
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
 
+* [useR! 2020](https://user2020.r-project.org/), St Louis, MO, USA.
+
 * [useR! 2019](https://user2019.r-project.org/), Toulouse, France.
+  ([local copy](https://www.r-project.org/conferences/useR-2019)).
 
 * [useR! 2018](https://user2018.r-project.org/), Brisbane, Australia.
   ([local copy](https://www.r-project.org/conferences/useR-2018)).
