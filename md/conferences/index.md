@@ -11,7 +11,7 @@ The R Foundation actively supports two conference series, organized regularly by
 
 A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation).
 
-The R Foundation is also endorsing a small number of conferences in under-supported regions to encourage the development of the local R community, particularly in academic and scientific research. Endorsed events are listed below.
+The R Foundation also [endorses a small number of conferences](#other-conferences-endorsed-by-the-r-foundation) for special events or to encourage the development of the local R community in under-supported regions.
 
 Conference-related activities are co-ordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of
 [Julie Josse (Ecole Polytechnique)](http://juliejosse.com/), [Heather Turner](http://www.heatherturner.net/) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
@@ -36,7 +36,7 @@ useR! is the main meeting of the R user and developer community, its program con
 
 -   The invited keynote lectures cover a broad spectrum of topics ranging from technical and R-related computing issues to general statistical topics of current interest.
 -   The user-contributed presentations are submitted as abstracts prior to the conference and may be related to (virtually) any R-related topic. The presentations are typically organized in sessions of regular talks, lightning talks, and poster presentations.
--   The RFCC actively invites potential local organisers to submit proposals regarding future useR! conferences. Groups thinking about hosting a useR! conference are welcome to contact the RFCC by email at <R-conferences@r-project.org>.
+-   The RFCC welcomes expressions of interest from potential local organisers. Groups thinking about hosting a useR! conference are welcome to contact the RFCC by email at <R-conferences@r-project.org>.
 
 Usually, no proceedings are published for useR! conferences.
 
@@ -95,9 +95,11 @@ Usually, no proceedings are published for useR! conferences.
 
 DSC is a conference for the developers of statistical software and researchers in statistical computing which is somewhat focused on but not exclusively devoted to R. It aims at providing a platform for exchanging ideas about developments in statistical computing (rather than \`only' the usage of statistical software for applications).
 
-DSC has had two different incarnations. The first was a biennial conference series from 1999 to 2009 with open registration, an open call for papers and peer-reviewed conference proceedings. After a 5 year hiatus, DSC resumed in 2014 as an annual conference coinciding with the General Assembly of the R Foundation. In its current form, participation in DSC is by invitation only.
+DSC has had two different incarnations. The first was a biennial conference series from 1999 to 2009 with open registration, an open call for papers and peer-reviewed conference proceedings. After a 5 year hiatus, DSC resumed in 2014 as an annual conference coinciding with the General Assembly of the R Foundation. For 2020, speakers will be invited, but there will be open registration.
 
-* DSC 2019, Stanford, CA, USA
+* DSC 2020, St Louis, MO, USA.
+
+* DSC 2019, Stanford, CA, USA.
 
 * DSC 2018, Stanford, CA, USA.
 
@@ -133,7 +135,13 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 ##  Other Conferences Endorsed by The R Foundation
 
-Endorsement of other conferences is a new initiative intended to encourage the development of useR!-like meetings in regions beyond the reach of useR!, where the local R community is not so well-established. These meetings may have official languages other than English.
+### Special Events
+
+* [celebRation](http://www.celebration2020.org/) 28-29 February 2020, Copenhagen, Denmark. A two-day celebration of workshops and invited talks to mark the 20th anniversary of the release of R version 1.0.0.
+
+### Events in under-supported regions
+
+Selected conferences are endorsed by the R Foundation to encourage the development of useR!-like meetings in regions currently beyond the reach of useR!. The aim is to strengthen the local useR community, particularly in academic and scientific research. These meetings may have official languages other than English.
 
 * [R@IIRSA](https://r-iisa2019.rbind.io/) [English] December, 2019, Mumbai, India.
 * [ConectaR](https://www.conectar2019.org) [Spanish] January, 2019, San José, Costa Rica.
