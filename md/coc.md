@@ -30,9 +30,9 @@ safe environment for all.
 
 All conference participants agree to:
 
-- Be considerate in speech and actions, and respect the boundaries of fellow participants.
+- Be considerate in language and actions, and respect the boundaries of fellow participants.
 - Refrain from demeaning, discriminatory, or harassing behaviour and 
-speech.  Please refer to [Unacceptable Behaviour](#unacceptable-behaviour) for more details. 
+language.  Please refer to [Unacceptable Behaviour](#unacceptable-behaviour) for more details. 
 - Alert a member of the code of conduct response team [reference to 
 further details] if you notice someone in distress, or observe violations 
 of this code of conduct, even if they seem inconsequential. Please refer to the section titled [What To Do If You Witness or Are Subject To Unacceptable Behaviour](#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour) for more details. 
@@ -46,7 +46,7 @@ Behaviour that is unacceptable includes, but is not limited to:
  - Unwanted photography or recording
  - Sustained or willful disruption of talks or other events
  - Use of sexual or discriminatory imagery, comments, or jokes
- - Offensive verbal comments related to age, gender, 
+ - Offensive comments related to age, gender, 
  sexual orientation, disability, race or religion
  - Inappropriate physical contact, which can include grabbing, or massaging 
  or hugging without consent.
