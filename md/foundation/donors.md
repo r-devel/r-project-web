@@ -27,8 +27,8 @@ Donors (after March 2017)
 -----------
 
 
+-   [igjit _ (Japan)](https://twitter.com/igjit)
 -   Pedro Albuquerque (France)
--   [Web Hosting Buddy (United States)](https://webhostingbuddy.com)
 -   [ilustat (Portugal)](https://ilustat.com)
 -   Robert Baskin (United States)
 -   David Baumann (Canada)
@@ -53,6 +53,7 @@ Donors (after March 2017)
 -   [Søren Lophaven (Denmark)](http://www.omicron.dk)
 -   J. BRIAN LORIA (United States)
 -   Scott Marchese (United States)
+-   [Heramb Modak (India)](https://in.linkedin.com/in/heramb-modak-759a686a)
 -   Steffen Moritz (Germany)
 -   Nikola Motik (Croatia)
 -   [Security Guard Training Central (United States)](https://www.securityguardtrainingcentral.com)
@@ -171,6 +172,7 @@ Supporting Institutions
 
 
 -   Fumihiko Makiyama (Japan)
+-   Code Ocean, Jenkintown (United States)
 -   General Counsel Metrics, LLC, PRINCETON (United States)
 -   Marine Scotland, Aberdeen CityAberdeen (United Kingdom)
 -   University of Iowa, Iowa City (United States)
@@ -192,6 +194,7 @@ Supporting Members
 -   Petr Bouchal (Czechia)
 -   Florian Brezina (Germany)
 -   Shannon Callan (United States)
+-   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
 -   Robert Carnell (United States)
 -   Henry Carstens (United States)
@@ -216,6 +219,7 @@ Supporting Members
 -   Spyridon Fortis (United States)
 -   Keita Fukasawa (Japan)
 -   Naohiro Furutani (Japan)
+-   Laura Gabrysiak (United States)
 -   Jan Marvin Garbuszus (Germany)
 -   J. Antonio  García Ramírez (Mexico)
 -   Krushi Gurudu (United States)
@@ -229,7 +233,6 @@ Supporting Members
 -   Ken Ikeda (Japan)
 -   Larry Jamner (United States)
 -   Knut Helge Jensen (Norway)
--   Woojune Jung (Korea, Republic of)
 -   Christian Kampichler (Netherlands)
 -   Curtis Kephart (United States)
 -   Gavin Kirby (United Kingdom)
@@ -242,8 +245,8 @@ Supporting Members
 -   HOONJEONG KWON (Korea, Republic of)
 -   Luca La Rocca (Italy)
 -   Adrien Le Guillou (France)
--   Yannick LELU (France)
 -   Mauro Lepore (United States)
+-   Thomas Levine (United States)
 -   Chin Soon Lim (Singapore)
 -   Sharon Machlis (United States)
 -   Michael Mahoney (United States)
@@ -254,7 +257,6 @@ Supporting Members
 -   David Monterde (Spain)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
--   Mark Niemann-Ross (United States)
 -   Jens Oehlschlägel (Germany)
 -   Berk Orbay (Turkey)
 -   Dan Orsholits (Switzerland)
@@ -265,7 +267,6 @@ Supporting Members
 -   Peter Perez (United States)
 -   Elgin Perry (United States)
 -   Que Binh PHUNG (France)
--   Emma Rand (United Kingdom)
 -   Fergus  Reig Gracia (Spain)
 -   Kun Ren (China)
 -   Stefano Rezzonico (Canada)
@@ -276,10 +277,8 @@ Supporting Members
 -   Henrik Schirmer (Norway)
 -   Pieta Schofield (United Kingdom)
 -   Robert Selden (United States)
--   Sarah Shakil (Canada)
 -   Justin Shea (United States)
 -   Jagat Sheth (United States)
--   Kevin Shook (Canada)
 -   Rachel Smith-Hunter (United States)
 -   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
@@ -305,4 +304,4 @@ Supporting Members
 
 
 
-Last update: 2019-11-25
+Last update: 2019-12-20
