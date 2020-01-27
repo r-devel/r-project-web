@@ -53,6 +53,7 @@ Donors (after March 2017)
 -   Zixing Liu (Canada)
 -   Francesco Maria Lo Russo (Italy)
 -   [Søren Lophaven (Denmark)](www.omicron.dk)
+-   J BRIAN LORIA (United States)
 -   J. BRIAN LORIA (United States)
 -   Scott Marchese (United States)
 -   [Heramb Modak (India)](https://in.linkedin.com/in/heramb-modak-759a686a)
@@ -69,6 +70,7 @@ Donors (after March 2017)
 -   Julian Ricardo (United States)
 -   [Carlos Santoro (Brazil)](https://www.linkedin.com/in/carlos-santoro/)
 -   Ravinderpal Vaid (United States)
+-   Dr. Alfred Wagner (Germany)
 -   Kurt Whittemore (United States)
 -   Daniel Wollschläger (Germany)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
@@ -168,6 +170,7 @@ Supporting Benefactors
 
 
 -   [INWT Statistics GmbH (Germany)](https://www.inwt-statistics.com/)
+-   [Thomas Levine (United States)](https://thomaslevine.com/)
 -   b-data GmbH, Winterthur (Switzerland)
 -   Mirai Solutions GmbH, Zürich (Switzerland)
 
@@ -178,7 +181,6 @@ Supporting Institutions
 -   Fumihiko Makiyama (Japan)
 -   Code Ocean, Jenkintown (United States)
 -   General Counsel Metrics, LLC, PRINCETON (United States)
--   Marine Scotland, Aberdeen CityAberdeen (United Kingdom)
 -   University of Iowa, Iowa City (United States)
 -   vizGet, Autrans (France)
 
@@ -215,7 +217,6 @@ Supporting Members
 -   Shaban Demirel (United States)
 -   Michael Dorman (Israel)
 -   Andreas Eckner (United States)
--   Lukman Edwindra (Indonesia)
 -   Gerrit Eichner (Germany)
 -   Johan Eklund (Sweden)
 -   Martin Elff (Germany)
@@ -255,7 +256,6 @@ Supporting Members
 -   Luca La Rocca (Italy)
 -   Adrien Le Guillou (France)
 -   Mauro Lepore (United States)
--   Thomas Levine (United States)
 -   Chin Soon Lim (Singapore)
 -   Sharon Machlis (United States)
 -   Michael Mahoney (United States)
@@ -314,4 +314,4 @@ Supporting Members
 
 
 
-Last update: 2020-01-15
+Last update: 2020-01-27
