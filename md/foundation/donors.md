@@ -54,6 +54,7 @@ Donors (after March 2017)
 -   Francesco Maria Lo Russo (Italy)
 -   [Søren Lophaven (Denmark)](http://www.omicron.dk)
 -   J BRIAN LORIA (United States)
+-   J. BRIAN LORIA (United States)
 -   Scott Marchese (United States)
 -   [Heramb Modak (India)](https://in.linkedin.com/in/heramb-modak-759a686a)
 -   Steffen Moritz (Germany)
@@ -313,4 +314,4 @@ Supporting Members
 
 
 
-Last update: 2020-01-27
+Last update: 2020-01-30
