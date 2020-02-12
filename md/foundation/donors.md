@@ -28,12 +28,12 @@ Donors (after March 2017)
 
 
 -   [igjit _ (Japan)](https://twitter.com/igjit)
--   Pedro Albuquerque (France)
 -   [Web Hosting Buddy (United States)](https://webhostingbuddy.com)
 -   [ilustat (Portugal)](https://ilustat.com)
 -   David Baumann (Canada)
 -   Jacopo Cerri (Italy)
 -   Cédric Chambru (Switzerland)
+-   Amy Tzu-Yu Chen (United States)
 -   [Murat D (France)](http://wptheme.fr/theme-wordpress-divi/)
 -   David Feedman (United States)
 -   Michael Forster (Austria)
@@ -70,6 +70,7 @@ Donors (after March 2017)
 -   Nick Redell (United States)
 -   Julian Ricardo (United States)
 -   [Carlos Santoro (Brazil)](https://www.linkedin.com/in/carlos-santoro/)
+-   Peter Stilwell (United Kingdom)
 -   Kate Tuzov (Canada)
 -   Ravinderpal Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
@@ -192,12 +193,10 @@ Supporting Members
 -   Antoniade Ciprian Alexandru (Romania)
 -   Tim Appelhans (Germany)
 -   Srinivas B (India)
--   Marcel Baumgartner (Switzerland)
 -   Ashanka Beligaswatte (Australia)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
--   Daniel Booth (Australia)
 -   Petr Bouchal (Czechia)
 -   Shannon Callan (United States)
 -   Gilberto Camara (Brazil)
@@ -234,7 +233,6 @@ Supporting Members
 -   J. Antonio  García Ramírez (Mexico)
 -   Brian Gramberg (Netherlands)
 -   Krushi Gurudu (United States)
--   Karl Habermeier (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   Martin Haneferd (Norway)
 -   Joe Harwood (United Kingdom)
@@ -314,4 +312,4 @@ Supporting Members
 
 
 
-Last update: 2020-02-06
+Last update: 2020-02-12
