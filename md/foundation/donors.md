@@ -33,7 +33,7 @@ Donors (after March 2017)
 -   David Baumann (Canada)
 -   Jacopo Cerri (Italy)
 -   Cédric Chambru (Switzerland)
--   Amy Tzu-Yu Chen (United States)
+-   [Amy Tzu-Yu Chen (United States)](https://amy17519.me/)
 -   [Murat D (France)](http://wptheme.fr/theme-wordpress-divi/)
 -   David Feedman (United States)
 -   Michael Forster (Austria)
@@ -257,7 +257,6 @@ Supporting Members
 -   Mauro Lepore (United States)
 -   Chin Soon Lim (Singapore)
 -   Sharon Machlis (United States)
--   Michael Mahoney (United States)
 -   Michal Majka (Austria)
 -   Daniel McNichol (United States)
 -   Tore Christian Michaelsen (Norway)
@@ -312,4 +311,4 @@ Supporting Members
 
 
 
-Last update: 2020-02-12
+Last update: 2020-02-13
