@@ -117,7 +117,7 @@ DSC has had two different incarnations. The first was a biennial conference seri
 * [DSC 2007](http://www.stat.auckland.ac.nz/dsc-2007/), Auckland, New Zealand
   ([local copy](https://www.r-project.org/conferences/DSC-2007), proceedings have
   been published as issue
-  [24/2 of Computational Statistics](http://www.springerlink.com/content/0943-4062)).
+  [24/2 of Computational Statistics](https://link.springer.com/journal/180/24/2)).
 
 * DSC 2005, Seattle, USA
   ([local copy](https://www.r-project.org/conferences/DSC-2005)).
