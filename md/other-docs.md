@@ -18,7 +18,7 @@ In addition to the [manuals](http://cran.r-project.org/manuals.html), [FAQs](htt
 R guides and documentation not contained in the [contributed documentation](http://cran.r-project.org/other-docs.html) section of CRAN:
 
 -   Sigal Blay maintains a web page with [“Technical Notes on the R Programming Language”](http://www.sfu.ca/~sblay/R/).
--   Wei-Chen Chen maintains a web page with notes on [“The Exploration of Statistic Software R”](http://www.math.ncu.edu.tw/~chenwc/R_note/).
+-   Wei-Chen Chen maintains a web page with notes on [“The Exploration of Statistic Software R”](https://snoweye.github.io/R_note/).
 -   David Rossiter maintains a web page with several [R applications related to natural resources management](http://www.css.cornell.edu/faculty/dgr2/pubs/list.html#pubs_m_R).
 -   David Hiebeler maintains a tutorial [“Matlab/R Reference”](https://umaine.edu/mathematics/david-hiebeler/computing-software/matlab-r-reference/) in PDF with some Matlab functions.
 -   K. A. Garrett et al have written several papers on ["Ecology and epidemiology in the R programming environment"](https://www.apsnet.org/edcenter/disimpactmngmnt/topc/EcologyAndEpidemiologyInR/Pages/default.aspx) published as part of the [The Plant Health Instructor](http://www.apsnet.org/) (URL change on 2011-02-01).
