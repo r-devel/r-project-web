@@ -10,10 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
--   [**R version 3.6.3 (Holding the Windsock) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Wednesday 2020-02-19. Final release is scheduled for Saturday 2020-02-29. 
-
--   [**R version 3.6.2 (Dark and Stormy Night)**](https://cran.r-project.org/src/base/R-3)
-    has been released on 2019-12-12.
+-   [**R version 3.6.3 (Holding the Windsock)**](https://cran.r-project.org/src/base/R-3)
+    has been released on 2020-02-29.
 
 - useR! 2020 will take place in St. Louis, Missouri, USA.
 
