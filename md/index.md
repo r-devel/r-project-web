@@ -12,20 +12,15 @@ If you have questions about R like how to download and install the software, or 
 -   [**R version 4.0.0 (Arbor Day)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2020-04-24.
 
+- [useR! 2020 in Saint Louis has been cancelled](https://user2020.r-project.org/news/2020/04/17/stl-user2020-cancelled/). The European hub planned
+  in Munich will not be an in-person conference.  Both organizing committees
+  are working on the best course of action.
+
 -   [**R version 3.6.3 (Holding the Windsock)**](https://cran.r-project.org/src/base/R-3)
     has been released on 2020-02-29.
-
-- useR! 2020 will take place in St. Louis, Missouri, USA.
-
-- The R Foundation Conference Committee has released a
-  [call for proposals](https://www.r-project.org/useR-2020_call.html)
-  to host useR! 2020 in North America.
-
-- You can now support the R Foundation with a renewable subscription as a
+- You can support the R Foundation with a renewable subscription as a
   [supporting member](https://www.r-project.org/foundation/donations.html)
   
-- The R Foundation has been awarded the Personality/Organization of the year 2018 award by the professional association of German market and social researchers.
-    
 ## News via Twitter
 
 <a class="twitter-timeline"
