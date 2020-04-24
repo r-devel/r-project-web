@@ -9,7 +9,7 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
--   [**R version 4.0.0 (Arbor Day)**](https://cran.r-project.org/src/base/R-3)
+-   [**R version 4.0.0 (Arbor Day)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2020-04-24.
 
 -   [**R version 3.6.3 (Holding the Windsock)**](https://cran.r-project.org/src/base/R-3)
