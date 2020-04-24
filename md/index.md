@@ -17,9 +17,6 @@ If you have questions about R like how to download and install the software, or 
 
 - useR! 2020 will take place in St. Louis, Missouri, USA.
 
--   [**R version 3.5.3 (Great Truth)**](https://cran.r-project.org/src/base/R-3)
-    has been released on 2019-03-11.
-
 - The R Foundation Conference Committee has released a
   [call for proposals](https://www.r-project.org/useR-2020_call.html)
   to host useR! 2020 in North America.
