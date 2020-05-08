@@ -217,6 +217,7 @@ Supporting Members
 -   Johan Eklund (Sweden)
 -   Martin Elff (Germany)
 -   Mitch Eppley (United States)
+-   Guenter Faes (Germany)
 -   Shalese Fitzgerald (United States)
 -   Spyridon Fortis (United States)
 -   Neil Frazer (United States)
@@ -232,6 +233,7 @@ Supporting Members
 -   Joe Harwood (United Kingdom)
 -   Bela Hausmann (Austria)
 -   BaoGiang HoangVu (Vietnam)
+-   Morghan Jabusch (United States)
 -   Christian Kampichler (Netherlands)
 -   Curtis Kephart (United States)
 -   Jungjoon Kim (Korea, Republic of)
@@ -301,4 +303,4 @@ Supporting Members
 
 
 
-Last update: 2020-05-06
+Last update: 2020-05-08
