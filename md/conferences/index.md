@@ -24,9 +24,11 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-[useR! 2020](https://user2020.r-project.org/) will be held in St. Louis, Missouri from 
-July 7 to July 10 at the Marriott St. Louis Grand. 
-Follow ['@useR2020stl'](https://twitter.com/useR2020stl) on Twitter for further news.
+[useR! 2020](https://user2020.r-project.org/), which was to be held in
+St. Louis, Missouri from July 7 to July 10, will now take place
+entirely online.  Follow
+['@useR2020stl'](https://twitter.com/useR2020stl) on Twitter for
+further news.
 
 The [call for proposals](/useR-2021_call.html) to host useR! 2021 is now closed. For updates, follow 
 ['@_R_Foundation'](https://twitter.com/_r_foundation) on Twitter. Announcements are also made on 
