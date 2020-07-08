@@ -5,7 +5,8 @@ title: Contributors
 The current R is the result of a collaborative effort with contributions
 from all over the world. R was initially written by Robert Gentleman and
 Ross Ihaka—also known as "*R & R*" of the Statistics Department of the
-University of Auckland. Since mid-1997 there has been a core group with
+University of Auckland. Since mid-1997 there has been a core group,
+the *R Core Team*, with
 write access to the R source, currently consisting of
 <!-- *manually* sync this with ~/R/D/r-devel/R/doc/THANKS
                                              ~~~~~~~~~~~~ -->
@@ -36,9 +37,10 @@ Stefano Iacus up to July 2014, Seth Falcon up to August 2015, and
 Duncan Murdoch up to September 2017.
 
 R would not be what it is today without the invaluable help of these
-people, who contributed by donating code, bug fixes and documentation:
+people outside of the (former and current) R Core team, who
+contributed by donating code, bug fixes and documentation:
 
-> Valerio Aimale, Suharto Anggono, Thomas Baier, Henrik Bengtsson,
+> Valerio Aimale, Suharto Anggono, Thomas Baier, Gabe Becker, Henrik Bengtsson,
 > Roger Bivand, Ben Bolker, David Brahm, Göran Broström, Patrick Burns,
 > Vince Carey, Saikat DebRoy, Matt Dowle, Brian D'Urso, Lyndon Drake,
 > Dirk Eddelbuettel, Claus Ekstrom, Sebastian Fischmeister, John Fox, 
