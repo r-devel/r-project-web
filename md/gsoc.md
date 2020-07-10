@@ -8,12 +8,15 @@ Code](https://summerofcode.withgoogle.com/organizations/4947241283354624/)
 are Toby Dylan Hocking, Brian Peterson, and Virgilio Gomez Rubio as a
 backup.
 
-There were 33 GSoC-R projects in 2017. We are grateful to the
-students, mentors and administrators, whose work also raises money for
-The R Foundation.
+We are grateful to the students, mentors and administrators, whose work
+also raises money for the R Foundation.
 
 Further information can be found on the GSoC-R pages hosted on
 [GitHub](https://github.com/rstats-gsoc/):
+
+* [GSoC-R 2020](https://github.com/rstats-gsoc/gsoc2020/wiki)
+
+* [GSoC-R 2019](https://github.com/rstats-gsoc/gsoc2019/wiki)
 
 * [GSoC-R 2018](https://github.com/rstats-gsoc/gsoc2018/wiki)
 
