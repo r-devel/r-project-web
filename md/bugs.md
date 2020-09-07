@@ -45,7 +45,7 @@ If your problem is definitely a bug - either because it falls into one of the bu
 Depending on the problem, you might need to submit bug reports in different places. The first step is to see which package the function with a bug comes from. The R Core team only maintains the core language and the R packages
 labelled with `Maintainer: R Core Team <R-core@r-project.org>`. You can see
 this label by running e.g. `maintainer("graphics")` in R.  
-NOTE however: Do **not** send e-mail to R-core about bugs etc !!
+NOTE however: Do **not** send e-mail to R-core about bugs etc, not even security vulnerabilities !!
 
 If your bug is in `somePkg` and that is not maintained by the R Core team, you should submit your report to the package maintainer. Running `bug.report(package = "somePkg")`
 directs you to the right place,
@@ -60,6 +60,7 @@ In order to get a bugzilla account (i.e., become "member"), please send an e-mai
 `bug-report-request@r-project.org` briefly explaining why, and a volunteer will add you to R's Bugzilla members.**
 It is important to try to make sure that the report isn't extraneous. The easiest way to do this is to first look at the [upcoming changes in R](https://svn.r-project.org/R/trunk/doc/NEWS.Rd), to see if the bug has already been patched (just not released yet), and to [browse the latest bug reports](https://bugs.r-project.org/bugzilla/buglist.cgi?bug_file_loc_type=allwordssubstr&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=UNCONFIRMED&bugidtype=include&chfieldto=Now&cmdtype=doit&emailassigned_to1=1&emailassigned_to2=1&emailcc2=1&emailreporter2=1&emailtype1=substring&emailtype2=substring&field0-0-0=noop&long_desc_type=substring&order=bugs.delta_ts%20desc&query_format=advanced&short_desc_type=allwordssubstr&type0-0-0=noop) or [search for the bug](https://bugs.r-project.org/bugzilla/query.cgi) in Bugzilla to see if (even if it hasn't been patched yet) it has been reported. If your bug has not yet been reported or fixed, you can report the bug following the guidelines in the section [Writing a good bug report](#writing-a-good-bug-report). If you have a patch accompanying your bug, see the section [How to submit patches](#how-to-submit-patches).
 
+By default, reports submitted to R's [Bugzilla](https://bugs.r-project.org/bugzilla3/) are public. If you believe your bug is a security vulnerability and should not be public, you may select "Show advanced fields" on the bug submission page, scroll down to the bottom of the page, and check that only members of R-security group are allowed to see the bug. Before checking this flag, it is good to try to make sure the vulnerability is really security sensitive, that exploiting it would allow an attacker to execute code that could not be executed using the standard R functionality from the same context. Note `system()`, `system2()`, `dyn.load()` can be used by design to execute arbitrary code.
 
 If you wish to submit a feature request, rather than a bug report, your best bet is to ask about it first on the [r-devel](https://stat.ethz.ch/mailman/listinfo/r-devel) mailing list. If the feedback is positive, you can submit your suggestion using the bug reporting form on Bugzilla, where you should select `Wishlist` in the `Component` field and start your summary with `Wishlist:`.
 
