@@ -35,6 +35,7 @@ Donors (after March 2017)
 -   Jacopo Cerri (Italy)
 -   Cédric Chambru (Switzerland)
 -   [Amy Tzu-Yu Chen (United States)](https://amy17519.me/)
+-   Ichu Cheng (Canada)
 -   [Murat D (France)](http://wptheme.fr/theme-wordpress-divi/)
 -   David Feedman (United States)
 -   Mitchell Gail (United States)
@@ -67,6 +68,7 @@ Donors (after March 2017)
 -   Julian Ricardo (United States)
 -   [Tree Surgeon Cheltenham (United Kingdom)](https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html)
 -   [Carlos Santoro (Brazil)](https://www.linkedin.com/in/carlos-santoro/)
+-   [Ian Smith (United Kingdom)](https://www.nottinghambathroomfitter.co.uk/)
 -   Peter Stilwell (United Kingdom)
 -   [Fergus Travers (France)](http://Https://www.walsallroofingpros.com)
 -   [Fergus Travers (France)](https://www.thecornwallgardeners.co.uk)
@@ -171,7 +173,6 @@ Supporting Benefactors
 -----------
 
 
--   [INWT Statistics GmbH (Germany)](https://www.inwt-statistics.com/)
 -   [Thomas Levine (United States)](https://thomaslevine.com/)
 -   b-data GmbH, Winterthur (Switzerland)
 -   McGill University, Ottawa (Canada)
@@ -191,7 +192,9 @@ Supporting Members
 
 
 -   Antoniade Ciprian Alexandru (Romania)
+-   Diogo Almeida (United Arab Emirates)
 -   Tim Appelhans (Germany)
+-   Paul Artes (United Kingdom)
 -   Srinivas B (India)
 -   Ashanka Beligaswatte (Australia)
 -   Chris Billingham (United Kingdom)
@@ -222,6 +225,7 @@ Supporting Members
 -   Martin Elff (Germany)
 -   Mitch Eppley (United States)
 -   Nathan Epstein (United States)
+-   cristiano esclapon (Switzerland)
 -   Guenter Faes (Germany)
 -   Gottfried Fischer (Austria)
 -   Shalese Fitzgerald (United States)
@@ -238,6 +242,7 @@ Supporting Members
 -   Chris Hanretty (United Kingdom)
 -   Joe Harwood (United Kingdom)
 -   Bela Hausmann (Austria)
+-   Takehiko Hayashi (Japan)
 -   BaoGiang HoangVu (Vietnam)
 -   Alessamdro Ielpi (Canada)
 -   Christian Kampichler (Netherlands)
@@ -278,6 +283,7 @@ Supporting Members
 -   George Ostrouchov (United States)
 -   Antonio Paez (Canada)
 -   Jaesung James Park (Korea, Republic of)
+-   Matt Parker (United States)
 -   Peter Perez (United States)
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
@@ -286,9 +292,9 @@ Supporting Members
 -   Stefano Rezzonico (Canada)
 -   Ingo Ruczinski (United States)
 -   Antonio J. Saez-Castillo (Spain)
--   Henrik Schirmer (Norway)
 -   Pieta Schofield (United Kingdom)
 -   Robert Selden (United States)
+-   Christian Seubert (Austria)
 -   Justin Shea (United States)
 -   Jagat Sheth (United States)
 -   Pedro Silva (Brazil)
@@ -302,15 +308,16 @@ Supporting Members
 -   Dag Tanneberg (Germany)
 -   Koray Tascilar (Germany)
 -   Michael Tiefelsdorf (United States)
+-   Nicholas Turner (United States)
+-   Philipp Upravitelev (Russian Federation)
 -   Uku Vainik (Estonia)
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
 -   Frans van Dunné (Costa Rica)
 -   Marcus Vollmer (Germany)
 -   Jaap Walhout (Netherlands)
--   Earo Wang (Australia)
 -   Sandra Ware (Australia)
 
 
 
-Last update: 2020-08-21
+Last update: 2020-09-08
