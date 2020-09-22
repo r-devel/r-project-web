@@ -28,8 +28,4 @@ form](donation-form.pdf) and return it by fax or mail.
 
 ##### Note for US Taxpayers
 
--   The R Foundation is not registered as a charitable
-organisation in the USA. The Society of Indian Academics in America (SIAA) has
-kindly offered to fund R Foundation activities if donations to it are
-earmarked for this use, and these donations may be tax deductible.  For
-details, please see [the SIAA website](http://www.siaaus.org).
+-   The R Foundation is <b>not</b> registered as a charitable organisation in the USA. 
