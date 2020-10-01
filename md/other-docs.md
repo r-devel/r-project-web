@@ -19,7 +19,7 @@ R guides and documentation not contained in the [contributed documentation](http
 
 -   Sigal Blay maintains a web page with [“Technical Notes on the R Programming Language”](http://www.sfu.ca/~sblay/R/).
 -   Wei-Chen Chen maintains a web page with notes on [“The Exploration of Statistic Software R”](https://snoweye.github.io/R_note/).
--   David Rossiter maintains a web page with several [R applications related to natural resources management](http://www.css.cornell.edu/faculty/dgr2/pubs/list.html#pubs_m_R).
+-   David Rossiter maintains a web page with several [(geo-)statistics tutorials using R](http://www.css.cornell.edu/faculty/dgr2/tutorials/index.html).
 -   David Hiebeler maintains a tutorial [“Matlab/R Reference”](https://umaine.edu/mathematics/david-hiebeler/computing-software/matlab-r-reference/) in PDF with some Matlab functions.
 -   K. A. Garrett et al have written several papers on ["Ecology and epidemiology in the R programming environment"](https://www.apsnet.org/edcenter/disimpactmngmnt/topc/EcologyAndEpidemiologyInR/Pages/default.aspx) published as part of the [The Plant Health Instructor](http://www.apsnet.org/) (URL change on 2011-02-01).
 -   Benjamin Yakir has written a book named [“Introduction to Statistical Thinking (With R, Without Calculus)”](http://pluto.huji.ac.il/~msby/StatThink/index.html). Both the PDF document and data sets are available from the webpage.
