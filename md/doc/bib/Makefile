@@ -10,7 +10,8 @@ BIB2BIB = bib2bib \
 ## Put in TMPDIR=. to avoid openout_any = p madness in current versions of
 ## TeXlive (see e.g. http://www.lri.fr/~filliatr/bibtex2html/).
 BIBTEX2HTML = TMPDIR=. bibtex2html -u -noheader -nodoc \
-	  --named-field publisherurl "Publisher Info"
+	  --named-field publisherurl "Publisher Info" \
+	  --doi-prefix https://doi.org/
 
 .SUFFIXES:
 .SUFFIXES: .html .bib
