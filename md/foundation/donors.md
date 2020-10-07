@@ -15,7 +15,7 @@ Annual membership fees for supporting members are:
 
 To become a new supporting member or renew your existing supporting
 membership of the R Foundation, please fill out the online [membership application form](donations.html).  All supporting members will be listed on
-the R project homepage and in one issue of [The R Journal](http://journal.r-project.org/) per year (unless the respective
+the R project homepage and in one issue of [The R Journal](https://journal.r-project.org/) per year (unless the respective
 member prefers otherwise).
 
 For one-off donations to the R Foundation, please fill out the 
@@ -30,35 +30,41 @@ Donors (after March 2017)
 -   [igjit _ (Japan)](https://twitter.com/igjit)
 -   [ilustat (Portugal)](https://ilustat.com)
 -   David Baumann (Canada)
+-   Vladimir Benda (Slovakia)
 -   Bryan Berend (United States)
 -   [Web Hosting Buddy (United States)](https://webhostingbuddy.com)
+-   [Darren Carlson (United States)](http://www.experthomebuildersnh.com/)
 -   Jacopo Cerri (Italy)
 -   Cédric Chambru (Switzerland)
 -   [Amy Tzu-Yu Chen (United States)](https://amy17519.me/)
 -   Ichu Cheng (Canada)
 -   [Murat D (France)](http://wptheme.fr/theme-wordpress-divi/)
+-   [The R Conference (United States)](https://rstats.ai/)
+-   [Lander Analytics (United States)](https://www.landeranalytics.com/)
+-   [The New York Open Statistical Programming Meetup (United States)](http://nyhackr.org/)
 -   David Feedman (United States)
 -   Mitchell Gail (United States)
 -   [Charles Geyer (United States)](http://users.stat.umn.edu/~geyer/)
 -   Corrado Giannasca (Italy)
+-   [Bryan Grant (United States)](https://www.bostonleatherrepair.com/)
 -   Susan Gruber (United States)
 -   Eetu Halme (Finland)
 -   Tim Huang (United States)
 -   ken ikeda (Japan)
 -   [Morghan Jabusch (United States)](http://www.oahuinteriorpainting.com/interior.html)
 -   [Scaffolder Kent (United Kingdom)](http://scaffoldinghirekent.com/)
--   [Dotcom-Monitor (United States)](https://www.dotcom-monitor.com/)
--   [Loadview-Testing (United States)](https://www.loadview-testing.com/)
+-   Oleg V Kolesnikov (Ukraine)
 -   Ann-Sophie Lehnert (Germany)
 -   Francesco Maria Lo Russo (Italy)
 -   [Søren Lophaven (Denmark)](http://www.omicron.dk)
 -   J. BRIAN LORIA (United States)
--   [Parag Magunia (United States)](https://www.picostat.com)
+-   Parag Magunia (United States)
 -   John McMahon (United States)
 -   [Heramb Modak (India)](https://in.linkedin.com/in/heramb-modak-759a686a)
 -   Nicholas Moskwa (United States)
 -   Nikola Motik (Croatia)
 -   Jyoti Nagi (India)
+-   [Loft Conversions Nottingham (United Kingdom)](https://www.conversions-nottingham.co.uk/)
 -   [Security Guard Training Central (United States)](https://www.securityguardtrainingcentral.com)
 -   [Driven Coffee Roasters (United States)](https://www.drivencoffee.com)
 -   [WebHostingProf (United States)](https://webhostingprof.com)
@@ -66,11 +72,15 @@ Donors (after March 2017)
 -   Nickalus Redell (United States)
 -   Nick Redell (United States)
 -   Julian Ricardo (United States)
+-   [Clare Richardson (United Kingdom)](https://www.manwithavangloucester.com/)
 -   [Tree Surgeon Cheltenham (United Kingdom)](https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html)
 -   [Carlos Santoro (Brazil)](https://www.linkedin.com/in/carlos-santoro/)
+-   Pratham Singh (India)
+-   [Ian Smith (United Kingdom)](https://www.conversions-nottingham.co.uk/)
+-   [Ian Smith (United Kingdom)](https://www.nottinghamkitchenfitter.co.uk/)
 -   [Ian Smith (United Kingdom)](https://www.nottinghambathroomfitter.co.uk/)
 -   Peter Stilwell (United Kingdom)
--   [Fergus Travers (France)](http://Https://www.walsallroofingpros.com)
+-   [Fergus Travers (France)](https://www.walsallroofingpros.com)
 -   [Fergus Travers (France)](https://www.thecornwallgardeners.co.uk)
 -   Kate Tuzov (Canada)
 -   Ravinderpal Vaid (United States)
@@ -176,7 +186,6 @@ Supporting Benefactors
 -   [Thomas Levine (United States)](https://thomaslevine.com/)
 -   b-data GmbH, Winterthur (Switzerland)
 -   McGill University, Ottawa (Canada)
--   Mirai Solutions GmbH, Zürich (Switzerland)
 -   [www.ohmybingo.com, Alderley Edge (United Kingdom)](https://www.ohmybingo.com)
 
 Supporting Institutions
@@ -293,6 +302,7 @@ Supporting Members
 -   Ingo Ruczinski (United States)
 -   Antonio J. Saez-Castillo (Spain)
 -   Pieta Schofield (United Kingdom)
+-   Dejan Schuster (Germany)
 -   Robert Selden (United States)
 -   Christian Seubert (Austria)
 -   Justin Shea (United States)
@@ -320,4 +330,4 @@ Supporting Members
 
 
 
-Last update: 2020-09-08
+Last update: 2020-10-07
