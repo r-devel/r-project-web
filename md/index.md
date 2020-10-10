@@ -9,13 +9,12 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   [**R version 4.0.3 (Bunny-Wunnies Freak Out)**](https://cran.r-project.org/src/base/R-4)
+    has been released on 2020-10-10.
 -   Thanks to the organisers of useR! 2020 for a successful online conference. Recorded tutorials and talks from the conference are available on the
     [R Consortium YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/playlists).
--   [**R version 4.0.3 (Bunny-Wunnies Freak Out) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Wednesday 2020-09-30. Final release is scheduled for Saturday 2020-10-10. 
--   [**R version 4.0.2 (Taking Off Again)**](https://cran.r-project.org/src/base/R-4)
-    has been released on 2020-06-22.
 -   [**R version 3.6.3 (Holding the Windsock)**](https://cran.r-project.org/src/base/R-3)
-    has been released on 2020-02-29.
+    was released on 2020-02-29.
 - You can support the R Foundation with a renewable subscription as a
   [supporting member](https://www.r-project.org/foundation/donations.html)
   
