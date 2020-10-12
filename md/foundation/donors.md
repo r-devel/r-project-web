@@ -32,7 +32,6 @@ Donors (after March 2017)
 -   David Baumann (Canada)
 -   Vladimir Benda (Slovakia)
 -   Bryan Berend (United States)
--   [Web Hosting Buddy (United States)](https://webhostingbuddy.com)
 -   [Darren Carlson (United States)](http://www.experthomebuildersnh.com/)
 -   Jacopo Cerri (Italy)
 -   Cédric Chambru (Switzerland)
@@ -65,14 +64,13 @@ Donors (after March 2017)
 -   Nikola Motik (Croatia)
 -   Jyoti Nagi (India)
 -   [Loft Conversions Nottingham (United Kingdom)](https://www.conversions-nottingham.co.uk/)
--   [Security Guard Training Central (United States)](https://www.securityguardtrainingcentral.com)
--   [Driven Coffee Roasters (United States)](https://www.drivencoffee.com)
--   [WebHostingProf (United States)](https://webhostingprof.com)
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   Nick Redell (United States)
 -   Julian Ricardo (United States)
--   [Clare Richardson (United Kingdom)](https://www.manwithavangloucester.com/)
+-   [House Removals Gloucester (United Kingdom)](https://www.manwithavangloucester.com/)
+-   [Alloy Wheel Refurb Gloucester (United Kingdom)](https://www.carbodyrepairsglos.com/alloy-wheel-repair.html)
+-   [Roofers Gloucester (United Kingdom)](https://www.propertymaintenance-gloucester.co.uk/flat-roof-repair-and-construction.html)
 -   [Tree Surgeon Cheltenham (United Kingdom)](https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html)
 -   [Carlos Santoro (Brazil)](https://www.linkedin.com/in/carlos-santoro/)
 -   Pratham Singh (India)
@@ -330,4 +328,4 @@ Supporting Members
 
 
 
-Last update: 2020-10-07
+Last update: 2020-10-12
