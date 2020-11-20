@@ -65,7 +65,7 @@ Donors (after March 2017)
 -   Nikola Motik (Croatia)
 -   Jyoti Nagi (India)
 -   [Loft Conversions Nottingham (United Kingdom)](https://www.conversions-nottingham.co.uk/)
--   [Bathroom Remodel Dayton (United States)](https//www.bathroomremodeldayton.net)
+-   [Bathroom Remodel Dayton (United States)](https://www.bathroomremodeldayton.net)
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   Nick Redell (United States)
@@ -191,7 +191,6 @@ Supporting Institutions
 -----------
 
 
--   Fumihiko Makiyama (Japan)
 -   Code Ocean, Jenkintown (United States)
 -   University of Iowa, Iowa City (United States)
 
@@ -223,7 +222,6 @@ Supporting Members
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
 -   Ajit de Silva (United States)
--   Steph de Silva (Australia)
 -   Elliott Deal (United States)
 -   Jasja Dekker (Netherlands)
 -   Dubravko Dolic (Germany)
@@ -329,4 +327,4 @@ Supporting Members
 
 
 
-Last update: 2020-11-12
+Last update: 2020-11-20
