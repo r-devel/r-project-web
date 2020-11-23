@@ -28,6 +28,7 @@ Donors (after March 2017)
 
 
 -   [igjit _ (Japan)](https://twitter.com/igjit)
+-   [WordPress Hosting Buddy (United States)](https://webhostingbuddy.com/wordpress-hosting/)
 -   [ilustat (Portugal)](https://ilustat.com)
 -   David Baumann (Canada)
 -   Vladimir Benda (Slovakia)
@@ -58,6 +59,7 @@ Donors (after March 2017)
 -   Francesco Maria Lo Russo (Italy)
 -   [Søren Lophaven (Denmark)](http://www.omicron.dk)
 -   J. BRIAN LORIA (United States)
+-   [Metal Roofing San Antonio (United States)](https://www.metalroofingsanantonio.net)
 -   Parag Magunia (United States)
 -   John McMahon (United States)
 -   Heramb Modak (India)
@@ -65,6 +67,7 @@ Donors (after March 2017)
 -   Nikola Motik (Croatia)
 -   Jyoti Nagi (India)
 -   [Loft Conversions Nottingham (United Kingdom)](https://www.conversions-nottingham.co.uk/)
+-   [Appstam Consulting GmbH (Germany)](http://www.appstam.com)
 -   [Bathroom Remodel Dayton (United States)](https://www.bathroomremodeldayton.net)
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
@@ -242,6 +245,7 @@ Supporting Members
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
 -   J. Antonio  García Ramírez (Mexico)
+-   Anne Catherine Gieshoff (Switzerland)
 -   Brian Gramberg (Netherlands)
 -   Stefano Guazzetti (Italy)
 -   Krushi Gurudu (United States)
@@ -259,7 +263,6 @@ Supporting Members
 -   Jungjoon Kim (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
 -   Sebastian Koehler (Germany)
--   Arnošt Komárek (Czechia)
 -   Miha Kosmac (United Kingdom)
 -   Jan Herman Kuiper (United Kingdom)
 -   HOONJEONG KWON (Korea, Republic of)
@@ -306,6 +309,7 @@ Supporting Members
 -   Pedro Silva (Brazil)
 -   gabriel silver (United States)
 -   Rachel Smith-Hunter (United States)
+-   Gerardo Soto-Campos (United States)
 -   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
 -   Tobias Strapatsas (Germany)
@@ -327,4 +331,4 @@ Supporting Members
 
 
 
-Last update: 2020-11-20
+Last update: 2020-11-23
