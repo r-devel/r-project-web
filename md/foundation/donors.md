@@ -78,6 +78,7 @@ Donors (after March 2017)
 -   [Roofers Gloucester (United Kingdom)](https://www.propertymaintenance-gloucester.co.uk/flat-roof-repair-and-construction.html)
 -   [Tree Surgeon Cheltenham (United Kingdom)](https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html)
 -   Pratham Singh (India)
+-   [Steve Smith (United States)](https://www.thetreefellerofpinellas.com/)
 -   [Ian Smith (United Kingdom)](https://www.conversions-nottingham.co.uk/)
 -   [Ian Smith (United Kingdom)](https://www.nottinghamkitchenfitter.co.uk/)
 -   [Ian Smith (United Kingdom)](https://www.nottinghambathroomfitter.co.uk/)
@@ -195,13 +196,13 @@ Supporting Institutions
 
 
 -   Code Ocean, Jenkintown (United States)
+-   Ef-prime, Inc., 日本橋茅場町 (Japan)
 -   University of Iowa, Iowa City (United States)
 
 Supporting Members
 -----------
 
 
--   Antoniade Ciprian Alexandru (Romania)
 -   Diogo Almeida (United Arab Emirates)
 -   Tim Appelhans (Germany)
 -   Paul Artes (United Kingdom)
@@ -331,4 +332,4 @@ Supporting Members
 
 
 
-Last update: 2020-11-23
+Last update: 2020-11-26
