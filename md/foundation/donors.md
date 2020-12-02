@@ -33,6 +33,7 @@ Donors (after March 2017)
 -   David Baumann (Canada)
 -   Vladimir Benda (Slovakia)
 -   Bryan Berend (United States)
+-   [Essex Bricklayers (United Kingdom)](https://www.essexbricklayer.co.uk/)
 -   [Darren Carlson (United States)](http://www.experthomebuildersnh.com/)
 -   Jacopo Cerri (Italy)
 -   Cédric Chambru (Switzerland)
@@ -69,6 +70,8 @@ Donors (after March 2017)
 -   Jyoti Nagi (India)
 -   [Loft Conversions Nottingham (United Kingdom)](https://www.conversions-nottingham.co.uk/)
 -   [Appstam Consulting GmbH (Germany)](http://www.appstam.com)
+-   [Careful Movers (United States)](https://www.carefulmovers.net/storage/)
+-   [San Diego Piano Moving (United States)](https://www.pianomoverssandiego.net/)
 -   [Bathroom Remodel Dayton (United States)](https://www.bathroomremodeldayton.net)
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
@@ -102,7 +105,7 @@ Donors (after March 2017)
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
 -   Somewhat Retired, North Potomac (United States)
 -   Spängler IQAM Invest GmbH, Salzburg (Austria)
--   Statistik Aargau, Aargau (Switzerland)
+-   [Statistik Aargau, Aarau (Switzerland)](https://www.ag.ch/de/dfr/statistik/statistik.jsp)
 -   The Analytical Edge, Elackmans Bay (Australia)
 -   [Zurich R Courses, Zurich (Switzerland)](https://www.zhRcourses.uzh.ch)
 
@@ -279,6 +282,7 @@ Supporting Members
 -   Alain Lesaffre (Australia)
 -   Eric Lim (United Kingdom)
 -   Chin Soon Lim (Singapore)
+-   Joseph Luchman (United States)
 -   Sharon Machlis (United States)
 -   John MacKintosh (United Kingdom)
 -   Michal Majka (Austria)
@@ -294,6 +298,7 @@ Supporting Members
 -   yoshinobu nakahashi (Japan)
 -   Maciej Nasinski (Poland)
 -   Jens Oehlschlägel (Germany)
+-   Bernard OFFMANN (France)
 -   Dan Orsholits (Switzerland)
 -   George Ostrouchov (United States)
 -   Antonio Paez (Canada)
@@ -338,4 +343,4 @@ Supporting Members
 
 
 
-Last update: 2020-12-01
+Last update: 2020-12-02
