@@ -49,7 +49,8 @@
 ## Links
 
 * [Bioconductor](http://www.bioconductor.org)
-* [Related Projects](/other-projects.html)
+* [R-Forge](https://r-forge.r-project.org/)
+* [R-Hub](https://r-hub.github.io/rhub/)
 * [GSoC](/gsoc.html)
 
 </div>
