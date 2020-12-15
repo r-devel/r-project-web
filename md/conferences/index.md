@@ -139,7 +139,7 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 ### Special Events
 
-* [celebRation](http://www.celebration2020.org/) 28-29 February 2020, Copenhagen, Denmark. A two-day celebration of workshops and invited talks to mark the 20th anniversary of the release of R version 1.0.0.
+* [celebRation](https://biostatistics.dk/celebration2020/) 28-29 February 2020, Copenhagen, Denmark. A two-day celebration of workshops and invited talks to mark the 20th anniversary of the release of R version 1.0.0.
 
 ### Events in under-supported regions
 
