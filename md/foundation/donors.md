@@ -33,6 +33,7 @@ Donors (after March 2017)
 -   David Baumann (Canada)
 -   Vladimir Benda (Slovakia)
 -   Bryan Berend (United States)
+-   [JBL Digital Marketing (Australia)](http://jbldigitalmarketing.co)
 -   [Essex Bricklayers (United Kingdom)](https://www.essexbricklayer.co.uk/)
 -   [Darren Carlson (United States)](http://www.experthomebuildersnh.com/)
 -   Jacopo Cerri (Italy)
@@ -198,7 +199,7 @@ Supporting Benefactors
 -   [Thomas Levine (United States)](https://thomaslevine.com/)
 -   b-data GmbH, Winterthur (Switzerland)
 -   McGill University, Ottawa (Canada)
--   www.5slotsites.com , Alderley Edge (United Kingdom)
+-   [www.5slotsites.com , Alderley Edge (United Kingdom)](https://www.5slotsites.com)
 -   [www.ohmybingo.com, Alderley Edge (United Kingdom)](https://www.ohmybingo.com)
 
 Supporting Institutions
@@ -268,6 +269,7 @@ Supporting Members
 -   Takehiko Hayashi (Japan)
 -   BaoGiang HoangVu (Vietnam)
 -   Alessamdro Ielpi (Canada)
+-   Lorenzo Isella (Belgium)
 -   Sebastian Jeworutzki (Germany)
 -   Christian Kampichler (Netherlands)
 -   Srikanth Kannan (India)
@@ -350,4 +352,4 @@ Supporting Members
 
 
 
-Last update: 2020-12-15
+Last update: 2020-12-17
