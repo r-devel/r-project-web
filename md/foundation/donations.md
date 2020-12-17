@@ -3,16 +3,18 @@ title: Membership Fees & Donations
 ---
 
 There are two ways to give money to the R Foundation.  You can either become
-a supporting member of the R foundation with an annual donation, or you can
-give a one off donation of any amount. If you have questions, please contact
-<treasurer@R-project.org>.
+a supporting member of the R foundation with an annual donation of &euro;
+25.00, or you can give a one off or recurring donation of any amount starting at &euro; 50.00. 
+If you have questions, please contact <treasurer@R-project.org>.
 
 ## Supporting Membership Application Form
 
 To become a supporting member of the R Foundation, please fill out the
 online membership application form below. To renew your membership, please
-fill out the same form. The name or institution can be hyperlinked 
-on the [members and donors page](donors.html).
+fill out the same form, or set-up a recurring payment. 
+The name or institution can be hyperlinked 
+on the [members and donors page](donors.html). Supporting members are listed in one issue
+of [the R Journal](http://journal.r-project.org).
 
 <script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/rproject-member?hide_donation_meter=true" height="685px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
 
