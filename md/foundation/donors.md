@@ -32,6 +32,7 @@ Donors (after March 2017)
 -   [ilustat (Portugal)](https://ilustat.com)
 -   David Baumann (Canada)
 -   Vladimir Benda (Slovakia)
+-   [b-data GmbH (Switzerland)](https://www.b-data.io)
 -   Bryan Berend (United States)
 -   [JBL Digital Marketing (Australia)](http://jbldigitalmarketing.co)
 -   [Essex Bricklayers (United Kingdom)](https://www.essexbricklayer.co.uk/)
@@ -67,7 +68,6 @@ Donors (after March 2017)
 -   John McMahon (United States)
 -   Heramb Modak (India)
 -   Nicholas Moskwa (United States)
--   Nikola Motik (Croatia)
 -   Jyoti Nagi (India)
 -   [Loft Conversions Nottingham (United Kingdom)](https://www.conversions-nottingham.co.uk/)
 -   [Appstam Consulting GmbH (Germany)](http://www.appstam.com)
@@ -96,6 +96,7 @@ Donors (after March 2017)
 -   Peter Stilwell (United Kingdom)
 -   [Fergus Travers (France)](https://www.walsallroofingpros.com)
 -   [Fergus Travers (France)](https://www.thecornwallgardeners.co.uk)
+-   [Maple Ridge Tree Service (Canada)](https://www.mapleridgetreeservice.ca/)
 -   Kate Tuzov (Canada)
 -   Ravinderpal Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
@@ -208,7 +209,7 @@ Supporting Institutions
 -----------
 
 
--   Code Ocean, Jenkintown (United States)
+-   Code Ocean, New York (United States)
 -   Ef-prime, Inc., 日本橋茅場町 (Japan)
 -   University of Iowa, Iowa City (United States)
 
@@ -262,6 +263,7 @@ Supporting Members
 -   J. Antonio  García Ramírez (Mexico)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Brian Gramberg (Netherlands)
+-   Spencer Graves (United States)
 -   Stefano Guazzetti (Italy)
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
@@ -292,8 +294,8 @@ Supporting Members
 -   Bernhard Lehnert (Germany)
 -   Mauro Lepore (United States)
 -   Alain Lesaffre (Australia)
--   Eric Lim (United Kingdom)
 -   Chin Soon Lim (Singapore)
+-   Eric Lim (United Kingdom)
 -   Joseph Luchman (United States)
 -   Sharon Machlis (United States)
 -   John MacKintosh (United Kingdom)
@@ -309,6 +311,7 @@ Supporting Members
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
 -   Maciej Nasinski (Poland)
+-   Tilers in Nottingham (United Kingdom)
 -   Jens Oehlschlägel (Germany)
 -   Bernard OFFMANN (France)
 -   Berk Orbay (Turkey)
@@ -325,6 +328,7 @@ Supporting Members
 -   Fergus Reig Gracia (Spain)
 -   Stefano Rezzonico (Canada)
 -   Ingo Ruczinski (United States)
+-   Choonghyun Ryu (Korea, Republic of)
 -   Pieta Schofield (United Kingdom)
 -   Dejan Schuster (Germany)
 -   Robert Selden (United States)
@@ -356,4 +360,4 @@ Supporting Members
 
 
 
-Last update: 2020-12-19
+Last update: 2021-01-04
