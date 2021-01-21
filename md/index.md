@@ -9,6 +9,7 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   [**R version 4.0.4 (Lost Library Book) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Friday 2021-02-05. Final release is scheduled for Monday 2021-02-15. 
 -   [**R version 4.0.3 (Bunny-Wunnies Freak Out)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2020-10-10.
 -   Thanks to the organisers of useR! 2020 for a successful online conference. Recorded tutorials and talks from the conference are available on the
