@@ -9,7 +9,7 @@ The R Foundation actively supports two conference series, organized regularly by
 * useR!, providing a forum to the R user community.
 * DSC, a platform for developers of statistical software.
 
-A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation).
+A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation/).
 
 The R Foundation also [endorses a small number of conferences](#other-conferences-endorsed-by-the-r-foundation) for special events or to encourage the development of the local R community in under-supported regions.
 
@@ -47,49 +47,49 @@ Usually, no proceedings are published for useR! conferences.
 * [useR! 2020](https://user2020.r-project.org/), St Louis, MO, USA.
 
 * [useR! 2019](https://user2019.r-project.org/), Toulouse, France.
-  ([local copy](https://www.r-project.org/conferences/useR-2019)).
+  ([local copy](https://www.r-project.org/conferences/useR-2019/)).
 
 * [useR! 2018](https://user2018.r-project.org/), Brisbane, Australia.
-  ([local copy](https://www.r-project.org/conferences/useR-2018)).
+  ([local copy](https://www.r-project.org/conferences/useR-2018/)).
 
-* [useR! 2017](https://user2017.r-project.org/), Brussels, Belgium.
-  ([local copy](https://www.r-project.org/conferences/useR-2017)).
+* [useR! 2017](https://www.r-project.org/conferences/useR-2017//), Brussels, Belgium.
+  ([local copy](https://www.r-project.org/conferences/useR-2017/)).
 
 * [useR! 2016](https://user2016.r-project.org/), Stanford, CA, USA.
-  ([local copy](https://www.r-project.org/conferences/useR-2016)).
+  ([local copy](https://www.r-project.org/conferences/useR-2016/)).
 
-* [useR! 2015](https://user2015.r-project.org/), Aalborg, Denmark.
-  ([local copy](https://www.r-project.org/conferences/useR-2015)).
+* [useR! 2015](https://user2015.math.aau.dk/), Aalborg, Denmark.
+  ([local copy](https://www.r-project.org/conferences/useR-2015/)).
 
 * [useR! 2014](https://user2014.r-project.org/), Los Angeles, CA, USA.
-  ([local copy](https://www.r-project.org/conferences/useR-2014)).
+  ([local copy](https://www.r-project.org/conferences/useR-2014/)).
 
-* [useR! 2013](https://user2013.r-project.org/), Albacete, Spain
-  ([local copy](https://www.r-project.org/conferences/useR-2013)).
+* [useR! 2013](http://www.edii.uclm.es/~useR-2013/), Albacete, Spain
+  ([local copy](https://www.r-project.org/conferences/useR-2013/)).
 
-* [useR! 2012](https://user2012.r-project.org/), Nashville, TN, USA
-  ([local copy](https://www.r-project.org/conferences/useR-2012)).
+* [useR! 2012](https://biostat.app.vumc.org/wiki/Main/UseR-2012), Nashville, TN, USA
+  ([local copy](https://www.r-project.org/conferences/useR-2012/)).
 
 * [useR! 2011](https://user2011.r-project.org/), Coventry, UK
-  ([local copy](https://www.r-project.org/conferences/useR-2011)).
+  ([local copy](https://www.r-project.org/conferences/useR-2011/)).
 
-* [useR! 2010](https://user2010.r-project.org/), Gaithersburg, MD, USA.
-  ([local copy](https://www.r-project.org/conferences/useR-2010)).
+* [useR! 2010](https://user2010.org/), Gaithersburg, MD, USA.
+  ([local copy](https://www.r-project.org/conferences/useR-2010/)).
 
-* [useR! 2009](https://user2009.r-project.org/),
-  Rennes, France ([local copy](https://www.r-project.org/conferences/useR-2009)).
+* [useR! 2009](http://math.agrocampus-ouest.fr/infoglueDeliverLive/evenements/useR2009/),
+  Rennes, France ([local copy](https://www.r-project.org/conferences/useR-2009/)).
 
-* [useR! 2008](https://user2008.r-project.org/), Dortmund, Germany
-  ([local copy](https://www.r-project.org/conferences/useR-2008)).
+* [useR! 2008](https://www.statistik.uni-dortmund.de/useR-2008/), Dortmund, Germany
+  ([local copy](https://www.r-project.org/conferences/useR-2008/)).
 
-* [useR! 2007](https://user2007.r-project.org/), Ames, IA, USA
-  ([local copy](https://www.r-project.org/conferences/useR-2007)).
+* [useR! 2007](https://www.r-project.org/conferences/useR-2007//), Ames, IA, USA
+  ([local copy](https://www.r-project.org/conferences/useR-2007/)).
 
-* [useR! 2006](https://user2006.r-project.org/), Vienna, Austria
-  ([local copy](https://www.r-project.org/conferences/useR-2006)).
+* [useR! 2006](https://www.r-project.org/conferences/useR-2006//), Vienna, Austria
+  ([local copy](https://www.r-project.org/conferences/useR-2006/)).
 
-* [useR! 2004](https://user2004.r-project.org/), Vienna, Austria
-  ([local copy](https://www.r-project.org/conferences/useR-2004)).
+* [useR! 2004](http://www.ci.tuwien.ac.at/Conferences/useR-2004/), Vienna, Austria
+  ([local copy](https://www.r-project.org/conferences/useR-2004/)).
 
 ## DSC --- Directions in Statistical Computing
 
@@ -113,27 +113,27 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 * [DSC 2014](http://www.huber.embl.de/dsc/), Bressanone-Brixen, Italy.
 
-* [DSC 2009](https://www.r-project.org/dsc-2009/), Copenhagen, Denmark
-  ([local copy](https://www.r-project.org/conferences/DSC-2009)).
+* [DSC 2009](https://www.r-project.org/DSC-2009/), Copenhagen, Denmark
+  ([local copy](https://www.r-project.org/conferences/DSC-2009/)).
 
 * [DSC 2007](http://www.stat.auckland.ac.nz/dsc-2007/), Auckland, New Zealand
-  ([local copy](https://www.r-project.org/conferences/DSC-2007), proceedings have
+  ([local copy](https://www.r-project.org/conferences/DSC-2007/), proceedings have
   been published as issue
   [24/2 of Computational Statistics](https://link.springer.com/journal/180/24/2)).
 
 * DSC 2005, Seattle, USA
-  ([local copy](https://www.r-project.org/conferences/DSC-2005)).
+  ([local copy](https://www.r-project.org/conferences/DSC-2005/)).
 
 * [DSC 2003](http://www.ci.tuwien.ac.at/Conferences/DSC-2003), Vienna, Austria
-  ([local copy](https://www.r-project.org/conferences/DSC-2003),
-  [proceedings](https://www.r-project.org/conferences/DSC-2003/Proceedings/index.html)).
+  ([local copy](https://www.r-project.org/conferences/DSC-2003/),
+  [proceedings](https://www.r-project.org/conferences/DSC-2003//Proceedings/index.html)).
 
 * [DSC 2001](http://www.ci.tuwien.ac.at/Conferences/DSC-2001), Vienna, Austria
-  ([local copy](https://www.r-project.org/conferences/DSC-2001),
-  [proceedings](https://www.r-project.org/conferences/DSC-2001/Proceedings/index.html)).
+  ([local copy](https://www.r-project.org/conferences/DSC-2001/),
+  [proceedings](https://www.r-project.org/conferences/DSC-2001//Proceedings/index.html)).
 
 * [DSC 1999](http://www.ci.tuwien.ac.at/Conferences/DSC-1999), Vienna, Austria
-  ([local copy](https://www.r-project.org/conferences/DSC-1999)).
+  ([local copy](https://www.r-project.org/conferences/DSC-1999/)).
 
 ##  Other Conferences Endorsed by The R Foundation
 

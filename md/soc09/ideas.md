@@ -95,7 +95,7 @@ Second step is the creation of a CRAN software metrics monitor. This means a ser
 
 "You can't control what you can't measure" is stated by Tom DeMarco, Controlling Software Projects: Management, Measurement and Estimation.
 
-**Programming exercise:** How many functions has the [archetypes](http://cran.at.r-project.org/web/packages/archetypes/) package? Write some R code which counts them.
+**Programming exercise:** How many functions has the [archetypes](http://cran.r-project.org/web/packages/archetypes/) package? Write some R code which counts them.
 
 ------------------------------------------------------------------------
 

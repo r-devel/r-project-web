@@ -19,7 +19,7 @@
 * [Conferences](/conferences/)
 * [Search](/search.html)
 * [Get Involved: Mailing Lists](/mail.html)
-* [Developer Pages](http://developer.R-project.org)
+* [Developer Pages](https://developer.R-project.org/)
 * [R Blog](https://developer.r-project.org/Blog/public/)
 </div>
 
