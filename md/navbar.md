@@ -7,7 +7,7 @@
 
 ## Download
 
-[CRAN](http://cran.r-project.org/mirrors.html)
+[CRAN](https://cran.r-project.org/mirrors.html)
 
 ## R Project
 
@@ -39,16 +39,16 @@
 
 ## Documentation
 
-* [Manuals](http://cran.r-project.org/manuals.html)
-* [FAQs](http://cran.r-project.org/faqs.html)
-* [The R Journal](http://journal.r-project.org)
+* [Manuals](https://cran.r-project.org/manuals.html)
+* [FAQs](https://cran.r-project.org/faqs.html)
+* [The R Journal](https://journal.r-project.org)
 * [Books](/doc/bib/R-books.html)
 * [Certification](/certification.html)
 * [Other](/other-docs.html)
 
 ## Links
 
-* [Bioconductor](http://www.bioconductor.org)
+* [Bioconductor](https://www.bioconductor.org)
 * [R-Forge](https://r-forge.r-project.org/)
 * [R-Hub](https://r-hub.github.io/rhub/)
 * [GSoC](/gsoc.html)
