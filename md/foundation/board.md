@@ -14,19 +14,19 @@ __Members at Large:__
 
 * [John Chambers](http://statweb.stanford.edu/~jmc4/)
 * [Dirk Eddelbuettel](http://dirk.eddelbuettel.com)
-* [Heather Turner](http://www.heatherturner.net)
+* [Heather Turner](https://www.heatherturner.net/)
 
 In addition, [Peter Dalgaard](http://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/pdmes) and [Roger Bivand](https://www.nhh.no/en/employees/faculty/roger-bivand/) were elected as auditors.
 
 ## Seat and Address
 
-The R Foundation is seated in Vienna, Austria and currently hosted by the [Vienna University of Economics and Business](http://www.wu.ac.at). It is a registered association under Austrian law and active worldwide. The R Foundation can be contacted
+The R Foundation is seated in Vienna, Austria and currently hosted by the [Vienna University of Economics and Business](https://www.wu.ac.at/). It is a registered association under Austrian law and active worldwide. The R Foundation can be contacted
 by e-mail to [R-foundation at r-project.org](mailto:R-foundation@r-project.org)
 
 and at
 
 The R Foundation for Statistical Computing\
- c/o [Institute for Statistics and Mathematics](http://www.wu.ac.at/statmath/)\
+ c/o [Institute for Statistics and Mathematics](https://www.wu.ac.at/en/statmath/)\
  Wirtschaftsuniversität Wien\
  Welthandelsplatz 1\
  1020 Vienna, Austria\

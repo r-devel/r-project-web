@@ -50,7 +50,7 @@ The finished projects are available via the [R / GSoC 2010 repository at Google 
 
 **Proposal:** Social Relations Analyses (SRAs; Kenny, 1994) are a *hot topic* both in personality and in social psychology. While more and more research groups adopt the methodology, software solutions are lacking far behind - the main software for calculating SRAs are two DOS programs from 1995, which have a lot of restrictions. My GSOC project will extend the functionality of these existing programs and bring the power of SRAs into the R Environment for Statistical Computing as a state-of-the-art package.
 
-**Delivered:** The [TripleR](http://cran.r-project.org/web/packages/TripleR/index.html) package is now on CRAN and hosted on RForge.Net; see this [blog post for updates](http://gsoc2010r.wordpress.com/).
+**Delivered:** The [TripleR](https://cran.r-project.org/package=TripleR) package is now on CRAN and hosted on RForge.Net; see this [blog post for updates](http://gsoc2010r.wordpress.com/).
 
 ------------------------------------------------------------------------
 

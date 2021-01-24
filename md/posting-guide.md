@@ -26,7 +26,7 @@ questions involving pure R code and questions likely to be of interest to
 the large and diverse set of subscribers to R-help should go to R-help.\
 **Bioconductor** is for announcements about the development of [Bioconductor](http://www.bioconductor.org/),
 availability of new code, questions and answers about problems and solutions using
-Bioconductor, etc. See [Bioconductor mailing lists](http://bioconductor.org/help/mailing-list/)
+Bioconductor, etc. See [Bioconductor mailing lists](https://bioconductor.org/help/support/)
 for details. See [below](#contrib_pkgs) for questions on *contributed packages*.
 
 **Platform-specific questions**: There are lists **R-sig-Mac**, **R-sig-Debian** and **R-sig-Fedora** for R on Mac OS X, Debian/Ubuntu and Fedora/Redhat respectively. Questions specific to those platforms (especially *re* installation and the **R.app** GUI on Mac OS X) are more likely to get informed responses on the appropriate list, and that is certainly the place to discuss possible bugs.
@@ -36,9 +36,9 @@ for details. See [below](#contrib_pkgs) for questions on *contributed packages*.
 -   Do `help.search("keyword")` and `apropos("keyword")` with different keywords (type this at the R prompt).
 -   Do `RSiteSearch("keyword")` with different keywords (at the R prompt) to search R functions, contributed packages and R-Help postings. See `?RSiteSearch` for further options and to restrict searches.
 -   Read the online help for relevant functions (type `?functionname`, e.g., `?prod`, at the R prompt)
--   If something seems to have changed in R, look in the latest [NEWS](http://cran.r-project.org/src/base/NEWS) file on CRAN for information about it.
--   Search the R-faq and the R-windows-faq if it might be relevant (<http://cran.r-project.org/faqs.html>)
--   Read at least the relevant section in [An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf)
+-   If something seems to have changed in R, look in the latest [NEWS](https://cran.r-project.org/src/base/NEWS) file on CRAN for information about it.
+-   Search the R-faq and the R-windows-faq if it might be relevant (<https://cran.r-project.org/faqs.html>)
+-   Read at least the relevant section in [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf)
 -   If the function is from a package accompanying a book, e.g., the MASS package, consult the book before posting
 
 **Technical details of posting**: See [General Instructions](mail.html#instructions) for more details of the following:
@@ -50,11 +50,11 @@ for details. See [below](#contrib_pkgs) for questions on *contributed packages*.
 -   If you can't send from an email address that simply accepts replies, then say so in your posting so that people are not inconvenienced when they try to respond to your message
 -   Some consider it good manners to include a concise signature specifying affiliation
 
-**Surprising behavior and bugs:** What you think is a bug may be many other things, such as a default behavior that you do not like, a feature, an undocumented feature, or a bug in the documentation. You do not need to commit yourself to one of these in order to ask a question. If it is a real bug, someone will notice it. Before you post a real bug report, make sure you read [R Bugs](http://CRAN.R-project.org/doc/FAQ/R-FAQ.html#R-Bugs) in the R-faq. If you're not completely and utterly sure something is a bug, post a question to r-help, not a bug report to r-bugs - every bug report requires manual action by one of the R-core members. Also, see Simon Tatham's essay on [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html).
+**Surprising behavior and bugs:** What you think is a bug may be many other things, such as a default behavior that you do not like, a feature, an undocumented feature, or a bug in the documentation. You do not need to commit yourself to one of these in order to ask a question. If it is a real bug, someone will notice it. Before you post a real bug report, make sure you read [R Bugs](https://CRAN.R-project.org/doc/FAQ/R-FAQ.html#R-Bugs) in the R-faq. If you're not completely and utterly sure something is a bug, post a question to r-help, not a bug report to r-bugs - every bug report requires manual action by one of the R-core members. Also, see Simon Tatham's essay on [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html).
 
 For questions about unexpected behavior or a possible bug, you should, at a minimum, copy and paste the output from `sessionInfo()` into your message. When mentioning version numbers, always use the full version number, e.g., \`2.6.1', not just \`2.6', and also mention the platform (Windows, Linux, MacOS X, with their versions). Other potentially relevant details include the locale (type `Sys.getlocale()` at the R prompt), and whether you installed a pre-compiled binary version of R or compiled it yourself. If the function is in a package other than \`base', include the header output from `library(help=thatPackage)`. If you are using an old version of R and think it does not work properly, upgrade to the latest version and try that, before posting. If possible, try the current R-patched or R-devel version of R (see the FAQ for details), to see if the problem has already been addressed.
 
-For questions about functions in standard packages distributed with R (see the FAQ [Add-on packages in R](http://cran.r-project.org/doc/FAQ/R-FAQ.html#Add-on-packages-in-R)), ask questions on R-help.\
+For questions about functions in standard packages distributed with R (see the FAQ [Add-on packages in R](https://cran.r-project.org/doc/FAQ/R-FAQ.html#Add-on-packages-in-R)), ask questions on R-help.\
  If the question relates to a *contributed package* , e.g., one downloaded from CRAN, try contacting the package maintainer first. You can also use `find("functionname")` and `packageDescription("packagename")` to find this information. **Only** send such questions to R-help or R-devel if you get no reply or need further assistance. This applies to both requests for help and to bug reports.
 
 Don't say *\`R crashed'*, which you may take to mean that R gave an error and terminated your piece of code, but most people will take to mean abnormal termination of the R program. Say exactly what happened, including any error messages you received.
@@ -89,16 +89,16 @@ When providing examples, it is best to give an R command that constructs the dat
 
 **Further resources:** not always consulting these before posting is OK, except perhaps if you have a very general question and the topic of the document indicates immediate relevancy. A response might just point you towards one of these.
 
--   [Writing R Extensions](http://cran.r-project.org/doc/manuals/R-exts.pdf) covers packages, to and from C & C++, R help files.
--   [R Data Import/Export](http://cran.r-project.org/doc/manuals/R-data.pdf) covers reading from and exporting to other file formats
--   [R Language Definition](http://cran.r-project.org/doc/manuals/R-lang.pdf) (aka \`R Language Manual') describes the R language, data objects, etc. This document specifies many details of R that are not covered in the help pages or in "An Introduction to R".
--   The article \`R Help Desk' by Uwe Ligges in the [R Newsletter Vol 3 No 1](http://cran.r-project.org/doc/Rnews/Rnews_2003-1.pdf) has useful tips about where to find information about R.
--   Two books are often cited in answers to questions: [Venables & Ripley, 2002, Modern Applied Statistics with S (4th ed)](http://www.stats.ox.ac.uk/pub/MASS4) ("MASS") and
- [Pinheiro & Bates, 2000](http://link.springer.com/book/10.1007%2Fb98882)
+-   [Writing R Extensions](https://cran.r-project.org/doc/manuals/R-exts.pdf) covers packages, to and from C & C++, R help files.
+-   [R Data Import/Export](https://cran.r-project.org/doc/manuals/R-data.pdf) covers reading from and exporting to other file formats
+-   [R Language Definition](https://cran.r-project.org/doc/manuals/R-lang.pdf) (aka \`R Language Manual') describes the R language, data objects, etc. This document specifies many details of R that are not covered in the help pages or in "An Introduction to R".
+-   The article \`R Help Desk' by Uwe Ligges in the [R Newsletter Vol 3 No 1](https://cran.r-project.org/doc/Rnews/Rnews_2003-1.pdf) has useful tips about where to find information about R.
+-   Two books are often cited in answers to questions: [Venables & Ripley, 2002, Modern Applied Statistics with S (4th ed)](http://www.stats.ox.ac.uk/pub/MASS4/) ("MASS") and
+ [Pinheiro & Bates, 2000](https://link.springer.com/book/10.1007%2Fb98882)
 <!-- this is DOI:10.1007/b98882 -->
  (about lme in particular). If you can get these books, look at them. If you cannot, you might indicate this in your question. Further books relevant to R are listed at [Publications](doc/bib/R-publications.html).
--   The [Contributed Documentation](http://cran.r-project.org/other-docs.html) page lists a number of useful introductory and other documents available online.
--   The R-help archives (see under \`Archives and Search Facilities' at <http://www.r-project.org/mail.html>)
+-   The [Contributed Documentation](https://cran.r-project.org/other-docs.html) page lists a number of useful introductory and other documents available online.
+-   The R-help archives (see under \`Archives and Search Facilities' at <https://www.r-project.org/mail.html>)
 -   A Google search of the web in general or the r-project site specifically (put \`site:r-project.org' at the beginning of the search terms)
 
 **Responding to other posts:**

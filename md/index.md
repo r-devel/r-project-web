@@ -4,12 +4,12 @@ title: The R Project for Statistical Computing
 
 ## Getting Started
 
-R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. To **[download R](http://cran.r-project.org/mirrors.html)**, please choose your preferred [CRAN mirror](http://cran.r-project.org/mirrors.html).
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. To **[download R](https://cran.r-project.org/mirrors.html)**, please choose your preferred [CRAN mirror](https://cran.r-project.org/mirrors.html).
 
-If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
+If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
--   [**R version 4.0.4 (Lost Library Book) prerelease versions**](http://cran.r-project.org/src/base-prerelease/) will appear starting Friday 2021-02-05. Final release is scheduled for Monday 2021-02-15. 
+-   [**R version 4.0.4 (Lost Library Book) prerelease versions**](https://cran.r-project.org/src/base-prerelease/) will appear starting Friday 2021-02-05. Final release is scheduled for Monday 2021-02-15. 
 -   [**R version 4.0.3 (Bunny-Wunnies Freak Out)**](https://cran.r-project.org/src/base/R-4/)
     has been released on 2020-10-10.
 -   Thanks to the organisers of useR! 2020 for a successful online conference. Recorded tutorials and talks from the conference are available on the
@@ -33,5 +33,5 @@ If you have questions about R like how to download and install the software, or 
  charset="utf-8"></script>
 
 <!--- (Boilerplate for release run-in)
--   [**R version 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease/) will appear starting February 28. Final release is scheduled for 2015-03-09.
+-   [**R version 3.1.3 (Smooth Sidewalk) prerelease versions**](https://cran.r-project.org/src/base-prerelease/) will appear starting February 28. Final release is scheduled for 2015-03-09.
 -->

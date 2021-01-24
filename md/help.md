@@ -58,7 +58,7 @@ if the vignette name is not unique): for example, `vignette("timedep")` or
 equivalent).
 
 Vignettes may also be accessed from the CRAN page for the package
-(e.g. [survival](https://cran.r-project.org/web/packages/survival/index.html)),
+(e.g. [survival](https://cran.r-project.org/package=survival)),
 if you wish to review the vignette for a package prior to installing and/or
 using it.
 
@@ -131,10 +131,10 @@ packages and other documentation resources.
 
 There are internet search sites that are specialized for R searches,
 including [search.r-project.org](http://search.r-project.org/) (which is
-the site used by `RSiteSearch`) and [Rseek.org](http://www.rseek.org/).
+the site used by `RSiteSearch`) and [Rseek.org](https://rseek.org/).
 
 It is also possible to use a general search site like
-[Google](http://google.com/), by qualifying the search with "R" or the name
+[Google](https://www.google.com/), by qualifying the search with "R" or the name
 of an R package (or both). It can be particularly helpful to paste an error
 message into a search engine to find out whether others have solved a
 problem that you encountered.
@@ -168,21 +168,21 @@ example of the problem that others can execute. For information on how to
 ask questions, see, e.g., the R mailing list
 [posting guide](https://www.r-project.org/posting-guide.html), and the
 document about
-[how to create reproducible examples for R](http://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
+[how to create reproducible examples for R](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
 on Stack Overflow.
 
 ### Stack Overflow
 
-[Stack Overflow](http://stackoverflow.com) is a well organized and
+[Stack Overflow](https://stackoverflow.com/) is a well organized and
 formatted site for help and discussions about programming. It has
 excellent searchability. Topics are tagged, and ["r" is a very popular
-tag on the site](http://stackoverflow.com/tags/r/info) with almost
+tag on the site](https://stackoverflow.com/tags/r/info) with almost
 150,000 questions (as of summer 2016).  To go directly to R-related
 topics, visit 
-[http://stackoverflow.com/questions/tagged/r](http://stackoverflow.com/questions/tagged/r).
+[http://stackoverflow.com/questions/tagged/r](https://stackoverflow.com/questions/tagged/r).
 For an example both of the value of the site's organization and
 information that is very useful to R users, see 
-["How to make a great R reproducible example?"](http://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example), 
+["How to make a great R reproducible example?"](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example), 
 which is also mentioned above.
 
 

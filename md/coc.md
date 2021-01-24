@@ -97,7 +97,7 @@ onwards for examples.]
 
 ## Acknowledgements
 
-Parts of the above text are licensed [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/). 
+Parts of the above text are licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 Credit to [SRCCON](https://srccon.org/conduct/). This code of conduct 
 was based on that developed for [useR! 2018](https://user2018.r-project.org/code_of_conduct/) 
 which was a revision of the code of conduct used at previous useR!s 

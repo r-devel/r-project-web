@@ -103,7 +103,7 @@ Additionally, there are several specific ***S**pecial **I**nterest **G**roup* (=
 * [`R-SIG-teaching`](https://stat.ethz.ch/mailman/listinfo/r-sig-teaching):
   SIG on Teaching Statistics (and more) using R
 
-To satisfy geographic or regional (or subject) needs, some R users have formed *"R User Groups"* for which there are mailing lists. Information about most of these groups and their lists can be found on the [Revolution page](http://blog.revolutionanalytics.com/local-r-groups.html).
+To satisfy geographic or regional (or subject) needs, some R users have formed *"R User Groups"* for which there are mailing lists. Information about most of these groups and their lists can be found on the [Revolution page](https://blog.revolutionanalytics.com/local-r-groups.html).
 
 ## Archives and Search Facilities
 

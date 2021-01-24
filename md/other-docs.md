@@ -5,28 +5,28 @@ title: Documentation
 
 ## Document Collections, Journals and Proceedings
 
-In addition to the [manuals](http://cran.r-project.org/manuals.html), [FAQs](http://cran.r-project.org/faqs.html), the [R Journal](http://journal.r-project.org) and its predecessor [R News](http://cran.r-project.org/doc/Rnews/), the following sites may be of interest to R users:
+In addition to the [manuals](https://cran.r-project.org/manuals.html), [FAQs](https://cran.r-project.org/faqs.html), the [R Journal](http://journal.r-project.org) and its predecessor [R News](https://cran.r-project.org/doc/Rnews/), the following sites may be of interest to R users:
 
 -   Browsable HTML versions of the [manuals, help pages and NEWS](http://stat.ethz.ch/R-manual/) for the developing versions of R “*R-patched*” and “*R-devel*”, updated daily.
--   CRAN has a growing list of [contributed documentation](http://cran.r-project.org/other-docs.html) in a variety of languages.
+-   CRAN has a growing list of [contributed documentation](https://cran.r-project.org/other-docs.html) in a variety of languages.
 -   A list of [books](doc/bib/R-books.html) and [other publications](doc/bib/R-other.html) related to R.
--   The [Journal of Statistical Software](http://www.jstatsoft.org) features R-related articles like package guides on a regular basis.
+-   The [Journal of Statistical Software](https://www.jstatsoft.org/) features R-related articles like package guides on a regular basis.
 -   Proceedings from the International Workshops on [Distributed Statistical Computing](http://www.ci.tuwien.ac.at/Conferences/DSC.html).
 
 ## Smaller Collections and Single Documents
 
-R guides and documentation not contained in the [contributed documentation](http://cran.r-project.org/other-docs.html) section of CRAN:
+R guides and documentation not contained in the [contributed documentation](https://cran.r-project.org/other-docs.html) section of CRAN:
 
 -   Sigal Blay maintains a web page with [“Technical Notes on the R Programming Language”](http://www.sfu.ca/~sblay/R/).
 -   Wei-Chen Chen maintains a web page with notes on [“The Exploration of Statistic Software R”](https://snoweye.github.io/R_note/).
 -   David Rossiter maintains a web page with several [(geo-)statistics tutorials using R](http://www.css.cornell.edu/faculty/dgr2/tutorials/index.html).
 -   David Hiebeler maintains a tutorial [“Matlab/R Reference”](https://umaine.edu/mathematics/david-hiebeler/computing-software/matlab-r-reference/) in PDF with some Matlab functions.
--   K. A. Garrett et al have written several papers on ["Ecology and epidemiology in the R programming environment"](https://www.apsnet.org/edcenter/disimpactmngmnt/topc/EcologyAndEpidemiologyInR/Pages/default.aspx) published as part of the [The Plant Health Instructor](http://www.apsnet.org/) (URL change on 2011-02-01).
+-   K. A. Garrett et al have written several papers on ["Ecology and epidemiology in the R programming environment"](https://www.apsnet.org/edcenter/disimpactmngmnt/topc/EcologyAndEpidemiologyInR/Pages/default.aspx) published as part of the [The Plant Health Instructor](https://www.apsnet.org/) (URL change on 2011-02-01).
 -   Benjamin Yakir has written a book named [“Introduction to Statistical Thinking (With R, Without Calculus)”](http://pluto.huji.ac.il/~msby/StatThink/index.html). Both the PDF document and data sets are available from the webpage.
 -   Avril Coghlan maintains
-    -   [“A Little Book of R for Biomedical Statistics”](http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org)
-    -   [“A Little Book of R for Time Series”](http://a-little-book-of-r-for-time-series.readthedocs.org)
-    -   [“A Little Book of R for Multivariate Analysis”](http://little-book-of-r-for-multivariate-analysis.readthedocs.org)
+    -   [“A Little Book of R for Biomedical Statistics”](https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io/)
+    -   [“A Little Book of R for Time Series”](https://a-little-book-of-r-for-time-series.readthedocs.io/)
+    -   [“A Little Book of R for Multivariate Analysis”](https://little-book-of-r-for-multivariate-analysis.readthedocs.io/)
 
     which can be browsed as HTML and downloaded as PDF.
 

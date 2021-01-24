@@ -28,7 +28,7 @@ The broad goals of Bioconductor are to
 ### Rgeo: Spatial Statistics with R
 <https://geodacenter.asu.edu/projects/rsp>
 
-This collection of web pages is intended to be a supplement to the [Spatial](http://cran.r-project.org/view=Spatial) Task View on CRAN. It provides news, and guides to some of the resources for the analysis of spatial data using R, and other associated software.
+This collection of web pages is intended to be a supplement to the [Spatial](https://cran.r-project.org/view=Spatial) Task View on CRAN. It provides news, and guides to some of the resources for the analysis of spatial data using R, and other associated software.
 
 ### Robust Statistics with R
 <http://cstat.tuwien.ac.at/rsr/>
@@ -36,7 +36,7 @@ This collection of web pages is intended to be a supplement to the [Spatial](htt
 This web page contains information about the development of tools in R for methods in Robust Statistics.
 
 **Rmetrics: Financial Market Analysis with R**
-<http://www.rmetrics.org>
+<https://www.rmetrics.org/>
 
 Rmetrics is an open source solution for financial market analysis and valuation of financial instruments.
 
@@ -45,7 +45,7 @@ Rmetrics is an open source solution for financial market analysis and valuation 
 Projects focusing on computational infrastructure, user interfaces, web-based services, etc.
 
 ### Omegahat: Distributed Statistical Computing
-<http://www.omegahat.org>
+<http://www.omegahat.net>
 
 Omega is a joint project with the goal of providing a variety of open-source software for statistical applications. The Omega project began with discussions among designers responsible for three current statistical languages (S, R, and Lisp-Stat), with the idea of working together on new directions with special emphasis on web-based software, Java, the Java virtual machine, and distributed computing. Omega encourages participation by anyone wanting to extend computing capabilities in one of the existing languages, to those interested in distributed or web-based statistical software, and to those interested in the design of new statistical languages.
 
@@ -57,10 +57,10 @@ An Emacs-Lisp interface to interactive statistical programming and data analysis
 ### R for Mediawiki 
 <https://www.mediawiki.org/wiki/Extension:R>
 
-allows to run R programs and display results (graphics, text) within [Mediawiki](http://www.mediawiki.org), the software behind [Wikipedia](http://www.wikipedia.org) and other wiki projects.
+allows to run R programs and display results (graphics, text) within [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki), the software behind [Wikipedia](https://www.wikipedia.org) and other wiki projects.
 
 ### TANGO/ALGENCAN
-<http://www.ime.usp.br/~egbirgin/tango/>
+<https://www.ime.usp.br/~egbirgin/tango/>
 
 Fortran code for the Augmented Lagrangian method for nonlinear programming problems, with interfaces to AMPL, C/C++, CUTEr, Matlab, Python, Octave and R.
 

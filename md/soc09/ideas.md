@@ -95,7 +95,7 @@ Second step is the creation of a CRAN software metrics monitor. This means a ser
 
 "You can't control what you can't measure" is stated by Tom DeMarco, Controlling Software Projects: Management, Measurement and Estimation.
 
-**Programming exercise:** How many functions has the [archetypes](http://cran.r-project.org/web/packages/archetypes/) package? Write some R code which counts them.
+**Programming exercise:** How many functions has the [archetypes](https://cran.r-project.org/package=archetypes) package? Write some R code which counts them.
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ The goal of this project is to create an integrated debugger for R, based on the
 
 **Summary:** The goal of this Summer of Code project is to
 
-1.  extend the coverage of [QuantLib](http://www.quantlib.org) code available to R by adding more wrapper functions to [RQuantLib](http://cran.r-project.org/web/packages/RQuantLib/index.html) [(\*)](#p6r), and to
+1.  extend the coverage of [QuantLib](http://www.quantlib.org) code available to R by adding more wrapper functions to [RQuantLib](https://cran.r-project.org/package=RQuantLib) [(\*)](#p6r), and to
 2.  provide additional functionality to QuantLib by leveraging the numerous statistical facilities in R -- this could be anything from standard to robust estimation methods, data visualization or report creation via tools like Sweave.
 
 **Required skills:** Good R and C++ programming skills. At least some familiarity with basic open source tools like svn, make, ... is beneficial as well. Some understanding of financial economics may be helpful but is not required.

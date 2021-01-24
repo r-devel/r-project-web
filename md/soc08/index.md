@@ -46,5 +46,5 @@ The main aim of this project would be to re-implement most popular models of the
 
 The GSoC project involves creating an R add-on package that provides the 'glue' between the DBI package and PostgreSQL. This will bridge the existing gap for a DBI connection between the premier Open Source data analysis system R and the object-relational database management system PostgreSQL.
 
-[Application Information](http://code.google.com/soc/2008/rf/appinfo.html?csaid=A42821F29AAA07BA), [Project website](http://rpostgresql.googlecode.com/), [Code repository](http://rpostgresql.googlecode.com/svn), [Package](http://cran.r-project.org/package=RPostgreSQL).
+[Application Information](http://code.google.com/soc/2008/rf/appinfo.html?csaid=A42821F29AAA07BA), [Project website](http://rpostgresql.googlecode.com/), [Code repository](http://rpostgresql.googlecode.com/svn), [Package](https://cran.r-project.org/package=RPostgreSQL).
 

@@ -46,7 +46,7 @@ In addition to the project ideas listed below, R-related projects can also be fo
 
 **References:**
 
--   [DBI](http://cran.r-project.org/web/packages/DBI/index.html)
+-   [DBI](https://cran.r-project.org/package=DBI)
 -   [Rdbi](http://www.bioconductor.org/packages/bioc/html/Rdbi.html)
 -   [RdbiPgSQ](http://www.bioconductor.org/packages/bioc/html/RdbiPgSQL.html)
 
@@ -72,7 +72,7 @@ In addition to the project ideas listed below, R-related projects can also be fo
 
 **Required skills:** Familiarity with Ruby and R, and web development in general (html, css, js, ...). knowledge of RSS/Atom could be useful.
 
-**Description:** The CRAN archives contain over 1300 source packages of very high-quality, and BioConductor has another 200+. For many data analytic tasks there is more than one package offering a solution, often using different names for similar functionality, because different research communities may use different vocabulary for similar methods (e.g., statistics vs. machine learning jargon). Hence it is often hard for users to find the packages they really need. CRAN [task views](http://cran.r-project.org/web/views/) offer some help, but are edited by designated maintainers and hence cannot cover all fields and aspects.
+**Description:** The CRAN archives contain over 1300 source packages of very high-quality, and BioConductor has another 200+. For many data analytic tasks there is more than one package offering a solution, often using different names for similar functionality, because different research communities may use different vocabulary for similar methods (e.g., statistics vs. machine learning jargon). Hence it is often hard for users to find the packages they really need. CRAN [task views](https://cran.r-project.org/web/views/) offer some help, but are edited by designated maintainers and hence cannot cover all fields and aspects.
 
 [crantastic.org](http://crantastic.org) implements a first step in complementing this with package reviews from the useR community, but it still lacks many features we would like to have: integration with task views, vignettes, and journal publications; match authors and users based on email address; list top users and authors on respective pages; implement a rating system; event streams for packages and users; integration with [CRANberries RSS feed](http://dirk.eddelbuettel.com/cranberries/index.rss), etc.
 
@@ -82,11 +82,11 @@ In addition to the project ideas listed below, R-related projects can also be fo
 
 **Mentor:** [Friedrich Leisch](http://www.statistik.lmu.de/~leisch/)
 
-**Summary:** Transfer the most popular mixture models in R package [flexmix](http://cran.R-project.org/package=flexmix) from interpreted R code to compiled C code, add interactive visualization to the package.
+**Summary:** Transfer the most popular mixture models in R package [flexmix](https://cran.R-project.org/package=flexmix) from interpreted R code to compiled C code, add interactive visualization to the package.
 
 **Required skills:** Familiarity with R, preferably actual programming experience. C programming.
 
-**Description:** Finite mixture models are the current state-of-the-art in marketing research to cluster consumers into market segments. Package [flexmix](http://cran.R-project.org/package=flexmix) implements a flexible framework for fitting this type of models, and is mainly designed for rapid prototyping. As all code is currently interpreted R code, the fitting is rather slow for large data sets. In order to use the package for mining large data sets, the most poular models in the package should be re-implemented in C. In addition, there are ideas on interactive visualization of these models using R packages like [rggobi](http://cran.R-project.org/package=rggobi) or [iplots](http://cran.R-project.org/package=iplots).
+**Description:** Finite mixture models are the current state-of-the-art in marketing research to cluster consumers into market segments. Package [flexmix](https://cran.R-project.org/package=flexmix) implements a flexible framework for fitting this type of models, and is mainly designed for rapid prototyping. As all code is currently interpreted R code, the fitting is rather slow for large data sets. In order to use the package for mining large data sets, the most poular models in the package should be re-implemented in C. In addition, there are ideas on interactive visualization of these models using R packages like [rggobi](https://cran.R-project.org/package=rggobi) or [iplots](https://cran.R-project.org/package=iplots).
 
 ------------------------------------------------------------------------
 
