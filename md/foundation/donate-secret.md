@@ -19,7 +19,7 @@ fill out the same form.
 
 If you want to donate money to the R Foundation, please fill out the online
 donation form below. All donors will be listed on the R project homepage and in one issue
-of [the R Journal](http://journal.r-project.org) per year (unless the
+of [the R Journal](https://journal.r-project.org) per year (unless the
 respective donor prefers otherwise).  If you want to donate money to the R
 Foundation offline, please fill out the [PDF donation
 form](donation-form.pdf) and return it by fax or mail.
@@ -32,4 +32,4 @@ form](donation-form.pdf) and return it by fax or mail.
 organisation in the USA. The Society of Indian Academics in America (SIAA) has
 kindly offered to fund R Foundation activities if donations to it are
 earmarked for this use, and these donations may be tax deductible.  For
-details, please see [the SIAA website](http://www.siaaus.org).
+details, please see [the SIAA website](https://siaaus.net/).

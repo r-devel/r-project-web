@@ -105,7 +105,7 @@ When providing examples, it is best to give an R command that constructs the dat
 
 -   In general, respond both to the list and to the poster. This will result in your response being archived and the poster will see your answer.
 -   Rudeness and ad hominem comments are not acceptable. Brevity is OK.
--   Take care when you quote other people's comments to respect their rights, e.g., as summarized [here](http://www.jiscmail.ac.uk/policyandsecurity/copyrightissues.html). In particular:
+-   Take care when you quote other people's comments to respect their rights, e.g., as summarized [here](https://www.jiscmail.ac.uk/policyandsecurity/copyrightissues.html). In particular:
     -   Private messages should never be quoted without permission.
     -   The original authorship and meaning should always be clear.
 -   It is common practice to quote prior messages in entirety.
