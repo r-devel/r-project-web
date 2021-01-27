@@ -69,7 +69,7 @@ Fortran code for the Augmented Lagrangian method for nonlinear programming probl
 * [Statlib S Archive](http://ftp.uni-bayreuth.de/math/statlib/S/): A rich source of useful 
   code, as most S code runs under R.
 
-* [Dataverse Network Project](http://thedata.org/): DVN increases scholarly 
+* [Dataverse Network Project](https://dataverse.org/): DVN increases scholarly 
   recognition and distributed control for authors, journals, and others who 
   make data available, and facilitates data access and analysis for researchers
   via web software, data citation standards, and statistical methods.
