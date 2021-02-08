@@ -6,7 +6,7 @@ There are two ways to give money to the R Foundation.  You can either become
 a supporting member of the R foundation with an annual donation of &euro;
 25.00, or you can give a one off or recurring donation of any amount starting at &euro; 50.00. 
 If you have questions, please contact <treasurer@R-project.org>. Like all
-activities of the R Foundation, donations are managed by volonteers and
+activities of the R Foundation, donations are managed by volunteers and
 the list of donors is typically updated once or twice per month. 
 
 ## Supporting Membership Application Form
