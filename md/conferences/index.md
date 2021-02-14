@@ -22,7 +22,7 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-[useR! 2021](https://user2021.r-project.org/), will take place online, from July 5 to July 9. 
+[useR! 2021](https://user2021.r-project.org/) will take place online, from July 5 to July 9. 
 As the first useR! designed to be a global, online event, the organizing committee welcomed proposals for tutorials in English, French and Spanish (submission now closed) and talks may be presented in any language (non-English talks required to have English transcript, abstract submission open until Monday March 15, [further details](https://user2021.r-project.org/participation/call-for-abstracts/)).
 
 For the latest updates, follow ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
