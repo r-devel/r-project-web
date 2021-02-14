@@ -2,11 +2,9 @@
 title: Conferences
 ---
 
-**News**: [call for proposals](/useR-2021_call.html) to host useR! 2021 (deadline now passed).
-
 The R Foundation actively supports two conference series, organized regularly by members from the R community:
 
-* useR!, providing a forum to the R user community.
+* useR!, a forum for the R user community.
 * DSC, a platform for developers of statistical software.
 
 A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation/).
@@ -24,17 +22,18 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-[useR! 2020](https://user2020.r-project.org/), which was to be held in
-St. Louis, Missouri from July 7 to July 10, will now take place
-entirely online.  Follow
-['@useR2020stl'](https://twitter.com/useR2020stl) on Twitter for
-further news.
+[useR! 2021](https://user2021.r-project.org/), will take place online, from July 5 to July 9. 
+As the first useR! designed to be a global, online event, the organizing committee welcomed proposals for tutorials in English, French and Spanish (submission now closed) and talks may be presented in any language (non-English talks required to have English transcript, abstract submission open until Monday March 15, [further details](https://user2021.r-project.org/participation/call-for-abstracts/)).
 
-The [call for proposals](/useR-2021_call.html) to host useR! 2021 is now closed. For updates, follow 
-['@_R_Foundation'](https://twitter.com/_r_foundation) on Twitter. Announcements are also made on 
+For the latest updates, follow ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
+
+We are not currently seeking hosts or organizers for future useR! conferences. 
+Any calls for proposals will be announced on this page and the R Foundation Twitter account, ['@_R_Foundation'](https://twitter.com/_r_foundation). 
+
+Announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on 
 the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
 
-useR! is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
+useR! is the main meeting of the R user and developer community, its program consists of both invited and user-contributed presentations:
 
 -   The invited keynote lectures cover a broad spectrum of topics ranging from technical and R-related computing issues to general statistical topics of current interest.
 -   The user-contributed presentations are submitted as abstracts prior to the conference and may be related to (virtually) any R-related topic. The presentations are typically organized in sessions of regular talks, lightning talks, and poster presentations.
@@ -44,7 +43,9 @@ Usually, no proceedings are published for useR! conferences.
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
 
-* [useR! 2020](https://user2020.r-project.org/), St Louis, MO, USA.
+* [useR! 2021](https://user2021.r-project.org/), online.
+
+* [useR! 2020](https://user2020.r-project.org/), online.
 
 * [useR! 2019](https://user2019.r-project.org/), Toulouse, France.
   ([local copy](https://www.r-project.org/conferences/useR-2019/)).
