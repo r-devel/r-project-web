@@ -27,7 +27,6 @@ Donors (after March 2017)
 -----------
 
 
--   [igjit _ (Japan)](https://twitter.com/igjit)
 -   [WordPress Hosting Buddy (United States)](https://webhostingbuddy.com/wordpress-hosting/)
 -   [ilustat (Portugal)](https://ilustat.com)
 -   Vladimir Benda (Slovakia)
@@ -105,6 +104,7 @@ Donors (after March 2017)
 -   Dr. Alfred Wagner (Germany)
 -   Runrun Wei (China)
 -   Daniel Wollschläger (Germany)
+-   [Duct Cleaning Winnipeg (Canada)](https://www.airductcleaningwinnipeg.com/)
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -203,7 +203,6 @@ Supporting Benefactors
 
 
 -   [Thomas Levine (United States)](https://thomaslevine.com/)
--   b-data GmbH, Winterthur (Switzerland)
 -   McGill University, Ottawa (Canada)
 -   [www.5slotsites.com , Alderley Edge (United Kingdom)](https://www.5slotsites.com)
 -   [www.ohmybingo.com, Alderley Edge (United Kingdom)](https://www.ohmybingo.com)
@@ -224,7 +223,6 @@ Supporting Members
 -   Diogo Almeida (United Arab Emirates)
 -   Tim Appelhans (Germany)
 -   Paul Artes (United Kingdom)
--   Srinivas B (India)
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
 -   Chris Billingham (United Kingdom)
@@ -235,6 +233,7 @@ Supporting Members
 -   Susan M Carlson (United States)
 -   Robert Carnell (United States)
 -   Cédric Chambru (Switzerland)
+-   John Chandler (United States)
 -   Michael Chirico (United States)
 -   Tom Clarke (United Kingdom)
 -   Luca Cocconcelli (United Kingdom)
@@ -259,12 +258,10 @@ Supporting Members
 -   Dane Evans (United States)
 -   Guenter Faes (Germany)
 -   Gottfried Fischer (Austria)
--   Shalese Fitzgerald (United States)
 -   Isaac Florence (United Kingdom)
 -   Neil Frazer (United States)
 -   Huancheng Fu (China)
 -   Keita Fukasawa (Japan)
--   Laura Gabrysiak (United States)
 -   Jutta Gampe (Germany)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
@@ -298,6 +295,7 @@ Supporting Members
 -   Miha Kosmac (United Kingdom)
 -   Daniel Krüerke (Switzerland)
 -   Jan Herman Kuiper (United Kingdom)
+-   Chris Kuty (United States)
 -   HOONJEONG KWON (Korea, Republic of)
 -   Luca La Rocca (Italy)
 -   Adrien Le Guillou (France)
@@ -355,7 +353,6 @@ Supporting Members
 -   Tobias Strapatsas (Germany)
 -   ROBERT Szabo (Sweden)
 -   Dag Tanneberg (Germany)
--   Koray Tascilar (Germany)
 -   Ville Tenhunen (Netherlands)
 -   Michael Tiefelsdorf (United States)
 -   Con Tumass-o'Pool (Australia)
@@ -372,4 +369,4 @@ Supporting Members
 
 
 
-Last update: 2021-02-05
+Last update: 2021-02-25
