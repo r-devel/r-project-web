@@ -100,7 +100,6 @@ Donors (after March 2017)
 -   [Maple Ridge Tree Service (Canada)](https://www.mapleridgetreeservice.ca/)
 -   Kate Tuzov (Canada)
 -   Rav Vaid (United States)
--   Ravinderpal Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
 -   Runrun Wei (China)
 -   Daniel Wollschläger (Germany)
@@ -212,6 +211,7 @@ Supporting Institutions
 
 
 -   Code Ocean, New York (United States)
+-   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
 -   Ef-prime, Inc., 日本橋茅場町 (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   University of Iowa, Iowa City (United States)
@@ -225,10 +225,13 @@ Supporting Members
 -   Paul Artes (United Kingdom)
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
+-   Frederic BERTRAND (France)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
+-   Ryan Bonifacino (United States)
 -   Wesley Brooks (United States)
+-   Jack Brown (United Kingdom)
 -   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
 -   Robert Carnell (United States)
@@ -284,6 +287,7 @@ Supporting Members
 -   Lorenzo Isella (Belgium)
 -   Sebastian Jeworutzki (Germany)
 -   Grant Joslin (United States)
+-   Péter Kalicz (Hungary)
 -   Christian Kampichler (Netherlands)
 -   Srikanth Kannan (India)
 -   Curtis Kephart (United States)
@@ -309,6 +313,7 @@ Supporting Members
 -   Sharon Machlis (United States)
 -   John MacKintosh (United Kingdom)
 -   Michal Majka (Austria)
+-   Myriam Maumy (France)
 -   Daniel McNichol (United States)
 -   Bogdan-Alexandru Micu (Luxembourg)
 -   harvey minnigh (Puerto Rico)
@@ -354,7 +359,6 @@ Supporting Members
 -   ROBERT Szabo (Sweden)
 -   Dag Tanneberg (Germany)
 -   Ville Tenhunen (Netherlands)
--   Michael Tiefelsdorf (United States)
 -   Con Tumass-o'Pool (Australia)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
@@ -369,4 +373,4 @@ Supporting Members
 
 
 
-Last update: 2021-02-25
+Last update: 2021-03-11
