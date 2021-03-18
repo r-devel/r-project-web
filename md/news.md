@@ -10,6 +10,7 @@ New features and bug fixes of the latest release version of R are documented in 
 
 Important announcements posted by the R Core Development team:
 
+* [R-announce messages 2021](https://stat.ethz.ch/pipermail/r-announce/2021/date.html#end)
 * [R-announce messages 2020](https://stat.ethz.ch/pipermail/r-announce/2020/date.html#end)
 * [R-announce messages 2019](https://stat.ethz.ch/pipermail/r-announce/2019/date.html#end)
 * [R-announce messages 2018](https://stat.ethz.ch/pipermail/r-announce/2018/date.html#end)
@@ -33,6 +34,7 @@ Important announcements posted by the R Core Development team:
 [Announcements](https://stat.ethz.ch/pipermail/r-packages/) of new or enhanced contributed
 R packages on CRAN, typically by the package authors:
 
+* [R-packages messages 2021](https://stat.ethz.ch/pipermail/r-packages/2021/date.html#end).
 * [R-packages messages 2020](https://stat.ethz.ch/pipermail/r-packages/2020/date.html#end).
 * [R-packages messages 2019](https://stat.ethz.ch/pipermail/r-packages/2019/date.html#end).
 * [R-packages messages 2018](https://stat.ethz.ch/pipermail/r-packages/2018/date.html#end).
