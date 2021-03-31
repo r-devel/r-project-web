@@ -14,7 +14,9 @@ the list of donors is typically updated once or twice per month.
 To become a supporting member of the R Foundation, please fill out the
 online membership application form below. To renew your membership, please
 fill out the same form, or set-up a recurring payment. 
+
 The name or institution can be hyperlinked 
+(with page ranking calculations disabled via ["nofollow"](https://en.wikipedia.org/wiki/Nofollow))
 on the [members and donors page](donors.html). Supporting members are listed in one issue
 of [the R Journal](https://journal.r-project.org).
 
@@ -26,6 +28,7 @@ If you want to donate money to the R Foundation, please fill out the online
 donation form below. All donors will be listed on the R project homepage and in one issue
 of [the R Journal](http://journal.r-project.org) per year (unless the
 respective donor prefers otherwise). The personal or company name can be hyperlinked 
+(with page ranking calculations disabled, see above)
 on the [members and donors page](donors.html). If you want to donate money to the R
 Foundation offline, please fill out the [PDF donation form](donation-form.pdf) and return it by fax or mail.
 
