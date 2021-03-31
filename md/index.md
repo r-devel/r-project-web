@@ -9,9 +9,8 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
--   [**R version 4.0.5 (Shake and Throw) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Wednesday 2021-03-24. Final release is scheduled for Wednesday 2021-03-31. 
--   [**R version 4.0.4 (Lost Library Book)**](https://cran.r-project.org/src/base/R-4)
-    has been released on 2021-02-15.
+-   [**R version 4.0.5 (Shake and Throw)**](https://cran.r-project.org/src/base/R-4)
+    has been released on 2021-03-31.
 -   Thanks to the organisers of useR! 2020 for a successful online conference. Recorded tutorials and talks from the conference are available on the
     [R Consortium YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/playlists).
 -   [**R version 3.6.3 (Holding the Windsock)**](https://cran.r-project.org/src/base/R-3/)
