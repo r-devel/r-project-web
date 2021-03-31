@@ -27,84 +27,83 @@ Donors (after March 2017)
 -----------
 
 
--   [WordPress Hosting Buddy (United States)](https://webhostingbuddy.com/wordpress-hosting/)
--   [ilustat (Portugal)](https://ilustat.com)
+-   `<a href="https://webhostingbuddy.com/wordpress-hosting/", rel="nofollow">WordPress Hosting Buddy (United States)</a>`{=html}
+-   `<a href="https://ilustat.com", rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
--   [b-data GmbH (Switzerland)](https://www.b-data.io)
+-   `<a href="https://www.b-data.io", rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
--   [JBL Digital Marketing (Australia)](http://jbldigitalmarketing.co)
--   [Essex Bricklayers (United Kingdom)](https://www.essexbricklayer.co.uk/)
--   [Darren Carlson (United States)](http://www.experthomebuildersnh.com/)
+-   `<a href="http://jbldigitalmarketing.co", rel="nofollow">JBL Digital Marketing (Australia)</a>`{=html}
+-   `<a href="https://www.essexbricklayer.co.uk/", rel="nofollow">Essex Bricklayers (United Kingdom)</a>`{=html}
+-   `<a href="http://www.experthomebuildersnh.com/", rel="nofollow">Darren Carlson (United States)</a>`{=html}
 -   Jacopo Cerri (Italy)
--   [Amy Tzu-Yu Chen (United States)](https://amy17519.me/)
+-   `<a href="https://amy17519.me/", rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   Ichu Cheng (Canada)
--   [Generators in Smithfield, Virginia (United States)](http://www.cogginelectrical.com)
--   [Vancouver Drafting (Canada)](https://www.vancouver-drafting.ca/)
--   [The R Conference (United States)](https://rstats.ai/)
--   [Lander Analytics (United States)](https://www.landeranalytics.com/)
--   [The New York Open Statistical Programming Meetup (United States)](http://nyhackr.org/)
+-   `<a href="http://www.cogginelectrical.com", rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
+-   `<a href="https://www.vancouver-drafting.ca/", rel="nofollow">Vancouver Drafting (Canada)</a>`{=html}
+-   `<a href="https://rstats.ai/", rel="nofollow">The R Conference (United States)</a>`{=html}
+-   `<a href="https://www.landeranalytics.com/", rel="nofollow">Lander Analytics (United States)</a>`{=html}
+-   `<a href="http://nyhackr.org/", rel="nofollow">The New York Open Statistical Programming Meetup (United States)</a>`{=html}
 -   Ruedi Epple (Switzerland)
--   [RV Detailing Pros of San Diego (United States)](https://www.rvdetailsandiego.com)
+-   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
 -   Mitchell Gail (United States)
--   [Charles Geyer (United States)](http://users.stat.umn.edu/~geyer/)
+-   `<a href="http://users.stat.umn.edu/~geyer/", rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
--   [Bryan Grant (United States)](https://www.bostonleatherrepair.com/)
+-   `<a href="https://www.bostonleatherrepair.com/", rel="nofollow">Bryan Grant (United States)</a>`{=html}
 -   Eetu Halme (Finland)
--   [Maple Ridge Handyman (Canada)](https://www.mapleridgehandyman.ca/)
--   [Burnaby Handyman (Canada)](https://www.handymanburnaby.ca/)
+-   `<a href="https://www.mapleridgehandyman.ca/", rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   Tim Huang (United States)
 -   ken ikeda (Japan)
--   [Morghan Jabusch (United States)](http://www.oahuinteriorpainting.com/interior.html)
--   [Scaffolder Kent (United Kingdom)](http://scaffoldinghirekent.com/)
--   [Roger Koenker (United Kingdom)](http://www.econ.uiuc.edu/~roger/)
+-   `<a href="http://www.oahuinteriorpainting.com/interior.html", rel="nofollow">Morghan Jabusch (United States)</a>`{=html}
+-   `<a href="http://scaffoldinghirekent.com/", rel="nofollow">Scaffolder Kent (United Kingdom)</a>`{=html}
+-   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Oleg V Kolesnikov (Ukraine)
 -   Ann-Sophie Lehnert (Germany)
--   [Bulk CBD Providers (United States)](https://wholesalehempandcbd.com/)
--   [Platinum Crete (United States)](https://www.stampedconcretefortwayne.net)
--   [Metal Roofing San Antonio (United States)](https://www.metalroofingsanantonio.net)
+-   `<a href="https://wholesalehempandcbd.com/", rel="nofollow">Bulk CBD Providers (United States)</a>`{=html}
+-   `<a href="https://www.stampedconcretefortwayne.net", rel="nofollow">Platinum Crete (United States)</a>`{=html}
+-   `<a href="https://www.metalroofingsanantonio.net", rel="nofollow">Metal Roofing San Antonio (United States)</a>`{=html}
 -   Parag Magunia (United States)
 -   John McMahon (United States)
 -   Nicholas Moskwa (United States)
 -   Jyoti Nagi (India)
--   [Minato Nakazawa (Japan)](https://minato.sip21c.org/)
+-   `<a href="https://minato.sip21c.org/", rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Rashid Nassar (United States)
--   [Loft Conversions Nottingham (United Kingdom)](https://www.conversions-nottingham.co.uk/)
--   [Appstam Consulting GmbH (Germany)](http://www.appstam.com)
+-   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Loft Conversions Nottingham (United Kingdom)</a>`{=html}
+-   `<a href="http://www.appstam.com", rel="nofollow">Appstam Consulting GmbH (Germany)</a>`{=html}
 -   Juan Perez-Franco (Chile)
--   [Careful Movers (United States)](https://www.carefulmovers.net/storage/)
--   [San Diego Piano Moving (United States)](https://www.pianomoverssandiego.net/)
--   [Bathroom Remodel Dayton (United States)](https://www.bathroomremodeldayton.net)
+-   `<a href="https://www.carefulmovers.net/storage/", rel="nofollow">Careful Movers (United States)</a>`{=html}
+-   `<a href="https://www.pianomoverssandiego.net/", rel="nofollow">San Diego Piano Moving (United States)</a>`{=html}
+-   `<a href="https://www.bathroomremodeldayton.net", rel="nofollow">Bathroom Remodel Dayton (United States)</a>`{=html}
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
--   [House Removals Gloucester (United Kingdom)](https://www.manwithavangloucester.com/)
--   [Alloy Wheel Refurb Gloucester (United Kingdom)](https://www.carbodyrepairsglos.com/alloy-wheel-repair.html)
--   [Roofers Gloucester (United Kingdom)](https://www.propertymaintenance-gloucester.co.uk/flat-roof-repair-and-construction.html)
--   [Tree Surgeon Cheltenham (United Kingdom)](https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html)
+-   `<a href="https://www.manwithavangloucester.com/", rel="nofollow">House Removals Gloucester (United Kingdom)</a>`{=html}
+-   `<a href="https://www.carbodyrepairsglos.com/alloy-wheel-repair.html", rel="nofollow">Alloy Wheel Refurb Gloucester (United Kingdom)</a>`{=html}
+-   `<a href="https://www.propertymaintenance-gloucester.co.uk/flat-roof-repair-and-construction.html", rel="nofollow">Roofers Gloucester (United Kingdom)</a>`{=html}
+-   `<a href="https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html", rel="nofollow">Tree Surgeon Cheltenham (United Kingdom)</a>`{=html}
 -   Pratham Singh (India)
--   [Bend Fencing Companies (United States)](https://www.allaboutfence.net/ )
--   [Nursing Home Vancouver (United States)](https://www.magnoliawa.com/)
--   [Clearwater Roofing (United States)](https://www.roofingcontractorsclearwater.com/)
--   [Clearwater Windows (United States)](https://www.tampabaywindowsfl.com/)
--   [Tree Service Brandon (United States)](https://www.treeremovalbrandon.com/)
--   [Jacksonville Pavers (United States)](https://www.paversjacksonvillefl.com/)
--   [Tampe Tree (United States)](https://www.tampafltreeservice.com/)
--   [Fast Movers Tampa (United States)](https://www.fastmoverstampa.com/)
--   [Allen's Tree Works (United States)](https://www.allenstreeworks.com/)
--   [Steve Smith (United States)](https://www.thetreefellerofpinellas.com/)
--   [Ian Smith (United Kingdom)](https://www.conversions-nottingham.co.uk/)
--   [Ian Smith (United Kingdom)](https://www.nottinghamkitchenfitter.co.uk/)
--   [Ian Smith (United Kingdom)](https://www.nottinghambathroomfitter.co.uk/)
+-   `<a href="https://www.allaboutfence.net/ ", rel="nofollow">Bend Fencing Companies (United States)</a>`{=html}
+-   `<a href="https://www.magnoliawa.com/", rel="nofollow">Nursing Home Vancouver (United States)</a>`{=html}
+-   `<a href="https://www.roofingcontractorsclearwater.com/", rel="nofollow">Clearwater Roofing (United States)</a>`{=html}
+-   `<a href="https://www.tampabaywindowsfl.com/", rel="nofollow">Clearwater Windows (United States)</a>`{=html}
+-   `<a href="https://www.treeremovalbrandon.com/", rel="nofollow">Tree Service Brandon (United States)</a>`{=html}
+-   `<a href="https://www.paversjacksonvillefl.com/", rel="nofollow">Jacksonville Pavers (United States)</a>`{=html}
+-   `<a href="https://www.tampafltreeservice.com/", rel="nofollow">Tampe Tree (United States)</a>`{=html}
+-   `<a href="https://www.fastmoverstampa.com/", rel="nofollow">Fast Movers Tampa (United States)</a>`{=html}
+-   `<a href="https://www.allenstreeworks.com/", rel="nofollow">Allen's Tree Works (United States)</a>`{=html}
+-   `<a href="https://www.thetreefellerofpinellas.com/", rel="nofollow">Steve Smith (United States)</a>`{=html}
+-   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
+-   `<a href="https://www.nottinghamkitchenfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
+-   `<a href="https://www.nottinghambathroomfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   Peter Stilwell (United Kingdom)
--   [Fergus Travers (France)](https://www.walsallroofingpros.com)
--   [Fergus Travers (France)](https://www.thecornwallgardeners.co.uk)
--   [Maple Ridge Tree Service (Canada)](https://www.mapleridgetreeservice.ca/)
--   Kate Tuzov (Canada)
+-   `<a href="https://www.walsallroofingpros.com", rel="nofollow">Fergus Travers (France)</a>`{=html}
+-   `<a href="https://www.thecornwallgardeners.co.uk", rel="nofollow">Fergus Travers (France)</a>`{=html}
+-   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
 -   Runrun Wei (China)
 -   Daniel Wollschläger (Germany)
--   [Duct Cleaning Winnipeg (Canada)](https://www.airductcleaningwinnipeg.com/)
+-   `<a href="https://www.airductcleaningwinnipeg.com/", rel="nofollow">Duct Cleaning Winnipeg (Canada)</a>`{=html}
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -270,7 +269,6 @@ Supporting Members
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
--   J. Antonio  García Ramírez (Mexico)
 -   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Brian Gramberg (Netherlands)
@@ -376,4 +374,4 @@ Supporting Members
 
 
 
-Last update: 2021-03-29
+Last update: 2021-03-31
