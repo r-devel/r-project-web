@@ -82,6 +82,8 @@ Donors (after March 2017)
 -   `<a href="https://www.propertymaintenance-gloucester.co.uk/flat-roof-repair-and-construction.html", rel="nofollow">Roofers Gloucester (United Kingdom)</a>`{=html}
 -   `<a href="https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html", rel="nofollow">Tree Surgeon Cheltenham (United Kingdom)</a>`{=html}
 -   Pratham Singh (India)
+-   `<a href="https://www.affordableroofingvancouver.com/", rel="nofollow">Vancouver Roofing (United States)</a>`{=html}
+-   `<a href="https://www.vancouverchimneysweep.com/", rel="nofollow">Tuckpointing Vancouver (United States)</a>`{=html}
 -   `<a href="https://www.allaboutfence.net/ ", rel="nofollow">Bend Fencing Companies (United States)</a>`{=html}
 -   `<a href="https://www.magnoliawa.com/", rel="nofollow">Nursing Home Vancouver (United States)</a>`{=html}
 -   `<a href="https://www.roofingcontractorsclearwater.com/", rel="nofollow">Clearwater Roofing (United States)</a>`{=html}
@@ -374,4 +376,4 @@ Supporting Members
 
 
 
-Last update: 2021-03-31
+Last update: 2021-04-01
