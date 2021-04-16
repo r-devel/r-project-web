@@ -28,6 +28,7 @@ Donors (after March 2017)
 
 
 -   `<a href="https://webhostingbuddy.com/wordpress-hosting/", rel="nofollow">WordPress Hosting Buddy (United States)</a>`{=html}
+-   Joaquín Baquer-Miravete (Spain)
 -   `<a href="https://ilustat.com", rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io", rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
@@ -50,11 +51,9 @@ Donors (after March 2017)
 -   `<a href="http://users.stat.umn.edu/~geyer/", rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   `<a href="https://www.bostonleatherrepair.com/", rel="nofollow">Bryan Grant (United States)</a>`{=html}
--   Eetu Halme (Finland)
 -   `<a href="https://www.mapleridgehandyman.ca/", rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   Tim Huang (United States)
--   ken ikeda (Japan)
 -   `<a href="http://www.oahuinteriorpainting.com/interior.html", rel="nofollow">Morghan Jabusch (United States)</a>`{=html}
 -   `<a href="http://scaffoldinghirekent.com/", rel="nofollow">Scaffolder Kent (United Kingdom)</a>`{=html}
 -   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
@@ -81,6 +80,8 @@ Donors (after March 2017)
 -   `<a href="https://www.propertymaintenance-gloucester.co.uk/flat-roof-repair-and-construction.html", rel="nofollow">Roofers Gloucester (United Kingdom)</a>`{=html}
 -   `<a href="https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html", rel="nofollow">Tree Surgeon Cheltenham (United Kingdom)</a>`{=html}
 -   Pratham Singh (India)
+-   `<a href="https://www.affordableroofingvancouver.com/", rel="nofollow">Vancouver Roofing (United States)</a>`{=html}
+-   `<a href="https://www.vancouverchimneysweep.com/", rel="nofollow">Tuckpointing Vancouver (United States)</a>`{=html}
 -   `<a href="https://www.allaboutfence.net/ ", rel="nofollow">Bend Fencing Companies (United States)</a>`{=html}
 -   `<a href="https://www.magnoliawa.com/", rel="nofollow">Nursing Home Vancouver (United States)</a>`{=html}
 -   `<a href="https://www.roofingcontractorsclearwater.com/", rel="nofollow">Clearwater Roofing (United States)</a>`{=html}
@@ -94,7 +95,6 @@ Donors (after March 2017)
 -   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghamkitchenfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghambathroomfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
--   Peter Stilwell (United Kingdom)
 -   `<a href="https://www.walsallroofingpros.com", rel="nofollow">Fergus Travers (France)</a>`{=html}
 -   `<a href="https://www.thecornwallgardeners.co.uk", rel="nofollow">Fergus Travers (France)</a>`{=html}
 -   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
@@ -209,6 +209,7 @@ Supporting Institutions
 
 
 -   Code Ocean, New York (United States)
+-   Department of Clinical Research, University Hospital Basel, Basel (Switzerland)
 -   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
 -   Ef-prime, Inc., 日本橋茅場町 (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
@@ -258,6 +259,7 @@ Supporting Members
 -   cristiano esclapon (Switzerland)
 -   Dane Evans (United States)
 -   Guenter Faes (Germany)
+-   Vancouver Fencing (Canada)
 -   Gottfried Fischer (Austria)
 -   Isaac Florence (United Kingdom)
 -   Neil Frazer (United States)
@@ -283,6 +285,7 @@ Supporting Members
 -   BaoGiang HoangVu (Vietnam)
 -   Alexander Huelle (Germany)
 -   Alessamdro Ielpi (Canada)
+-   ken ikeda (Japan)
 -   Lorenzo Isella (Belgium)
 -   Sebastian Jeworutzki (Germany)
 -   Grant Joslin (United States)
@@ -338,7 +341,7 @@ Supporting Members
 -   jared peterson (United States)
 -   Kem Phillips (United States)
 -   Bill Pikounis (United States)
--   Leonardo Ramirez-Lopez (Switzerland)
+-   VASILEIOS PLESSAS (United Kingdom)
 -   Fergus Reig Gracia (Spain)
 -   Stefano Rezzonico (Canada)
 -   Ingo Ruczinski (United States)
@@ -373,4 +376,4 @@ Supporting Members
 
 
 
-Last update: 2021-04-06
+Last update: 2021-04-16
