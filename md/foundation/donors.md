@@ -47,13 +47,16 @@ Donors (after March 2017)
 -   Ruedi Epple (Switzerland)
 -   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
+-   `<a href="https://www.vancouverfencing.ca/", rel="nofollow">Vancouver Fencing (Canada)</a>`{=html}
 -   Mitchell Gail (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/", rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   `<a href="https://www.bostonleatherrepair.com/", rel="nofollow">Bryan Grant (United States)</a>`{=html}
+-   `<a href="https://www.abbotsfordhandyman.ca/", rel="nofollow">Abbotsford Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.mapleridgehandyman.ca/", rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   Tim Huang (United States)
+-   `<a href="http://www.roofersinakron.com", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
 -   `<a href="http://www.oahuinteriorpainting.com/interior.html", rel="nofollow">Morghan Jabusch (United States)</a>`{=html}
 -   `<a href="http://scaffoldinghirekent.com/", rel="nofollow">Scaffolder Kent (United Kingdom)</a>`{=html}
 -   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
@@ -209,7 +212,7 @@ Supporting Institutions
 
 
 -   Code Ocean, New York (United States)
--   Department of Clinical Research, University Hospital Basel, Basel (Switzerland)
+-   [Department of Clinical Research, University Hospital Basel, Basel (Switzerland)](https://dkf.unibas.ch)
 -   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
 -   Ef-prime, Inc., 日本橋茅場町 (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
@@ -251,15 +254,13 @@ Supporting Members
 -   Dubravko Dolic (Germany)
 -   Michael Dorman (Israel)
 -   Fraser Edwards (United Kingdom)
--   Gerrit Eichner (Germany)
 -   Johan Eklund (Sweden)
--   Martin Elff (Germany)
+-   Werner Engl (Austria)
 -   Mitch Eppley (United States)
 -   Nathan Epstein (United States)
 -   cristiano esclapon (Switzerland)
 -   Dane Evans (United States)
 -   Guenter Faes (Germany)
--   Vancouver Fencing (Canada)
 -   Gottfried Fischer (Austria)
 -   Isaac Florence (United Kingdom)
 -   Neil Frazer (United States)
@@ -268,7 +269,6 @@ Supporting Members
 -   Keita Fukasawa (Japan)
 -   Jutta Gampe (Germany)
 -   Sven Garbade (Germany)
--   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
 -   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
@@ -313,7 +313,6 @@ Supporting Members
 -   Eric Lim (United Kingdom)
 -   Joseph Luchman (United States)
 -   Sharon Machlis (United States)
--   John MacKintosh (United Kingdom)
 -   Michal Majka (Austria)
 -   Myriam Maumy (France)
 -   Daniel McNichol (United States)
@@ -372,8 +371,9 @@ Supporting Members
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
 -   Fredrik Wartenberg (Sweden)
+-   Jason Wyse (Ireland)
 -   Lim Zhong Hao (Singapore)
 
 
 
-Last update: 2021-04-16
+Last update: 2021-04-30
