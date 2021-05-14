@@ -56,6 +56,7 @@ Donors (after March 2017)
 -   `<a href="https://www.mapleridgehandyman.ca/", rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   Tim Huang (United States)
+-   ken ikeda (Japan)
 -   `<a href="http://www.roofersinakron.com", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
 -   `<a href="http://www.oahuinteriorpainting.com/interior.html", rel="nofollow">Morghan Jabusch (United States)</a>`{=html}
 -   `<a href="http://scaffoldinghirekent.com/", rel="nofollow">Scaffolder Kent (United Kingdom)</a>`{=html}
@@ -66,6 +67,12 @@ Donors (after March 2017)
 -   `<a href="https://www.stampedconcretefortwayne.net", rel="nofollow">Platinum Crete (United States)</a>`{=html}
 -   `<a href="https://www.metalroofingsanantonio.net", rel="nofollow">Metal Roofing San Antonio (United States)</a>`{=html}
 -   Parag Magunia (United States)
+-   `<a href="https://www.seattle-handyman.com/", rel="nofollow">Seattle Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.thevancouverhandyman.ca/", rel="nofollow">Vancouver Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.langleyhandyman.ca/", rel="nofollow">Langley Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.richmondhandyman.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
+-   `<a href="https://www.chilliwackhandyman.com/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
+-   `<a href="https://www.mapleridgeconcrete.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   John McMahon (United States)
 -   Nicholas Moskwa (United States)
 -   `<a href="https://minato.sip21c.org/", rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
@@ -103,7 +110,6 @@ Donors (after March 2017)
 -   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
--   Runrun Wei (China)
 -   Daniel Wollschläger (Germany)
 -   `<a href="https://www.airductcleaningwinnipeg.com/", rel="nofollow">Duct Cleaning Winnipeg (Canada)</a>`{=html}
 -   明彦 田中 (Japan)
@@ -205,12 +211,12 @@ Supporting Benefactors
 
 -   McGill University, Ottawa (Canada)
 -   [www.5slotsites.com , Alderley Edge (United Kingdom)](https://www.5slotsites.com)
--   [www.ohmybingo.com, Alderley Edge (United Kingdom)](https://www.ohmybingo.com)
 
 Supporting Institutions
 -----------
 
 
+-   Alfred Mueller Analytic Services, München (Germany)
 -   Code Ocean, New York (United States)
 -   [Department of Clinical Research, University Hospital Basel, Basel (Switzerland)](https://dkf.unibas.ch)
 -   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
@@ -225,6 +231,7 @@ Supporting Members
 -   Diogo Almeida (United Arab Emirates)
 -   Tim Appelhans (Germany)
 -   Paul Artes (United Kingdom)
+-   Kristoffer Winther Balling (Denmark)
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
 -   Frederic BERTRAND (France)
@@ -285,7 +292,6 @@ Supporting Members
 -   BaoGiang HoangVu (Vietnam)
 -   Alexander Huelle (Germany)
 -   Alessamdro Ielpi (Canada)
--   ken ikeda (Japan)
 -   Lorenzo Isella (Belgium)
 -   Sebastian Jeworutzki (Germany)
 -   Grant Joslin (United States)
@@ -299,6 +305,7 @@ Supporting Members
 -   Gavin Kirby (United Kingdom)
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
+-   Sebastian Krantz (Germany)
 -   Daniel Krüerke (Switzerland)
 -   Jan Herman Kuiper (United Kingdom)
 -   Chris Kuty (United States)
@@ -308,7 +315,6 @@ Supporting Members
 -   Seungdoe Lee (Korea, Republic of)
 -   Bernhard Lehnert (Germany)
 -   Mauro Lepore (United States)
--   Alain Lesaffre (Australia)
 -   Chin Soon Lim (Singapore)
 -   Eric Lim (United Kingdom)
 -   Joseph Luchman (United States)
@@ -376,4 +382,4 @@ Supporting Members
 
 
 
-Last update: 2021-04-30
+Last update: 2021-05-14
