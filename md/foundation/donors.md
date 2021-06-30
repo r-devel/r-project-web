@@ -27,23 +27,23 @@ Donors (after March 2017)
 -----------
 
 
--   `<a href="https://webhostingbuddy.com/wordpress-hosting/", rel="nofollow">WordPress Hosting Buddy (United States)</a>`{=html}
+-   `<a href="https://webhostingbuddy.com/best-wordpress-hosting/", rel="nofollow">WordPress Hosting Buddy (United States)</a>`{=html}
 -   Joaquín Baquer-Miravete (Spain)
 -   `<a href="https://ilustat.com", rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io", rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
--   `<a href="http://jbldigitalmarketing.co", rel="nofollow">JBL Digital Marketing (Australia)</a>`{=html}
+-   `<a href="https://jbldigitalmarketing.co/", rel="nofollow">JBL Digital Marketing (Australia)</a>`{=html}
 -   `<a href="https://www.essexbricklayer.co.uk/", rel="nofollow">Essex Bricklayers (United Kingdom)</a>`{=html}
--   `<a href="http://www.experthomebuildersnh.com/", rel="nofollow">Darren Carlson (United States)</a>`{=html}
+-   `<a href="https://www.experthomebuildersnh.com/", rel="nofollow">Darren Carlson (United States)</a>`{=html}
 -   Jacopo Cerri (Italy)
 -   `<a href="https://amy17519.me/", rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   Ichu Cheng (Canada)
--   `<a href="http://www.cogginelectrical.com", rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
+-   `<a href="https://www.cogginelectrical.com/", rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
 -   `<a href="https://www.vancouver-drafting.ca/", rel="nofollow">Vancouver Drafting (Canada)</a>`{=html}
 -   `<a href="https://rstats.ai/", rel="nofollow">The R Conference (United States)</a>`{=html}
 -   `<a href="https://www.landeranalytics.com/", rel="nofollow">Lander Analytics (United States)</a>`{=html}
--   `<a href="http://nyhackr.org/", rel="nofollow">The New York Open Statistical Programming Meetup (United States)</a>`{=html}
+-   `<a href="https://nyhackr.org/", rel="nofollow">The New York Open Statistical Programming Meetup (United States)</a>`{=html}
 -   Ruedi Epple (Switzerland)
 -   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
@@ -55,11 +55,10 @@ Donors (after March 2017)
 -   `<a href="https://www.abbotsfordhandyman.ca/", rel="nofollow">Abbotsford Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.mapleridgehandyman.ca/", rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
--   Tim Huang (United States)
 -   ken ikeda (Japan)
--   `<a href="http://www.roofersinakron.com", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
+-   `<a href="https://www.roofersinakron.com/", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
 -   `<a href="http://www.oahuinteriorpainting.com/interior.html", rel="nofollow">Morghan Jabusch (United States)</a>`{=html}
--   `<a href="http://scaffoldinghirekent.com/", rel="nofollow">Scaffolder Kent (United Kingdom)</a>`{=html}
+-   `<a href="https://www.scaffoldinghirekent.com/", rel="nofollow">Scaffolder Kent (United Kingdom)</a>`{=html}
 -   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Oleg V Kolesnikov (Ukraine)
 -   Ann-Sophie Lehnert (Germany)
@@ -73,12 +72,11 @@ Donors (after March 2017)
 -   `<a href="https://www.richmondhandyman.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://www.chilliwackhandyman.com/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://www.mapleridgeconcrete.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
--   John McMahon (United States)
 -   Nicholas Moskwa (United States)
 -   `<a href="https://minato.sip21c.org/", rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Rashid Nassar (United States)
 -   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Loft Conversions Nottingham (United Kingdom)</a>`{=html}
--   `<a href="http://www.appstam.com", rel="nofollow">Appstam Consulting GmbH (Germany)</a>`{=html}
+-   `<a href="https://www.appstam.com/", rel="nofollow">Appstam Consulting GmbH (Germany)</a>`{=html}
 -   Juan Perez-Franco (Chile)
 -   `<a href="https://www.carefulmovers.net/storage/", rel="nofollow">Careful Movers (United States)</a>`{=html}
 -   `<a href="https://www.pianomoverssandiego.net/", rel="nofollow">San Diego Piano Moving (United States)</a>`{=html}
@@ -209,7 +207,6 @@ Supporting Benefactors
 -----------
 
 
--   McGill University, Ottawa (Canada)
 -   [www.5slotsites.com , Alderley Edge (United Kingdom)](https://www.5slotsites.com)
 
 Supporting Institutions
@@ -248,7 +245,6 @@ Supporting Members
 -   John Chandler (United States)
 -   Michael Chirico (United States)
 -   Tom Clarke (United Kingdom)
--   Luca Cocconcelli (United Kingdom)
 -   Gerard Conaghan (United Kingdom)
 -   Rémi Coulaud (France)
 -   Terry Cox (United States)
@@ -276,12 +272,12 @@ Supporting Members
 -   Keita Fukasawa (Japan)
 -   Jutta Gampe (Germany)
 -   Sven Garbade (Germany)
+-   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
 -   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
--   Stefano Guazzetti (Italy)
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   Chris Hanretty (United Kingdom)
@@ -316,7 +312,6 @@ Supporting Members
 -   Bernhard Lehnert (Germany)
 -   Mauro Lepore (United States)
 -   Chin Soon Lim (Singapore)
--   Eric Lim (United Kingdom)
 -   Joseph Luchman (United States)
 -   Sharon Machlis (United States)
 -   Michal Majka (Austria)
@@ -357,7 +352,6 @@ Supporting Members
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
 -   Pedro Silva (Brazil)
--   gabriel silver (United States)
 -   Rachel Smith-Hunter (United States)
 -   Gerardo Soto-Campos (United States)
 -   Berthold Stegemann (Germany)
@@ -382,4 +376,4 @@ Supporting Members
 
 
 
-Last update: 2021-05-14
+Last update: 2021-06-30
