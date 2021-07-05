@@ -65,7 +65,6 @@ Donors (after March 2017)
 -   `<a href="https://wholesalehempandcbd.com/", rel="nofollow">Bulk CBD Providers (United States)</a>`{=html}
 -   `<a href="https://www.stampedconcretefortwayne.net", rel="nofollow">Platinum Crete (United States)</a>`{=html}
 -   `<a href="https://www.metalroofingsanantonio.net", rel="nofollow">Metal Roofing San Antonio (United States)</a>`{=html}
--   Parag Magunia (United States)
 -   `<a href="https://www.seattle-handyman.com/", rel="nofollow">Seattle Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.thevancouverhandyman.ca/", rel="nofollow">Vancouver Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.langleyhandyman.ca/", rel="nofollow">Langley Handyman (Canada)</a>`{=html}
@@ -99,7 +98,7 @@ Donors (after March 2017)
 -   `<a href="https://www.tampafltreeservice.com/", rel="nofollow">Tampe Tree (United States)</a>`{=html}
 -   `<a href="https://www.fastmoverstampa.com/", rel="nofollow">Fast Movers Tampa (United States)</a>`{=html}
 -   `<a href="https://www.allenstreeworks.com/", rel="nofollow">Allen's Tree Works (United States)</a>`{=html}
--   `<a href="https://www.thetreefellerofpinellas.com/", rel="nofollow">Steve Smith (United States)</a>`{=html}
+-   Steve Smith (United States)
 -   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghamkitchenfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghambathroomfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
@@ -376,4 +375,4 @@ Supporting Members
 
 
 
-Last update: 2021-06-30
+Last update: 2021-07-05
