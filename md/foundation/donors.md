@@ -57,7 +57,6 @@ Donors (after March 2017)
 -   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   ken ikeda (Japan)
 -   `<a href="https://www.roofersinakron.com/", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
--   `<a href="http://www.oahuinteriorpainting.com/interior.html", rel="nofollow">Morghan Jabusch (United States)</a>`{=html}
 -   `<a href="https://www.scaffoldinghirekent.com/", rel="nofollow">Scaffolder Kent (United Kingdom)</a>`{=html}
 -   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Oleg V Kolesnikov (Ukraine)
@@ -239,7 +238,6 @@ Supporting Members
 -   Jack Brown (United Kingdom)
 -   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
--   Robert Carnell (United States)
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
 -   Michael Chirico (United States)
@@ -248,7 +246,6 @@ Supporting Members
 -   Rémi Coulaud (France)
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
--   Alistair Cullum (United States)
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
 -   Ajit de Silva (United States)
@@ -375,4 +372,4 @@ Supporting Members
 
 
 
-Last update: 2021-07-05
+Last update: 2021-07-24
