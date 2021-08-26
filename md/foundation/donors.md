@@ -43,7 +43,7 @@ Donors (after March 2017)
 -   `<a href="https://www.vancouver-drafting.ca/", rel="nofollow">Vancouver Drafting (Canada)</a>`{=html}
 -   `<a href="https://rstats.ai/", rel="nofollow">The R Conference (United States)</a>`{=html}
 -   `<a href="https://www.landeranalytics.com/", rel="nofollow">Lander Analytics (United States)</a>`{=html}
--   `<a href="https://nyhackr.org/", rel="nofollow">The New York Open Statistical Programming Meetup (United States)</a>`{=html}
+-   `<a href="https://www.landeranalytics.com/", rel="nofollow">The New York Open Statistical Programming Meetup (United States)</a>`{=html}
 -   Ruedi Epple (Switzerland)
 -   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
@@ -70,7 +70,6 @@ Donors (after March 2017)
 -   `<a href="https://www.richmondhandyman.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://www.chilliwackhandyman.com/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://www.mapleridgeconcrete.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
--   Nicholas Moskwa (United States)
 -   `<a href="https://minato.sip21c.org/", rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Rashid Nassar (United States)
 -   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Loft Conversions Nottingham (United Kingdom)</a>`{=html}
@@ -90,7 +89,7 @@ Donors (after March 2017)
 -   `<a href="https://www.vancouverchimneysweep.com/", rel="nofollow">Tuckpointing Vancouver (United States)</a>`{=html}
 -   `<a href="https://www.allaboutfence.net/ ", rel="nofollow">Bend Fencing Companies (United States)</a>`{=html}
 -   `<a href="https://www.magnoliawa.com/", rel="nofollow">Nursing Home Vancouver (United States)</a>`{=html}
--   `<a href="https://www.roofingcontractorsclearwater.com/", rel="nofollow">Clearwater Roofing (United States)</a>`{=html}
+-   `<a href="https://roofingcontractorsclearwater.com/", rel="nofollow">Clearwater Roofing (United States)</a>`{=html}
 -   `<a href="https://www.tampabaywindowsfl.com/", rel="nofollow">Clearwater Windows (United States)</a>`{=html}
 -   `<a href="https://www.treeremovalbrandon.com/", rel="nofollow">Tree Service Brandon (United States)</a>`{=html}
 -   `<a href="https://www.paversjacksonvillefl.com/", rel="nofollow">Jacksonville Pavers (United States)</a>`{=html}
@@ -102,7 +101,6 @@ Donors (after March 2017)
 -   `<a href="https://www.nottinghamkitchenfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghambathroomfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.walsallroofingpros.com", rel="nofollow">Fergus Travers (France)</a>`{=html}
--   `<a href="https://www.thecornwallgardeners.co.uk", rel="nofollow">Fergus Travers (France)</a>`{=html}
 -   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
@@ -248,15 +246,12 @@ Supporting Members
 -   Robin Crockett (United Kingdom)
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
--   Ajit de Silva (United States)
 -   Jasja Dekker (Netherlands)
--   Dubravko Dolic (Germany)
 -   Michael Dorman (Israel)
 -   Fraser Edwards (United Kingdom)
 -   Johan Eklund (Sweden)
 -   Werner Engl (Austria)
 -   Mitch Eppley (United States)
--   Nathan Epstein (United States)
 -   cristiano esclapon (Switzerland)
 -   Dane Evans (United States)
 -   Guenter Faes (Germany)
@@ -266,7 +261,6 @@ Supporting Members
 -   Bernd Fröhlich (Germany)
 -   Huancheng Fu (China)
 -   Keita Fukasawa (Japan)
--   Jutta Gampe (Germany)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
@@ -276,20 +270,17 @@ Supporting Members
 -   Spencer Graves (United States)
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
--   Chris Hanretty (United Kingdom)
 -   Joe Harwood (United Kingdom)
 -   Bela Hausmann (Austria)
 -   Takehiko Hayashi (Japan)
 -   Robert Hickman (United Kingdom)
 -   BaoGiang HoangVu (Vietnam)
 -   Alexander Huelle (Germany)
--   Alessamdro Ielpi (Canada)
 -   Lorenzo Isella (Belgium)
 -   Sebastian Jeworutzki (Germany)
 -   Grant Joslin (United States)
 -   Péter Kalicz (Hungary)
 -   Christian Kampichler (Netherlands)
--   Srikanth Kannan (India)
 -   Curtis Kephart (United States)
 -   sanghyeon kim (Korea, Republic of)
 -   Jungjoon Kim (Korea, Republic of)
@@ -305,7 +296,6 @@ Supporting Members
 -   Luca La Rocca (Italy)
 -   Adrien Le Guillou (France)
 -   Seungdoe Lee (Korea, Republic of)
--   Bernhard Lehnert (Germany)
 -   Mauro Lepore (United States)
 -   Chin Soon Lim (Singapore)
 -   Joseph Luchman (United States)
@@ -314,7 +304,6 @@ Supporting Members
 -   Myriam Maumy (France)
 -   Daniel McNichol (United States)
 -   Bogdan-Alexandru Micu (Luxembourg)
--   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
 -   Jairo Montenegro Arjona (Colombia)
 -   David Monterde (Spain)
@@ -330,7 +319,6 @@ Supporting Members
 -   Dan Orsholits (Switzerland)
 -   George Ostrouchov (United States)
 -   Antonio Paez (Canada)
--   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
 -   Peter Perez (United States)
 -   Elgin Perry (United States)
@@ -350,11 +338,9 @@ Supporting Members
 -   Pedro Silva (Brazil)
 -   Rachel Smith-Hunter (United States)
 -   Gerardo Soto-Campos (United States)
--   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
 -   Tobias Strapatsas (Germany)
 -   ROBERT Szabo (Sweden)
--   Dag Tanneberg (Germany)
 -   Ville Tenhunen (Netherlands)
 -   Con Tumass-o'Pool (Australia)
 -   Nicholas Turner (United States)
@@ -372,4 +358,4 @@ Supporting Members
 
 
 
-Last update: 2021-07-24
+Last update: 2021-08-26
