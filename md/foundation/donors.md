@@ -21,6 +21,29 @@ member prefers otherwise).
 For one-off donations to the R Foundation, please fill out the 
 online [donation form](donations.html).
 
+Patrons
+-----------
+
+- `<a href="https://www.indeed.com", rel="nofollow">FOSS Contributor Fund 2021</a>`{=html}
+- `<a href="https://www.r-project.org/gsoc.html", rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
+- `<a href="https://user2021.r-project.org/", rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
+- `<a href="https://user2020.r-project.org/", rel="nofollow">useR! 2020 Organising Team (virtual from Munich, Germany)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2019/", rel="nofollow">useR! 2019 Organising Team (Toulouse, France)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2018/", rel="nofollow">useR! 2018 Organising Team (Brisbane, Australia)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2017/", rel="nofollow">useR! 2017 Organising Team (Brussels, Belgium)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2016/", rel="nofollow">useR! 2016 Organising Team (Stanford, California)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2015/", rel="nofollow">useR! 2015 Organising Team (Aalborg, Denmark)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2014/", rel="nofollow">useR! 2014 Organising Team (Los Angeles, California)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2013/", rel="nofollow">useR! 2013 Organising Team (Albacete, Spain)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2012/", rel="nofollow">useR! 2012 Organising Team (Nashville, Tennessee)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2011/", rel="nofollow">useR! 2011 Organising Team (Warwick, UK)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2010/", rel="nofollow">useR! 2010 Organising Team (Gaithersburg, Maryland) </a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2009/", rel="nofollow">useR! 2009 Organising Team (Rennes, France)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2008/", rel="nofollow">useR! 2008 Organising Team (Dortmund, Germany)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2007/", rel="nofollow">useR! 2007 Organising Team (Ames, Iowa)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2006/", rel="nofollow">useR! 2006 Organising Team (Vienna, Austria)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2004/", rel="nofollow">useR! 2004 Organising Team (Vienna, Austria)</a>`{=html}
+
 
 
 Donors (after March 2017)
@@ -48,7 +71,6 @@ Donors (after March 2017)
 -   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
 -   `<a href="https://www.vancouverfencing.ca/", rel="nofollow">Vancouver Fencing (Canada)</a>`{=html}
--   Mitchell Gail (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/", rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   `<a href="https://www.bostonleatherrepair.com/", rel="nofollow">Bryan Grant (United States)</a>`{=html}
@@ -57,7 +79,6 @@ Donors (after March 2017)
 -   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   ken ikeda (Japan)
 -   `<a href="https://www.roofersinakron.com/", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
--   `<a href="https://www.scaffoldinghirekent.com/", rel="nofollow">Scaffolder Kent (United Kingdom)</a>`{=html}
 -   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Oleg V Kolesnikov (Ukraine)
 -   Ann-Sophie Lehnert (Germany)
@@ -100,7 +121,7 @@ Donors (after March 2017)
 -   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghamkitchenfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghambathroomfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
--   `<a href="https://www.walsallroofingpros.com", rel="nofollow">Fergus Travers (France)</a>`{=html}
+-   Fergus Travers (France)
 -   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
@@ -215,7 +236,6 @@ Supporting Institutions
 -   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
 -   Ef-prime, Inc., 日本橋茅場町 (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
--   University of Iowa, Iowa City (United States)
 
 Supporting Members
 -----------
@@ -228,7 +248,6 @@ Supporting Members
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
 -   Frederic BERTRAND (France)
--   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
 -   Ryan Bonifacino (United States)
@@ -241,7 +260,6 @@ Supporting Members
 -   Michael Chirico (United States)
 -   Tom Clarke (United Kingdom)
 -   Gerard Conaghan (United Kingdom)
--   Rémi Coulaud (France)
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
 -   Robert Daly (Australia)
@@ -281,8 +299,6 @@ Supporting Members
 -   Grant Joslin (United States)
 -   Péter Kalicz (Hungary)
 -   Christian Kampichler (Netherlands)
--   Curtis Kephart (United States)
--   sanghyeon kim (Korea, Republic of)
 -   Jungjoon Kim (Korea, Republic of)
 -   JUNE KEE KIM (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
@@ -332,10 +348,8 @@ Supporting Members
 -   Choonghyun Ryu (Korea, Republic of)
 -   Pieta Schofield (United Kingdom)
 -   Dejan Schuster (Germany)
--   Robert Selden (United States)
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
--   Pedro Silva (Brazil)
 -   Rachel Smith-Hunter (United States)
 -   Gerardo Soto-Campos (United States)
 -   Harald Sterly (Germany)
@@ -358,4 +372,4 @@ Supporting Members
 
 
 
-Last update: 2021-08-26
+Last update: 2021-09-21
