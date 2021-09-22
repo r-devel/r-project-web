@@ -24,7 +24,7 @@ online [donation form](donations.html).
 Patrons
 -----------
 
-- `<a href="https://www.indeed.com", rel="nofollow">FOSS Contributor Fund 2021</a>`{=html}
+- `<a href="https://opensource.indeedeng.io/FOSS-Contributor-Fund/", rel="nofollow">FOSS Contributor Fund 2021</a>`{=html}
 - `<a href="https://www.r-project.org/gsoc.html", rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
 - `<a href="https://user2021.r-project.org/", rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
 - `<a href="https://user2020.r-project.org/", rel="nofollow">useR! 2020 Organising Team (virtual from Munich, Germany)</a>`{=html}
@@ -372,4 +372,4 @@ Supporting Members
 
 
 
-Last update: 2021-09-21
+Last update: 2021-09-22
