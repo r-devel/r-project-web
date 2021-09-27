@@ -121,7 +121,6 @@ Donors (after March 2017)
 -   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghamkitchenfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghambathroomfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
--   Fergus Travers (France)
 -   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
@@ -253,6 +252,7 @@ Supporting Members
 -   Ryan Bonifacino (United States)
 -   Wesley Brooks (United States)
 -   Jack Brown (United Kingdom)
+-   Greg Bukovatz (United States)
 -   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
 -   Cédric Chambru (Switzerland)
@@ -260,6 +260,7 @@ Supporting Members
 -   Michael Chirico (United States)
 -   Tom Clarke (United Kingdom)
 -   Gerard Conaghan (United Kingdom)
+-   Charles Cowens (United States)
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
 -   Robert Daly (Australia)
@@ -350,6 +351,7 @@ Supporting Members
 -   Dejan Schuster (Germany)
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
+-   Gaurav Singhal (United States)
 -   Rachel Smith-Hunter (United States)
 -   Gerardo Soto-Campos (United States)
 -   Harald Sterly (Germany)
@@ -362,7 +364,6 @@ Supporting Members
 -   Uku Vainik (Estonia)
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
--   Frans van Dunné (Costa Rica)
 -   Marcus Vollmer (Germany)
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
@@ -372,4 +373,4 @@ Supporting Members
 
 
 
-Last update: 2021-09-22
+Last update: 2021-09-27
