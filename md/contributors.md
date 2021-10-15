@@ -24,6 +24,7 @@ write access to the R source, currently consisting of
 -   Uwe Ligges
 -   Thomas Lumley
 -   Martin Maechler
+-   Sebastian Meyer
 -   Paul Murrell
 -   Martyn Plummer
 -   Brian Ripley
