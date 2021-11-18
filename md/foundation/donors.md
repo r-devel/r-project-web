@@ -24,7 +24,7 @@ online [donation form](donations.html).
 Patrons
 -----------
 
-- `<a href="https://opensource.indeedeng.io/FOSS-Contributor-Fund/", rel="nofollow">FOSS Contributor Fund 2021</a>`{=html}
+- `<a href="https://opensource.indeedeng.io/FOSS-Contributor-Fund/", rel="nofollow">Indeed's FOSS Contributor Fund 2021</a>`{=html}
 - `<a href="https://www.r-project.org/gsoc.html", rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
 - `<a href="https://user2021.r-project.org/", rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
 - `<a href="https://user2020.r-project.org/", rel="nofollow">useR! 2020 Organising Team (virtual from Munich, Germany)</a>`{=html}
@@ -50,6 +50,7 @@ Donors (after March 2017)
 -----------
 
 
+-   Jordan Aharoni (Canada)
 -   `<a href="https://webhostingbuddy.com/best-wordpress-hosting/", rel="nofollow">WordPress Hosting Buddy (United States)</a>`{=html}
 -   Joaquín Baquer-Miravete (Spain)
 -   `<a href="https://ilustat.com", rel="nofollow">ilustat (Portugal)</a>`{=html}
@@ -58,10 +59,10 @@ Donors (after March 2017)
 -   Bryan Berend (United States)
 -   `<a href="https://jbldigitalmarketing.co/", rel="nofollow">JBL Digital Marketing (Australia)</a>`{=html}
 -   `<a href="https://www.essexbricklayer.co.uk/", rel="nofollow">Essex Bricklayers (United Kingdom)</a>`{=html}
--   `<a href="https://www.experthomebuildersnh.com/", rel="nofollow">Darren Carlson (United States)</a>`{=html}
+-   Mark Cachia (Canada)
+-   `<a href="https://experthomebuildersnh.com/", rel="nofollow">Darren Carlson (United States)</a>`{=html}
 -   Jacopo Cerri (Italy)
 -   `<a href="https://amy17519.me/", rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
--   Ichu Cheng (Canada)
 -   `<a href="https://www.cogginelectrical.com/", rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
 -   `<a href="https://www.vancouver-drafting.ca/", rel="nofollow">Vancouver Drafting (Canada)</a>`{=html}
 -   `<a href="https://rstats.ai/", rel="nofollow">The R Conference (United States)</a>`{=html}
@@ -73,14 +74,12 @@ Donors (after March 2017)
 -   `<a href="https://www.vancouverfencing.ca/", rel="nofollow">Vancouver Fencing (Canada)</a>`{=html}
 -   `<a href="http://users.stat.umn.edu/~geyer/", rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
--   `<a href="https://www.bostonleatherrepair.com/", rel="nofollow">Bryan Grant (United States)</a>`{=html}
 -   `<a href="https://www.abbotsfordhandyman.ca/", rel="nofollow">Abbotsford Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.mapleridgehandyman.ca/", rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   ken ikeda (Japan)
 -   `<a href="https://www.roofersinakron.com/", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
 -   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
--   Oleg V Kolesnikov (Ukraine)
 -   Ann-Sophie Lehnert (Germany)
 -   `<a href="https://wholesalehempandcbd.com/", rel="nofollow">Bulk CBD Providers (United States)</a>`{=html}
 -   `<a href="https://www.stampedconcretefortwayne.net", rel="nofollow">Platinum Crete (United States)</a>`{=html}
@@ -93,7 +92,6 @@ Donors (after March 2017)
 -   `<a href="https://www.mapleridgeconcrete.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/", rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Rashid Nassar (United States)
--   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Loft Conversions Nottingham (United Kingdom)</a>`{=html}
 -   `<a href="https://www.appstam.com/", rel="nofollow">Appstam Consulting GmbH (Germany)</a>`{=html}
 -   Juan Perez-Franco (Chile)
 -   `<a href="https://www.carefulmovers.net/storage/", rel="nofollow">Careful Movers (United States)</a>`{=html}
@@ -101,11 +99,6 @@ Donors (after March 2017)
 -   `<a href="https://www.bathroomremodeldayton.net", rel="nofollow">Bathroom Remodel Dayton (United States)</a>`{=html}
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
--   `<a href="https://www.manwithavangloucester.com/", rel="nofollow">House Removals Gloucester (United Kingdom)</a>`{=html}
--   `<a href="https://www.carbodyrepairsglos.com/alloy-wheel-repair.html", rel="nofollow">Alloy Wheel Refurb Gloucester (United Kingdom)</a>`{=html}
--   `<a href="https://www.propertymaintenance-gloucester.co.uk/flat-roof-repair-and-construction.html", rel="nofollow">Roofers Gloucester (United Kingdom)</a>`{=html}
--   `<a href="https://www.treesurgeongloucester.com/tree-surgeon-cheltenham.html", rel="nofollow">Tree Surgeon Cheltenham (United Kingdom)</a>`{=html}
--   Pratham Singh (India)
 -   `<a href="https://www.affordableroofingvancouver.com/", rel="nofollow">Vancouver Roofing (United States)</a>`{=html}
 -   `<a href="https://www.vancouverchimneysweep.com/", rel="nofollow">Tuckpointing Vancouver (United States)</a>`{=html}
 -   `<a href="https://www.allaboutfence.net/ ", rel="nofollow">Bend Fencing Companies (United States)</a>`{=html}
@@ -120,7 +113,6 @@ Donors (after March 2017)
 -   Steve Smith (United States)
 -   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.nottinghamkitchenfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
--   `<a href="https://www.nottinghambathroomfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
@@ -242,7 +234,6 @@ Supporting Members
 
 -   Diogo Almeida (United Arab Emirates)
 -   Tim Appelhans (Germany)
--   Paul Artes (United Kingdom)
 -   Kristoffer Winther Balling (Denmark)
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
@@ -250,6 +241,7 @@ Supporting Members
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
 -   Ryan Bonifacino (United States)
+-   Tamara Bozovic (New Zealand)
 -   Wesley Brooks (United States)
 -   Jack Brown (United Kingdom)
 -   Greg Bukovatz (United States)
@@ -277,6 +269,7 @@ Supporting Members
 -   Gottfried Fischer (Austria)
 -   Isaac Florence (United Kingdom)
 -   Neil Frazer (United States)
+-   David Freedman (United States)
 -   Bernd Fröhlich (Germany)
 -   Huancheng Fu (China)
 -   Keita Fukasawa (Japan)
@@ -316,8 +309,9 @@ Supporting Members
 -   Mauro Lepore (United States)
 -   Chin Soon Lim (Singapore)
 -   Joseph Luchman (United States)
--   Sharon Machlis (United States)
+-   Alexandra Lypynska (United Kingdom)
 -   Michal Majka (Austria)
+-   Gilles Marodon (France)
 -   Myriam Maumy (France)
 -   Daniel McNichol (United States)
 -   Bogdan-Alexandru Micu (Luxembourg)
@@ -335,6 +329,7 @@ Supporting Members
 -   Berk Orbay (Turkey)
 -   Dan Orsholits (Switzerland)
 -   George Ostrouchov (United States)
+-   Abdullah Öztop (Turkey)
 -   Antonio Paez (Canada)
 -   Matt Parker (United States)
 -   Peter Perez (United States)
@@ -345,6 +340,7 @@ Supporting Members
 -   VASILEIOS PLESSAS (United Kingdom)
 -   Fergus Reig Gracia (Spain)
 -   Stefano Rezzonico (Canada)
+-   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
 -   Pieta Schofield (United Kingdom)
@@ -373,4 +369,4 @@ Supporting Members
 
 
 
-Last update: 2021-09-27
+Last update: 2021-11-18
