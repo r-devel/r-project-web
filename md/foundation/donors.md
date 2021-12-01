@@ -24,6 +24,7 @@ online [donation form](donations.html).
 Patrons
 -----------
 
+- `<a href="https://www.rstudio.com/", rel="nofollow">RStudio, PBC, United States</a>`{=html}
 - `<a href="https://opensource.indeedeng.io/FOSS-Contributor-Fund/", rel="nofollow">Indeed's FOSS Contributor Fund 2021</a>`{=html}
 - `<a href="https://www.r-project.org/gsoc.html", rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
 - `<a href="https://user2021.r-project.org/", rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
@@ -57,17 +58,13 @@ Donors (after March 2017)
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io", rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
--   `<a href="https://jbldigitalmarketing.co/", rel="nofollow">JBL Digital Marketing (Australia)</a>`{=html}
+-   JBL Digital Marketing (Australia)
 -   `<a href="https://www.essexbricklayer.co.uk/", rel="nofollow">Essex Bricklayers (United Kingdom)</a>`{=html}
 -   Mark Cachia (Canada)
--   `<a href="https://experthomebuildersnh.com/", rel="nofollow">Darren Carlson (United States)</a>`{=html}
 -   Jacopo Cerri (Italy)
 -   `<a href="https://amy17519.me/", rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://www.cogginelectrical.com/", rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
 -   `<a href="https://www.vancouver-drafting.ca/", rel="nofollow">Vancouver Drafting (Canada)</a>`{=html}
--   `<a href="https://rstats.ai/", rel="nofollow">The R Conference (United States)</a>`{=html}
--   `<a href="https://www.landeranalytics.com/", rel="nofollow">Lander Analytics (United States)</a>`{=html}
--   `<a href="https://www.landeranalytics.com/", rel="nofollow">The New York Open Statistical Programming Meetup (United States)</a>`{=html}
 -   Ruedi Epple (Switzerland)
 -   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
@@ -111,8 +108,6 @@ Donors (after March 2017)
 -   `<a href="https://www.fastmoverstampa.com/", rel="nofollow">Fast Movers Tampa (United States)</a>`{=html}
 -   `<a href="https://www.allenstreeworks.com/", rel="nofollow">Allen's Tree Works (United States)</a>`{=html}
 -   Steve Smith (United States)
--   `<a href="https://www.conversions-nottingham.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
--   `<a href="https://www.nottinghamkitchenfitter.co.uk/", rel="nofollow">Ian Smith (United Kingdom)</a>`{=html}
 -   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
 -   Dr. Alfred Wagner (Germany)
@@ -285,6 +280,7 @@ Supporting Members
 -   Joe Harwood (United Kingdom)
 -   Bela Hausmann (Austria)
 -   Takehiko Hayashi (Japan)
+-   Kieran Healy (United States)
 -   Robert Hickman (United Kingdom)
 -   BaoGiang HoangVu (Vietnam)
 -   Alexander Huelle (Germany)
@@ -369,4 +365,4 @@ Supporting Members
 
 
 
-Last update: 2021-11-18
+Last update: 2021-12-01
