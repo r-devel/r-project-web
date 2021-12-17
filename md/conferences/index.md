@@ -2,6 +2,10 @@
 title: Conferences
 ---
 
+**News**: [call for proposals](useR_2023_call.html) to host a hybrid useR! 2023 conference. Deadline for outline proposals **Friday 28 January 2022**.
+
+------------
+
 The R Foundation actively supports two conference series, organized regularly by members from the R community:
 
 * useR!, a forum for the R user community.
@@ -22,13 +26,11 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-[useR! 2021](https://user2021.r-project.org/) will take place online, from July 5 to July 9. 
-As the first useR! designed to be a global, online event, the organizing committee welcomed proposals for tutorials in English, French and Spanish (submission now closed) and talks may be presented in any language (non-English talks required to have English transcript, abstract submission open until Monday March 15, [further details](https://user2021.r-project.org/participation/call-for-abstracts/)).
+[useR! 2022](https://user2022.r-project.org/) will be a hybrid conference from June 20 to June 23, with opportunities to participate as an online attendee or to attend in person at Vanderbilt University Medical Center, Nashville, TN, USA. For the latest updates, follow ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
 
-For the latest updates, follow ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
-
-We are not currently seeking hosts or organizers for future useR! conferences. 
-Any calls for proposals will be announced on this page and the R Foundation Twitter account, ['@_R_Foundation'](https://twitter.com/_r_foundation). 
+<!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
+Calls for proposals to organize useR! will be announced on this page and the R Foundation Twitter account, ['@_R_Foundation'](https://twitter.com/_r_foundation). 
+A [call for proposals](useR_2023_call.html) to host a hybrid useR! 2023 conference opened on 17 December. Deadline for outline proposals **Friday 28 January 2022**.
 
 Announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on 
 the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
@@ -42,6 +44,8 @@ useR! is the main meeting of the R user and developer community, its program con
 Usually, no proceedings are published for useR! conferences.
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
+
+* [useR! 2022](https://user2022.r-project.org/), Nashville, USA.
 
 * [useR! 2021](https://user2021.r-project.org/), online.
 
