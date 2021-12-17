@@ -9,6 +9,8 @@ The useR! conferences are the main meetings for the R user and developer communi
 1. An emphasis on innovative contributions. As such, we require all proposals to have substantial involvement from academic partners and to be led by members of the R community.
 2. Having diversity and inclusion at the heart. For that reason, we ask for proposals to put diversity and inclusion practices explicitly at the core of the conference design. 
 
+useR! 2023 will be a **hybrid** conference, enabling participation in person or online.
+
 ## Key dates for the proposal process
 
 Interested parties are asked to submit an outline proposal. Based on these proposals, the RFCC will select a short-list of teams, who will be asked to prepare a more detailed bid. The key dates are as follows: 
@@ -30,7 +32,6 @@ The organizing team will typically comprise members of universities and possibly
 * Selecting a program committee and keynote speakers in agreement with the RFCC.
 * Maintaining the conference website.
 * Managing conference registration, abstract and tutorial submission.
-* Managing the online platform for the conference.
 * Advertising the conference via social media, local societies, etc.
 * Obtaining sponsorship for the conference and providing promotional opportunities for sponsors, e.g. via conference booths.
 * Ensuring that there is a trained code of conduct team to enforce the code of conduct.
@@ -40,7 +41,8 @@ The organizing team will typically comprise members of universities and possibly
   * Providing a venue and organizing all facilities required by conference events: furniture, audio-visual equipment, etc.
   * Providing catering for conference participants (at least two coffee breaks and one lunch per day, plus at least one evening social/poster event)
   * Arranging accommodation or providing information/reductions on accommodation
-
+* For the online component:
+  * Organizing tools to enable virtual participation.
 
 We recommend that the organizers read the [useR! Knowledgebase](https://rconf.gitlab.io/userknowledgebase/), which provides useful information on organizing a useR! conference. This resource is currently being developed and information is subject to change.
 
