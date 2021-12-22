@@ -20,6 +20,9 @@ The name or institution can be hyperlinked
 on the [members and donors page](donors.html). Supporting members are listed in one issue
 of [the R Journal](https://journal.r-project.org).
 
+The R Foundation reserves the right to decline or return donations, and to decide
+whether or not and how to acknowledge or continue to acknowledge donations.
+
 <script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/rproject-member?hide_donation_meter=true" height="685px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
 
 ## One-off Donation Form
