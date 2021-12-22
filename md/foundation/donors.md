@@ -69,6 +69,7 @@ Donors (after March 2017)
 -   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
 -   `<a href="https://www.vancouverfencing.ca/", rel="nofollow">Vancouver Fencing (Canada)</a>`{=html}
+-   Shalese Fitzgerald (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/", rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   `<a href="https://www.abbotsfordhandyman.ca/", rel="nofollow">Abbotsford Handyman (Canada)</a>`{=html}
@@ -76,6 +77,7 @@ Donors (after March 2017)
 -   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   ken ikeda (Japan)
 -   `<a href="https://www.roofersinakron.com/", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
+-   Knut Helge Jensen (Norway)
 -   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Ann-Sophie Lehnert (Germany)
 -   `<a href="https://wholesalehempandcbd.com/", rel="nofollow">Bulk CBD Providers (United States)</a>`{=html}
@@ -255,6 +257,7 @@ Supporting Members
 -   Jasja Dekker (Netherlands)
 -   Michael Dorman (Israel)
 -   Fraser Edwards (United Kingdom)
+-   Anthony Alan Egerton (Malaysia)
 -   Johan Eklund (Sweden)
 -   Werner Engl (Austria)
 -   Mitch Eppley (United States)
@@ -270,11 +273,11 @@ Supporting Members
 -   Keita Fukasawa (Japan)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
--   Eduardo García Galea (Spain)
 -   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
+-   Jim Gruman (United States)
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   Joe Harwood (United Kingdom)
@@ -282,6 +285,7 @@ Supporting Members
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
 -   Robert Hickman (United Kingdom)
+-   Adam Hill (United States)
 -   BaoGiang HoangVu (Vietnam)
 -   Alexander Huelle (Germany)
 -   Lorenzo Isella (Belgium)
@@ -292,6 +296,7 @@ Supporting Members
 -   Jungjoon Kim (Korea, Republic of)
 -   JUNE KEE KIM (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
+-   Gen KOBAYASHI (Japan)
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
 -   Sebastian Krantz (Germany)
@@ -303,6 +308,7 @@ Supporting Members
 -   Adrien Le Guillou (France)
 -   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
+-   Thomas Levine (United States)
 -   Chin Soon Lim (Singapore)
 -   Joseph Luchman (United States)
 -   Alexandra Lypynska (United Kingdom)
@@ -328,7 +334,6 @@ Supporting Members
 -   Abdullah Öztop (Turkey)
 -   Antonio Paez (Canada)
 -   Matt Parker (United States)
--   Peter Perez (United States)
 -   Elgin Perry (United States)
 -   jared peterson (United States)
 -   Kem Phillips (United States)
@@ -339,18 +344,16 @@ Supporting Members
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
--   Pieta Schofield (United Kingdom)
 -   Dejan Schuster (Germany)
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
 -   Gaurav Singhal (United States)
--   Rachel Smith-Hunter (United States)
 -   Gerardo Soto-Campos (United States)
 -   Harald Sterly (Germany)
 -   Tobias Strapatsas (Germany)
 -   ROBERT Szabo (Sweden)
+-   Koray Tascilar (Germany)
 -   Ville Tenhunen (Netherlands)
--   Con Tumass-o'Pool (Australia)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
 -   Uku Vainik (Estonia)
@@ -359,10 +362,12 @@ Supporting Members
 -   Marcus Vollmer (Germany)
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
+-   Arne Jonas Warnke (Germany)
 -   Fredrik Wartenberg (Sweden)
 -   Jason Wyse (Ireland)
+-   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
 
 
 
-Last update: 2021-12-01
+Last update: 2021-12-22
