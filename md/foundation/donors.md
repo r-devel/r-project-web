@@ -64,7 +64,6 @@ Donors (after March 2017)
 -   Jacopo Cerri (Italy)
 -   `<a href="https://amy17519.me/", rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://www.cogginelectrical.com/", rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
--   `<a href="https://www.vancouver-drafting.ca/", rel="nofollow">Vancouver Drafting (Canada)</a>`{=html}
 -   Ruedi Epple (Switzerland)
 -   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
@@ -89,6 +88,7 @@ Donors (after March 2017)
 -   `<a href="https://www.richmondhandyman.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://www.chilliwackhandyman.com/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://www.mapleridgeconcrete.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
+-   `<a href="http://themesfromart.com", rel="nofollow">Rees Morrison (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/", rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Rashid Nassar (United States)
 -   `<a href="https://www.appstam.com/", rel="nofollow">Appstam Consulting GmbH (Germany)</a>`{=html}
@@ -224,13 +224,17 @@ Supporting Institutions
 -   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
 -   Ef-prime, Inc., 日本橋茅場町 (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
+-   oikostat GmbH, Ettiswil (Switzerland)
 
 Supporting Members
 -----------
 
 
+-   Constantin Ahlmann-Eltze (Germany)
+-   Vedo Alagic (Austria)
 -   Diogo Almeida (United Arab Emirates)
 -   Tim Appelhans (Germany)
+-   Takaharu Araki (Japan)
 -   Kristoffer Winther Balling (Denmark)
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
@@ -351,6 +355,7 @@ Supporting Members
 -   Gerardo Soto-Campos (United States)
 -   Harald Sterly (Germany)
 -   Tobias Strapatsas (Germany)
+-   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
 -   Koray Tascilar (Germany)
 -   Ville Tenhunen (Netherlands)
@@ -360,6 +365,7 @@ Supporting Members
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
 -   Marcus Vollmer (Germany)
+-   Petr Waldauf (Czechia)
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
 -   Arne Jonas Warnke (Germany)
@@ -370,4 +376,4 @@ Supporting Members
 
 
 
-Last update: 2021-12-22
+Last update: 2022-01-04
