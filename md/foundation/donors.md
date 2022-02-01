@@ -24,26 +24,26 @@ online [donation form](donations.html).
 Patrons
 -----------
 
-- `<a href="https://www.rstudio.com/", rel="nofollow">RStudio, PBC, United States</a>`{=html}
-- `<a href="https://opensource.indeedeng.io/FOSS-Contributor-Fund/", rel="nofollow">Indeed's FOSS Contributor Fund 2021</a>`{=html}
-- `<a href="https://www.r-project.org/gsoc.html", rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
-- `<a href="https://user2021.r-project.org/", rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
-- `<a href="https://user2020.r-project.org/", rel="nofollow">useR! 2020 Organising Team (virtual from Munich, Germany)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2019/", rel="nofollow">useR! 2019 Organising Team (Toulouse, France)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2018/", rel="nofollow">useR! 2018 Organising Team (Brisbane, Australia)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2017/", rel="nofollow">useR! 2017 Organising Team (Brussels, Belgium)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2016/", rel="nofollow">useR! 2016 Organising Team (Stanford, California)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2015/", rel="nofollow">useR! 2015 Organising Team (Aalborg, Denmark)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2014/", rel="nofollow">useR! 2014 Organising Team (Los Angeles, California)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2013/", rel="nofollow">useR! 2013 Organising Team (Albacete, Spain)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2012/", rel="nofollow">useR! 2012 Organising Team (Nashville, Tennessee)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2011/", rel="nofollow">useR! 2011 Organising Team (Warwick, UK)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2010/", rel="nofollow">useR! 2010 Organising Team (Gaithersburg, Maryland) </a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2009/", rel="nofollow">useR! 2009 Organising Team (Rennes, France)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2008/", rel="nofollow">useR! 2008 Organising Team (Dortmund, Germany)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2007/", rel="nofollow">useR! 2007 Organising Team (Ames, Iowa)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2006/", rel="nofollow">useR! 2006 Organising Team (Vienna, Austria)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2004/", rel="nofollow">useR! 2004 Organising Team (Vienna, Austria)</a>`{=html}
+- `<a href="https://www.rstudio.com/" rel="nofollow">RStudio, PBC, United States</a>`{=html}
+- `<a href="https://opensource.indeedeng.io/FOSS-Contributor-Fund/" rel="nofollow">Indeed's FOSS Contributor Fund 2021</a>`{=html}
+- `<a href="https://www.r-project.org/gsoc.html" rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
+- `<a href="https://user2021.r-project.org/" rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
+- `<a href="https://user2020.r-project.org/" rel="nofollow">useR! 2020 Organising Team (virtual from Munich, Germany)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2019/" rel="nofollow">useR! 2019 Organising Team (Toulouse, France)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2018/" rel="nofollow">useR! 2018 Organising Team (Brisbane, Australia)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2017/" rel="nofollow">useR! 2017 Organising Team (Brussels, Belgium)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2016/" rel="nofollow">useR! 2016 Organising Team (Stanford, California)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2015/" rel="nofollow">useR! 2015 Organising Team (Aalborg, Denmark)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2014/" rel="nofollow">useR! 2014 Organising Team (Los Angeles, California)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2013/" rel="nofollow">useR! 2013 Organising Team (Albacete, Spain)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2012/" rel="nofollow">useR! 2012 Organising Team (Nashville, Tennessee)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2011/" rel="nofollow">useR! 2011 Organising Team (Warwick, UK)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2010/" rel="nofollow">useR! 2010 Organising Team (Gaithersburg, Maryland) </a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2009/" rel="nofollow">useR! 2009 Organising Team (Rennes, France)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2008/" rel="nofollow">useR! 2008 Organising Team (Dortmund, Germany)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2007/" rel="nofollow">useR! 2007 Organising Team (Ames, Iowa)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2006/" rel="nofollow">useR! 2006 Organising Team (Vienna, Austria)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2004/" rel="nofollow">useR! 2004 Organising Team (Vienna, Austria)</a>`{=html}
 
 
 
@@ -52,69 +52,60 @@ Donors (after March 2017)
 
 
 -   Jordan Aharoni (Canada)
--   `<a href="https://webhostingbuddy.com/best-wordpress-hosting/", rel="nofollow">WordPress Hosting Buddy (United States)</a>`{=html}
 -   Joaquín Baquer-Miravete (Spain)
--   `<a href="https://ilustat.com", rel="nofollow">ilustat (Portugal)</a>`{=html}
+-   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
--   `<a href="https://www.b-data.io", rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
+-   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
 -   JBL Digital Marketing (Australia)
--   `<a href="https://www.essexbricklayer.co.uk/", rel="nofollow">Essex Bricklayers (United Kingdom)</a>`{=html}
 -   Mark Cachia (Canada)
 -   Jacopo Cerri (Italy)
--   `<a href="https://amy17519.me/", rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
--   `<a href="https://www.cogginelectrical.com/", rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
+-   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
+-   `<a href="https://www.cogginelectrical.com/" rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
 -   Ruedi Epple (Switzerland)
--   `<a href="https://www.rvdetailsandiego.com", rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
+-   `<a href="https://rvdetailsandiego.com/" rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
--   `<a href="https://www.vancouverfencing.ca/", rel="nofollow">Vancouver Fencing (Canada)</a>`{=html}
+-   `<a href="https://www.vancouverfencing.ca/" rel="nofollow">Vancouver Fencing (Canada)</a>`{=html}
 -   Shalese Fitzgerald (United States)
--   `<a href="http://users.stat.umn.edu/~geyer/", rel="nofollow">Charles Geyer (United States)</a>`{=html}
+-   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
--   `<a href="https://www.abbotsfordhandyman.ca/", rel="nofollow">Abbotsford Handyman (Canada)</a>`{=html}
--   `<a href="https://www.mapleridgehandyman.ca/", rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
--   `<a href="https://www.handymanburnaby.ca/", rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.abbotsfordhandyman.ca/" rel="nofollow">Abbotsford Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.mapleridgehandyman.ca/" rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.handymanburnaby.ca/" rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   ken ikeda (Japan)
--   `<a href="https://www.roofersinakron.com/", rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
+-   `<a href="https://www.roofersinakron.com/" rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
 -   Knut Helge Jensen (Norway)
--   `<a href="http://www.econ.uiuc.edu/~roger/", rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
+-   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Ann-Sophie Lehnert (Germany)
--   `<a href="https://wholesalehempandcbd.com/", rel="nofollow">Bulk CBD Providers (United States)</a>`{=html}
--   `<a href="https://www.stampedconcretefortwayne.net", rel="nofollow">Platinum Crete (United States)</a>`{=html}
--   `<a href="https://www.metalroofingsanantonio.net", rel="nofollow">Metal Roofing San Antonio (United States)</a>`{=html}
--   `<a href="https://www.seattle-handyman.com/", rel="nofollow">Seattle Handyman (Canada)</a>`{=html}
--   `<a href="https://www.thevancouverhandyman.ca/", rel="nofollow">Vancouver Handyman (Canada)</a>`{=html}
--   `<a href="https://www.langleyhandyman.ca/", rel="nofollow">Langley Handyman (Canada)</a>`{=html}
--   `<a href="https://www.richmondhandyman.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
--   `<a href="https://www.chilliwackhandyman.com/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
--   `<a href="https://www.mapleridgeconcrete.ca/", rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
--   `<a href="http://themesfromart.com", rel="nofollow">Rees Morrison (United States)</a>`{=html}
--   `<a href="https://minato.sip21c.org/", rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
+-   `<a href="https://wholesalehempandcbd.com/" rel="nofollow">Bulk CBD Providers (United States)</a>`{=html}
+-   `<a href="https://www.stampedconcretefortwayne.net" rel="nofollow">Platinum Crete (United States)</a>`{=html}
+-   `<a href="https://www.seattle-handyman.com/" rel="nofollow">Seattle Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.thevancouverhandyman.ca/" rel="nofollow">Vancouver Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.langleyhandyman.ca/" rel="nofollow">Langley Handyman (Canada)</a>`{=html}
+-   `<a href="https://www.richmondhandyman.ca/" rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
+-   `<a href="https://www.chilliwackhandyman.com/" rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
+-   `<a href="https://www.mapleridgeconcrete.ca/" rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
+-   `<a href="https://themesfromart.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
+-   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Rashid Nassar (United States)
--   `<a href="https://www.appstam.com/", rel="nofollow">Appstam Consulting GmbH (Germany)</a>`{=html}
 -   Juan Perez-Franco (Chile)
--   `<a href="https://www.carefulmovers.net/storage/", rel="nofollow">Careful Movers (United States)</a>`{=html}
--   `<a href="https://www.pianomoverssandiego.net/", rel="nofollow">San Diego Piano Moving (United States)</a>`{=html}
--   `<a href="https://www.bathroomremodeldayton.net", rel="nofollow">Bathroom Remodel Dayton (United States)</a>`{=html}
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
--   `<a href="https://www.affordableroofingvancouver.com/", rel="nofollow">Vancouver Roofing (United States)</a>`{=html}
--   `<a href="https://www.vancouverchimneysweep.com/", rel="nofollow">Tuckpointing Vancouver (United States)</a>`{=html}
--   `<a href="https://www.allaboutfence.net/ ", rel="nofollow">Bend Fencing Companies (United States)</a>`{=html}
--   `<a href="https://www.magnoliawa.com/", rel="nofollow">Nursing Home Vancouver (United States)</a>`{=html}
--   `<a href="https://roofingcontractorsclearwater.com/", rel="nofollow">Clearwater Roofing (United States)</a>`{=html}
--   `<a href="https://www.tampabaywindowsfl.com/", rel="nofollow">Clearwater Windows (United States)</a>`{=html}
--   `<a href="https://www.treeremovalbrandon.com/", rel="nofollow">Tree Service Brandon (United States)</a>`{=html}
--   `<a href="https://www.paversjacksonvillefl.com/", rel="nofollow">Jacksonville Pavers (United States)</a>`{=html}
--   `<a href="https://www.tampafltreeservice.com/", rel="nofollow">Tampe Tree (United States)</a>`{=html}
--   `<a href="https://www.fastmoverstampa.com/", rel="nofollow">Fast Movers Tampa (United States)</a>`{=html}
--   `<a href="https://www.allenstreeworks.com/", rel="nofollow">Allen's Tree Works (United States)</a>`{=html}
--   Steve Smith (United States)
--   `<a href="https://www.mapleridgetreeservice.ca/", rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
+-   `<a href="https://www.affordableroofingvancouver.com/" rel="nofollow">Vancouver Roofing (United States)</a>`{=html}
+-   `<a href="https://www.vancouverchimneysweep.com/" rel="nofollow">Tuckpointing Vancouver (United States)</a>`{=html}
+-   `<a href="https://www.allaboutfence.net/ " rel="nofollow">Bend Fencing Companies (United States)</a>`{=html}
+-   `<a href="https://www.magnoliawa.com/" rel="nofollow">Nursing Home Vancouver (United States)</a>`{=html}
+-   `<a href="https://roofingcontractorsclearwater.com/" rel="nofollow">Clearwater Roofing (United States)</a>`{=html}
+-   `<a href="https://www.tampabaywindowsfl.com/" rel="nofollow">Clearwater Windows (United States)</a>`{=html}
+-   `<a href="https://www.treeremovalbrandon.com/" rel="nofollow">Tree Service Brandon (United States)</a>`{=html}
+-   `<a href="https://www.paversjacksonvillefl.com/" rel="nofollow">Jacksonville Pavers (United States)</a>`{=html}
+-   `<a href="https://www.mapleridgetreeservice.ca/" rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
+-   `<a href="https://vaquero-martinez.gitlab.io" rel="nofollow">Javier Vaquero Martinez (Spain)</a>`{=html}
 -   Dr. Alfred Wagner (Germany)
 -   Daniel Wollschläger (Germany)
--   `<a href="https://www.airductcleaningwinnipeg.com/", rel="nofollow">Duct Cleaning Winnipeg (Canada)</a>`{=html}
+-   `<a href="https://www.airductcleaningwinnipeg.com/" rel="nofollow">Duct Cleaning Winnipeg (Canada)</a>`{=html}
+-   `<a href="https://blog.zenggyu.com" rel="nofollow">广宇 曾 (China)</a>`{=html}
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -212,6 +203,7 @@ Supporting Benefactors
 -----------
 
 
+-   Università degli Studi di Padova, Padova (Italy)
 -   [www.5slotsites.com , Alderley Edge (United Kingdom)](https://www.5slotsites.com)
 
 Supporting Institutions
@@ -219,12 +211,13 @@ Supporting Institutions
 
 
 -   Alfred Mueller Analytic Services, München (Germany)
+-   CICE S.A., Madrid (Spain)
 -   Code Ocean, New York (United States)
 -   [Department of Clinical Research, University Hospital Basel, Basel (Switzerland)](https://dkf.unibas.ch)
 -   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
--   Ef-prime, Inc., 日本橋茅場町 (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   oikostat GmbH, Ettiswil (Switzerland)
+-   University of Iowa, Iowa City (United States)
 
 Supporting Members
 -----------
@@ -239,6 +232,8 @@ Supporting Members
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
 -   Frederic BERTRAND (France)
+-   Eduard Biche (Switzerland)
+-   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
 -   Ryan Bonifacino (United States)
@@ -253,12 +248,15 @@ Supporting Members
 -   Michael Chirico (United States)
 -   Tom Clarke (United Kingdom)
 -   Gerard Conaghan (United Kingdom)
+-   Rémi Coulaud (France)
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
+-   Ajit de Silva (United States)
 -   Jasja Dekker (Netherlands)
+-   Dubravko Dolic (Germany)
 -   Michael Dorman (Israel)
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
@@ -275,8 +273,11 @@ Supporting Members
 -   Bernd Fröhlich (Germany)
 -   Huancheng Fu (China)
 -   Keita Fukasawa (Japan)
+-   Jutta Gampe (Germany)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
+-   Jan Marvin Garbuszus (Germany)
+-   J. Antonio  García Ramírez (Mexico)
 -   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Brian Gramberg (Netherlands)
@@ -288,12 +289,15 @@ Supporting Members
 -   Bela Hausmann (Austria)
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
+-   Philippe Heymans Smith (Costa Rica)
 -   Robert Hickman (United Kingdom)
 -   Adam Hill (United States)
 -   BaoGiang HoangVu (Vietnam)
 -   Alexander Huelle (Germany)
+-   Alessamdro Ielpi (Canada)
 -   Lorenzo Isella (Belgium)
 -   Sebastian Jeworutzki (Germany)
+-   Brian Johnson (United States)
 -   Grant Joslin (United States)
 -   Péter Kalicz (Hungary)
 -   Christian Kampichler (Netherlands)
@@ -304,7 +308,6 @@ Supporting Members
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
 -   Sebastian Krantz (Germany)
--   Daniel Krüerke (Switzerland)
 -   Jan Herman Kuiper (United Kingdom)
 -   Chris Kuty (United States)
 -   HOONJEONG KWON (Korea, Republic of)
@@ -321,6 +324,7 @@ Supporting Members
 -   Myriam Maumy (France)
 -   Daniel McNichol (United States)
 -   Bogdan-Alexandru Micu (Luxembourg)
+-   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
 -   Jairo Montenegro Arjona (Colombia)
 -   David Monterde (Spain)
@@ -328,7 +332,6 @@ Supporting Members
 -   Steffen Moritz (Germany)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
--   Maciej Nasinski (Poland)
 -   Tilers in Nottingham (United Kingdom)
 -   Jens Oehlschlägel (Germany)
 -   Bernard OFFMANN (France)
@@ -339,7 +342,6 @@ Supporting Members
 -   Antonio Paez (Canada)
 -   Matt Parker (United States)
 -   Elgin Perry (United States)
--   jared peterson (United States)
 -   Kem Phillips (United States)
 -   Bill Pikounis (United States)
 -   VASILEIOS PLESSAS (United Kingdom)
@@ -352,18 +354,19 @@ Supporting Members
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
 -   Gaurav Singhal (United States)
--   Gerardo Soto-Campos (United States)
+-   John Smith (United States)
+-   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
 -   Tobias Strapatsas (Germany)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
 -   Koray Tascilar (Germany)
--   Ville Tenhunen (Netherlands)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
 -   Uku Vainik (Estonia)
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
+-   Frans van Dunné (Costa Rica)
 -   Marcus Vollmer (Germany)
 -   Petr Waldauf (Czechia)
 -   Jaap Walhout (Netherlands)
@@ -373,7 +376,9 @@ Supporting Members
 -   Jason Wyse (Ireland)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
+-   晨皓 卞 (China)
+-   广宇 曾 (China)
 
 
 
-Last update: 2022-01-04
+Last update: 2022-02-01
