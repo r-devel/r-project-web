@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: [call for proposals](useR_2023_call.html) to host a hybrid useR! 2023 conference. Deadline for outline proposals **Friday 28 January 2022**.
+**News**: [call for proposals](useR_2023_call.html) to host a global online useR! 2023 conference. Deadline for outline proposals **Friday 22 April 2022**.
 
 ------------
 
@@ -30,7 +30,7 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 <!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
 Calls for proposals to organize useR! will be announced on this page and the R Foundation Twitter account, ['@_R_Foundation'](https://twitter.com/_r_foundation). 
-A [call for proposals](useR_2023_call.html) to host a hybrid useR! 2023 conference opened on 17 December. Deadline for outline proposals **Friday 28 January 2022**.
+**A [call for proposals](useR_2023_call.html) to host a global online useR! 2023 conference opened on 14 March**. Deadline for outline proposals **Friday 22 April 2022**.
 
 Announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on 
 the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
