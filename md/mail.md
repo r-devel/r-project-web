@@ -29,17 +29,42 @@ information, subscription, archives, etc.
 ## R-help
 
 The ‘main’ *R* mailing list, for discussion about problems and solutions
-using *R*, 
-announcements (not covered by `R-announce` or `R-packages`,
-see above), about the availability of new functionality for *R* and
-documentation of *R*, comparison and compatibility with *S-plus*, and
-for the posting of nice examples and benchmarks. 
-Do read the [posting guide](posting-guide.html) *before* sending anything!
+encountered using *R*, including using *R* packages in the standard *R*
+distribution and on CRAN;
+announcements (not covered by `R-announce` or `R-packages`);
+the availability of new functionality for *R* and
+documentation of *R*; and for posting nice examples and benchmarks.
 
-This has become quite an active list with dozens of messages per day. An alternative
+This is quite an active list with many messages per day. An alternative
 is to subscribe and choose daily digests (in plain or MIME format). Use
 the [web interface](https://stat.ethz.ch/mailman/listinfo/r-help) for
 information, subscription, archives, etc.
+
+Please read the [posting guide](posting-guide.html) before sending a
+message to the list. In particular, if asking for help with a problem,
+it is important to be clear and concrete, and it is almost always
+advisable to send a 
+[minimal reproducible example](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)
+of the problem.
+
+There are many more specific *R* email lists (see below under 'Special
+Interest Groups'). If a problem is appropriate for one of the more
+specific lists, you are usually more likely to get help by posting to
+the more specific list. For example, a problem specific to *R* under
+*macOS* should normally be posted to the `R-SIG-Mac` list, and a problem
+concerning *R* software for mixed-effects models should normally be
+posted to the `R-SIG-mixed-models` list.
+
+`R-help` is not intended for help with homework or basic-statistics
+questions.
+
+Bugs in contributed CRAN packages should normally be reported directly
+to the package maintainer (enter the command
+`maintainer("package-name")`. You may also be able to obtain
+help with a problem from the package maintainer.
+
+Help with *R* problems is available from a number of sources beyond the *R*
+email lists. See under 'Help' at the [*R* home page](index.html).
 
 ## R-package-devel
 
@@ -48,7 +73,7 @@ forum for learning about the package development process, a community of
 R package developers who can help each other solve problems, and reduce
 some of the burden on the [CRAN](https://cran.r-project.org/)
 maintainers. If you are having problems developing a package or passing
-R CMD check, this is the place to ask!
+`R CMD check`, this is the place to ask!
 
 There may be some overlap of topics with the `R-devel` mailing list, as
 before the existence of `R-package-devel`, many package developers had
@@ -193,8 +218,8 @@ text into your message instead.
 Information about the list can be obtained by sending an email with
 `info` as its contents to
 [r-help-request\@R-project.org](mailto:r-help-request@R-project.org). 
-Note that you *can* can subscribe and unsubscribe **by E-mail** (instead
-of the web interface), however to unsubscribe you currently need the
+Note that you *can* subscribe and unsubscribe **by E-mail** (instead
+of the web interface), but to unsubscribe you currently need the
 mailing list password which you get when subscribing and in a monthly
 reminder.
 
