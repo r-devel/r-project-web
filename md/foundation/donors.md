@@ -57,9 +57,7 @@ Donors (after March 2017)
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
--   JBL Digital Marketing (Australia)
 -   Mark Cachia (Canada)
--   Jacopo Cerri (Italy)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://www.cogginelectrical.com/" rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
 -   Ruedi Epple (Switzerland)
@@ -70,15 +68,11 @@ Donors (after March 2017)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   `<a href="https://www.abbotsfordhandyman.ca/" rel="nofollow">Abbotsford Handyman (Canada)</a>`{=html}
--   `<a href="https://www.mapleridgehandyman.ca/" rel="nofollow">Maple Ridge Handyman (Canada)</a>`{=html}
--   `<a href="https://www.handymanburnaby.ca/" rel="nofollow">Burnaby Handyman (Canada)</a>`{=html}
 -   ken ikeda (Japan)
 -   `<a href="https://www.roofersinakron.com/" rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
 -   Knut Helge Jensen (Norway)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Ann-Sophie Lehnert (Germany)
--   `<a href="https://wholesalehempandcbd.com/" rel="nofollow">Bulk CBD Providers (United States)</a>`{=html}
--   `<a href="https://www.stampedconcretefortwayne.net" rel="nofollow">Platinum Crete (United States)</a>`{=html}
 -   `<a href="https://www.seattle-handyman.com/" rel="nofollow">Seattle Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.thevancouverhandyman.ca/" rel="nofollow">Vancouver Handyman (Canada)</a>`{=html}
 -   `<a href="https://www.langleyhandyman.ca/" rel="nofollow">Langley Handyman (Canada)</a>`{=html}
@@ -87,23 +81,17 @@ Donors (after March 2017)
 -   `<a href="https://www.mapleridgeconcrete.ca/" rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://themesfromart.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
--   Rashid Nassar (United States)
 -   Juan Perez-Franco (Chile)
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
 -   `<a href="https://www.affordableroofingvancouver.com/" rel="nofollow">Vancouver Roofing (United States)</a>`{=html}
 -   `<a href="https://www.vancouverchimneysweep.com/" rel="nofollow">Tuckpointing Vancouver (United States)</a>`{=html}
 -   `<a href="https://www.allaboutfence.net/ " rel="nofollow">Bend Fencing Companies (United States)</a>`{=html}
--   `<a href="https://www.magnoliawa.com/" rel="nofollow">Nursing Home Vancouver (United States)</a>`{=html}
--   `<a href="https://roofingcontractorsclearwater.com/" rel="nofollow">Clearwater Roofing (United States)</a>`{=html}
--   `<a href="https://www.tampabaywindowsfl.com/" rel="nofollow">Clearwater Windows (United States)</a>`{=html}
--   `<a href="https://www.treeremovalbrandon.com/" rel="nofollow">Tree Service Brandon (United States)</a>`{=html}
--   `<a href="https://www.paversjacksonvillefl.com/" rel="nofollow">Jacksonville Pavers (United States)</a>`{=html}
--   `<a href="https://www.mapleridgetreeservice.ca/" rel="nofollow">Maple Ridge Tree Service (Canada)</a>`{=html}
 -   Rav Vaid (United States)
+-   Clay Valarezo (United States)
 -   `<a href="https://vaquero-martinez.gitlab.io" rel="nofollow">Javier Vaquero Martinez (Spain)</a>`{=html}
--   Dr. Alfred Wagner (Germany)
 -   Daniel Wollschläger (Germany)
+-   Kai Wu (China)
 -   `<a href="https://www.airductcleaningwinnipeg.com/" rel="nofollow">Duct Cleaning Winnipeg (Canada)</a>`{=html}
 -   `<a href="https://blog.zenggyu.com" rel="nofollow">广宇 曾 (China)</a>`{=html}
 -   明彦 田中 (Japan)
@@ -204,7 +192,6 @@ Supporting Benefactors
 
 
 -   Università degli Studi di Padova, Padova (Italy)
--   [www.5slotsites.com , Alderley Edge (United Kingdom)](https://www.5slotsites.com)
 
 Supporting Institutions
 -----------
@@ -212,7 +199,6 @@ Supporting Institutions
 
 -   Alfred Mueller Analytic Services, München (Germany)
 -   CICE S.A., Madrid (Spain)
--   Code Ocean, New York (United States)
 -   [Department of Clinical Research, University Hospital Basel, Basel (Switzerland)](https://dkf.unibas.ch)
 -   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
@@ -246,12 +232,12 @@ Supporting Members
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
 -   Michael Chirico (United States)
--   Tom Clarke (United Kingdom)
 -   Gerard Conaghan (United Kingdom)
 -   Rémi Coulaud (France)
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
+-   Brandon Dahl (United States)
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
 -   Ajit de Silva (United States)
@@ -261,6 +247,7 @@ Supporting Members
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
 -   Johan Eklund (Sweden)
+-   S Ellison (United Kingdom)
 -   Werner Engl (Austria)
 -   Mitch Eppley (United States)
 -   cristiano esclapon (Switzerland)
@@ -271,7 +258,6 @@ Supporting Members
 -   Neil Frazer (United States)
 -   David Freedman (United States)
 -   Bernd Fröhlich (Germany)
--   Huancheng Fu (China)
 -   Keita Fukasawa (Japan)
 -   Jutta Gampe (Germany)
 -   Sven Garbade (Germany)
@@ -285,25 +271,24 @@ Supporting Members
 -   Jim Gruman (United States)
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
--   Joe Harwood (United Kingdom)
 -   Bela Hausmann (Austria)
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
 -   Philippe Heymans Smith (Costa Rica)
 -   Robert Hickman (United Kingdom)
 -   Adam Hill (United States)
--   BaoGiang HoangVu (Vietnam)
 -   Alexander Huelle (Germany)
 -   Alessamdro Ielpi (Canada)
+-   Heidi Imker (United States)
 -   Lorenzo Isella (Belgium)
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
--   Grant Joslin (United States)
 -   Péter Kalicz (Hungary)
 -   Christian Kampichler (Netherlands)
 -   Jungjoon Kim (Korea, Republic of)
 -   JUNE KEE KIM (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
+-   Ziyad Knio (United States)
 -   Gen KOBAYASHI (Japan)
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
@@ -311,12 +296,12 @@ Supporting Members
 -   Jan Herman Kuiper (United Kingdom)
 -   Chris Kuty (United States)
 -   HOONJEONG KWON (Korea, Republic of)
--   Luca La Rocca (Italy)
 -   Adrien Le Guillou (France)
 -   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
 -   Thomas Levine (United States)
 -   Chin Soon Lim (Singapore)
+-   Yuewei Liu (China)
 -   Joseph Luchman (United States)
 -   Alexandra Lypynska (United Kingdom)
 -   Michal Majka (Austria)
@@ -332,17 +317,14 @@ Supporting Members
 -   Steffen Moritz (Germany)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
--   Tilers in Nottingham (United Kingdom)
 -   Jens Oehlschlägel (Germany)
 -   Bernard OFFMANN (France)
--   Berk Orbay (Turkey)
 -   Dan Orsholits (Switzerland)
 -   George Ostrouchov (United States)
 -   Abdullah Öztop (Turkey)
 -   Antonio Paez (Canada)
 -   Matt Parker (United States)
 -   Elgin Perry (United States)
--   Kem Phillips (United States)
 -   Bill Pikounis (United States)
 -   VASILEIOS PLESSAS (United Kingdom)
 -   Fergus Reig Gracia (Spain)
@@ -363,11 +345,11 @@ Supporting Members
 -   Koray Tascilar (Germany)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
--   Uku Vainik (Estonia)
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
 -   Frans van Dunné (Costa Rica)
 -   Marcus Vollmer (Germany)
+-   Dr. Alfred Wagner (Germany)
 -   Petr Waldauf (Czechia)
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
@@ -381,4 +363,4 @@ Supporting Members
 
 
 
-Last update: 2022-02-01
+Last update: 2022-03-30
