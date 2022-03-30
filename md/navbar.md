@@ -21,7 +21,7 @@
 * [Get Involved: Mailing Lists](/mail.html)
 * [Get Involved: Contributing](https://contributor.r-project.org/)
 * [Developer Pages](https://developer.R-project.org/)
-* [R Blog](https://developer.r-project.org/Blog/public/)
+* [R Blog](https://blog.r-project.org/)
 </div>
 
 <div class="col-xs-6 col-sm-12">
