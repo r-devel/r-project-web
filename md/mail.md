@@ -59,8 +59,8 @@ posted to the `R-SIG-mixed-models` list.
 questions.
 
 Bugs in contributed CRAN packages should normally be reported directly
-to the package maintainer (enter the command
-`maintainer("package-name")`. You may also be able to obtain
+to the package maintainer (use `maintainer("package-name")` in R). You may
+also be able to obtain
 help with a problem from the package maintainer.
 
 Help with *R* problems is available from a number of sources beyond the *R*
