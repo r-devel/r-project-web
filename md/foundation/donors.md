@@ -59,8 +59,6 @@ Donors (after March 2017)
 -   Bryan Berend (United States)
 -   Mark Cachia (Canada)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
--   `<a href="https://www.cogginelectrical.com/" rel="nofollow">Generators in Smithfield, Virginia (United States)</a>`{=html}
--   Ruedi Epple (Switzerland)
 -   `<a href="https://rvdetailsandiego.com/" rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
 -   `<a href="https://www.vancouverfencing.ca/" rel="nofollow">Vancouver Fencing (Canada)</a>`{=html}
@@ -70,7 +68,6 @@ Donors (after March 2017)
 -   `<a href="https://www.abbotsfordhandyman.ca/" rel="nofollow">Abbotsford Handyman (Canada)</a>`{=html}
 -   ken ikeda (Japan)
 -   `<a href="https://www.roofersinakron.com/" rel="nofollow">Roofers Akron Ohio (United Kingdom)</a>`{=html}
--   Knut Helge Jensen (Norway)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Ann-Sophie Lehnert (Germany)
 -   `<a href="https://www.seattle-handyman.com/" rel="nofollow">Seattle Handyman (Canada)</a>`{=html}
@@ -92,7 +89,6 @@ Donors (after March 2017)
 -   `<a href="https://vaquero-martinez.gitlab.io" rel="nofollow">Javier Vaquero Martinez (Spain)</a>`{=html}
 -   Daniel Wollschläger (Germany)
 -   Kai Wu (China)
--   `<a href="https://www.airductcleaningwinnipeg.com/" rel="nofollow">Duct Cleaning Winnipeg (Canada)</a>`{=html}
 -   `<a href="https://blog.zenggyu.com" rel="nofollow">广宇 曾 (China)</a>`{=html}
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
@@ -200,7 +196,7 @@ Supporting Institutions
 -   Alfred Mueller Analytic Services, München (Germany)
 -   CICE S.A., Madrid (Spain)
 -   [Department of Clinical Research, University Hospital Basel, Basel (Switzerland)](https://dkf.unibas.ch)
--   [Dotcom-Tools, Wayzata (United States)](https://www.dotcom-tools.com/)
+-   Ef-prime, Inc., Chuo-ku (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   oikostat GmbH, Ettiswil (Switzerland)
 -   University of Iowa, Iowa City (United States)
@@ -215,6 +211,7 @@ Supporting Members
 -   Tim Appelhans (Germany)
 -   Takaharu Araki (Japan)
 -   Kristoffer Winther Balling (Denmark)
+-   Joaquín Baquer-Miravete (Spain)
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
 -   Frederic BERTRAND (France)
@@ -222,10 +219,8 @@ Supporting Members
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
--   Ryan Bonifacino (United States)
 -   Tamara Bozovic (New Zealand)
 -   Wesley Brooks (United States)
--   Jack Brown (United Kingdom)
 -   Greg Bukovatz (United States)
 -   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
@@ -237,6 +232,7 @@ Supporting Members
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
+-   Alistair Cullum (United States)
 -   Brandon Dahl (United States)
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
@@ -253,6 +249,7 @@ Supporting Members
 -   cristiano esclapon (Switzerland)
 -   Dane Evans (United States)
 -   Guenter Faes (Germany)
+-   Leonardo Ferreira (Germany)
 -   Gottfried Fischer (Austria)
 -   Isaac Florence (United Kingdom)
 -   Neil Frazer (United States)
@@ -281,11 +278,10 @@ Supporting Members
 -   Alessamdro Ielpi (Canada)
 -   Heidi Imker (United States)
 -   Lorenzo Isella (Belgium)
+-   Knut Helge Jensen (Norway)
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
--   Péter Kalicz (Hungary)
 -   Christian Kampichler (Netherlands)
--   Jungjoon Kim (Korea, Republic of)
 -   JUNE KEE KIM (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
 -   Ziyad Knio (United States)
@@ -294,12 +290,13 @@ Supporting Members
 -   Miha Kosmac (United Kingdom)
 -   Sebastian Krantz (Germany)
 -   Jan Herman Kuiper (United Kingdom)
--   Chris Kuty (United States)
--   HOONJEONG KWON (Korea, Republic of)
+-   Teemu Daniel Laajala (Finland)
 -   Adrien Le Guillou (France)
 -   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
 -   Thomas Levine (United States)
+-   Zhiguang Li (United States)
+-   Eric Lim (United Kingdom)
 -   Chin Soon Lim (Singapore)
 -   Yuewei Liu (China)
 -   Joseph Luchman (United States)
@@ -317,6 +314,7 @@ Supporting Members
 -   Steffen Moritz (Germany)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
+-   Maciej Nasinski (Poland)
 -   Jens Oehlschlägel (Germany)
 -   Bernard OFFMANN (France)
 -   Dan Orsholits (Switzerland)
@@ -363,4 +361,4 @@ Supporting Members
 
 
 
-Last update: 2022-03-30
+Last update: 2022-05-18
