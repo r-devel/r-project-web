@@ -9,7 +9,8 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
--   [**R version 4.2.1 (Funny-Looking Kid) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2022-06-13. Final release is scheduled for Thursday 2022-06-23. 
+-   [**R version 4.2.1 (Funny-Looking Kid)**](https://cran.r-project.org/src/base/R-4)
+    has been released on 2022-06-23.
 -   [**R version 4.2.0 (Vigorous Calisthenics)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2022-04-22.
 -   [**R version 4.1.3 (One Push-Up)**](https://cran.r-project.org/src/base/R-4)
