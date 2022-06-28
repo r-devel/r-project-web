@@ -47,7 +47,7 @@ Patrons
 
 
 
-Donors (after March 2017)
+Donors 
 -----------
 
 
@@ -95,91 +95,11 @@ Donors (after March 2017)
 -   The Analytical Edge, Elackmans Bay (Australia)
 -   [Zurich R Courses, Zurich (Switzerland)](https://www.zhRcourses.uzh.ch)
 
-Donors (before March 2017)
------------
-
-
--   AT&T Research (United States)
--   Agrocampus Ouest (France)
--   Vies Animales (France)
--   Austrian Association for Statistical Computing (Austria)
--   Adelchi Azzalini (Italy)
--   BC Cancer Agency, Vancouver (Canada)
--   Fabian Barth (Germany)
--   Brian Caffo (United States)
--   David W. Crawford (United States)
--   Dianne Cook (United States)
--   Department of Economics, University of Milano (Italy)
--   Department of Mathematics and Statistics, University of Vaasa (Finland)
--   Dipartimento di Scienze Statistiche e Matematiche di Palermo
-    (Italy)
--   Emanuele De Rinaldis (Italy)
--   Zubin Dowlaty (United States)
--   Faculty of Economics, University of Groningen (Netherlands)
--   Faculty of Psychology, University of Barcelona (Spain)
--   Ilker Esener (Switzerland)
--   Jaimison Fargo (United States)
--   Jason Fisher (United States)
--   Peter L. Flom (United States)
--   Manfred Georg (United States)
--   Greenwich Statistics (France)
--   Grupo Usuarios R — Madrid (Spain)
--   Nassim Haddad (Belgium)
--   Helsana Versicherungen AG (Switzerland)
--   Hort Research Institute (New Zealand)
--   Rick Hubbard (United States)
--   Geoffrey S Hubona, The Georgia R School (United States)
--   Ilustat (Portugal)
--   Owen Jones, Robert Maillardet and Andrew Robinson (Royalties for the
-    book “Scientific Programming and Simulation Using R”)
--   Kansai University, Faculty Commerce (Japan)
--   Kristian Kieselman (Sweden)
--   Korean R Users Group (Korea)
--   Olaf Krenz (Germany)
--   Jonathan M. Lees (United States)
--   J. Brian Loria (United States)
--   Peeter Luikmel (Estland)
--   Vittorio de Martino (Italy)
--   Shigeru Mase (Japan)
--   Peter M Maksymuk (United States)
--   Merck and Co., Inc. (United States)
--   Telecom New Zealand (New Zealand)
--   Minato Nakazawa (Japan)
--   Koen-Woong Moon (Korea)
--   Network Theory Ltd, Bristol (United Kingdom)
--   Packt Publishing Limited (United Kingdom)
--   Stavros Panidis (Greece)
--   Norm Phillips (Canada)
--   Bill Pikounis (United States)
--   Jens Pongratz (Switzerland)
--   Joanne M Potts, The Analytical Edge (Australia)
--   Quan Development LLC (United States)
--   Jim Robinson-Cox, Montana State University (United States)
--   Rstudio Inc. (United States)
--   Saxo Bank (Denmark)
--   SBW Consulting (United States)
--   Phil Shepherd (New Zealand)
--   Jogat Sheth (United States)
--   Somewhat Retired (United States)
--   N. Srinivasan (United States)
--   Julian Stander (United Kingdom)
--   Jeffrey R. Stevens (Germany)
--   Stanford University, California (United States)
--   Kevin Tappe (Germany)
--   Università Cà Foscari Venezia (Italy)
--   Université de Nantes (France)
--   Ravinderpal Vaid (United States)
--   Boris Vaillant (Germany)
--   Hrishikesh D. Vinod (United States)
--   Ivo Welch
--   Joshua Wiley (United States)
--   Kevin Wright (United States)
-
 Supporting Benefactors
 -----------
 
 
--   Università degli Studi di Padova, Padova (Italy)
+-   Adelchi Azzalini (Italy)
 
 Supporting Institutions
 -----------
@@ -237,7 +157,6 @@ Supporting Members
 -   Anthony Alan Egerton (Malaysia)
 -   Johan Eklund (Sweden)
 -   S Ellison (United Kingdom)
--   Werner Engl (Austria)
 -   Mitch Eppley (United States)
 -   cristiano esclapon (Switzerland)
 -   Dane Evans (United States)
@@ -321,6 +240,7 @@ Supporting Members
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Andrzej Pokładek (Poland)
+-   Davor Pranjic (United States)
 -   Srivatsan Raghunathan (India)
 -   Fergus Reig Gracia (Spain)
 -   Stefano Rezzonico (Canada)
@@ -358,4 +278,4 @@ Supporting Members
 
 
 
-Last update: 2022-06-21
+Last update: 2022-06-28
