@@ -114,7 +114,8 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 * [DSC 2016](/dsc/2016), Stanford, USA.
 
-* [R Summit 2015](http://info.cbs.dk/rsummit2015), Copenhagen, Denmark.
+* R Summit 2015, Copenhagen, 
+  ([local copy](https://www.r-project.org/conferences/rsummit-2015/rsummit2015.html)).
 
 * [DSC 2014](https://www.huber.embl.de/dsc/), Bressanone-Brixen, Italy.
 
