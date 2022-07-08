@@ -52,6 +52,7 @@ Donors
 
 
 -   Jordan Aharoni (Canada)
+-   `<a href="https://www.it-schulungen.com" rel="nofollow">New Elements GmbH (Germany)</a>`{=html}
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
@@ -63,15 +64,8 @@ Donors
 -   Shalese Fitzgerald (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
--   ken ikeda (Japan)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Ann-Sophie Lehnert (Germany)
--   `<a href="https://www.seattle-handyman.com/" rel="nofollow">Seattle Handyman (Canada)</a>`{=html}
--   `<a href="https://www.thevancouverhandyman.ca/" rel="nofollow">Vancouver Handyman (Canada)</a>`{=html}
--   `<a href="https://www.langleyhandyman.ca/" rel="nofollow">Langley Handyman (Canada)</a>`{=html}
--   `<a href="https://www.richmondhandyman.ca/" rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
--   `<a href="https://www.chilliwackhandyman.com/" rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
--   `<a href="https://www.mapleridgeconcrete.ca/" rel="nofollow">Concrete Maple Ridge (Canada)</a>`{=html}
 -   `<a href="https://themesfromart.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Nickalus Redell (United States)
@@ -188,6 +182,7 @@ Supporting Members
 -   Adam Hill (United States)
 -   Alexander Huelle (Germany)
 -   Alessamdro Ielpi (Canada)
+-   ken ikeda (Japan)
 -   Heidi Imker (United States)
 -   Lorenzo Isella (Belgium)
 -   Knut Helge Jensen (Norway)
@@ -204,6 +199,7 @@ Supporting Members
 -   Jan Herman Kuiper (United Kingdom)
 -   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
+-   Jindra Lacko (Czechia)
 -   Adrien Le Guillou (France)
 -   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
@@ -214,6 +210,7 @@ Supporting Members
 -   Yuewei Liu (China)
 -   Joseph Luchman (United States)
 -   Alexandra Lypynska (United Kingdom)
+-   Sharon Machlis (United States)
 -   Michal Majka (Austria)
 -   Gilles Marodon (France)
 -   Myriam Maumy (France)
@@ -236,6 +233,7 @@ Supporting Members
 -   George Ostrouchov (United States)
 -   Abdullah Öztop (Turkey)
 -   Antonio Paez (Canada)
+-   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
@@ -252,6 +250,7 @@ Supporting Members
 -   Jagat Sheth (United States)
 -   Gaurav Singhal (United States)
 -   John Smith (United States)
+-   Murray Sondergard (Canada)
 -   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
 -   Tobias Strapatsas (Germany)
@@ -271,6 +270,7 @@ Supporting Members
 -   Arne Jonas Warnke (Germany)
 -   Fredrik Wartenberg (Sweden)
 -   Jason Wyse (Ireland)
+-   jaejoong yun (Korea, Republic of)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
 -   晨皓 卞 (China)
@@ -278,4 +278,4 @@ Supporting Members
 
 
 
-Last update: 2022-06-28
+Last update: 2022-07-08
