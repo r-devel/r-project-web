@@ -59,11 +59,13 @@ Donors
 -   Bryan Berend (United States)
 -   Mark Cachia (Canada)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
+-   `<a href="https://gilesd-j.com" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   `<a href="https://rvdetailsandiego.com/" rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
+-   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Ann-Sophie Lehnert (Germany)
 -   `<a href="https://themesfromart.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
@@ -100,9 +102,11 @@ Supporting Institutions
 
 
 -   Alfred Mueller Analytic Services, München (Germany)
+-   Chicago R User Group, Chicago (United States)
 -   CICE S.A., Madrid (Spain)
 -   Ef-prime, Inc., Chuo-ku (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
+-   KIN Services, Tijuana (Mexico)
 -   oikostat GmbH, Ettiswil (Switzerland)
 -   University of Iowa, Iowa City (United States)
 
@@ -113,6 +117,7 @@ Supporting Members
 -   Constantin Ahlmann-Eltze (Germany)
 -   Vedo Alagic (Austria)
 -   Diogo Almeida (United Arab Emirates)
+-   Mohammed Almozini (Saudi Arabia)
 -   Tim Appelhans (Germany)
 -   Takaharu Araki (Japan)
 -   Kristoffer Winther Balling (Denmark)
@@ -133,6 +138,7 @@ Supporting Members
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
 -   Michael Chirico (United States)
+-   William Chiu (United States)
 -   Gerard Conaghan (United Kingdom)
 -   Rafael Costa (Brazil)
 -   Rémi Coulaud (France)
@@ -166,7 +172,6 @@ Supporting Members
 -   Jutta Gampe (Germany)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
--   J. Antonio  García Ramírez (Mexico)
 -   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Brian Gramberg (Netherlands)
@@ -185,6 +190,7 @@ Supporting Members
 -   ken ikeda (Japan)
 -   Heidi Imker (United States)
 -   Lorenzo Isella (Belgium)
+-   Anup Jaltade (United States)
 -   Knut Helge Jensen (Norway)
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
@@ -227,6 +233,7 @@ Supporting Members
 -   Maciej Nasinski (Poland)
 -   Aliaksandr Nekrashevich (Canada)
 -   Mark Niemann-Ross (United States)
+-   Boris Ntwoku (United States)
 -   Jens Oehlschlägel (Germany)
 -   Bernard OFFMANN (France)
 -   Dan Orsholits (Switzerland)
@@ -237,6 +244,7 @@ Supporting Members
 -   Matt Parker (United States)
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
+-   Kelly Pisane (Netherlands)
 -   Andrzej Pokładek (Poland)
 -   Davor Pranjic (United States)
 -   Srivatsan Raghunathan (India)
@@ -248,15 +256,18 @@ Supporting Members
 -   Dejan Schuster (Germany)
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
+-   Sindri Shtepani (Canada)
 -   Gaurav Singhal (United States)
 -   John Smith (United States)
 -   Murray Sondergard (Canada)
+-   Marco Steenbergen (Switzerland)
 -   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
 -   Tobias Strapatsas (Germany)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
 -   Koray Tascilar (Germany)
+-   Michael Tiefelsdorf (United States)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
 -   Robert van den Berg (Austria)
@@ -275,7 +286,8 @@ Supporting Members
 -   Lim Zhong Hao (Singapore)
 -   晨皓 卞 (China)
 -   广宇 曾 (China)
+-   杨(Yang) 胡(Hu) (New Zealand)
 
 
 
-Last update: 2022-07-08
+Last update: 2022-08-26
