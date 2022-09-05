@@ -59,6 +59,7 @@ Donors
 -   Bryan Berend (United States)
 -   Mark Cachia (Canada)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
+-   `<a href="https://github.com/crossxwill" rel="nofollow">William Chiu (United States)</a>`{=html}
 -   `<a href="https://gilesd-j.com" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   `<a href="https://rvdetailsandiego.com/" rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
 -   David Feedman (United States)
@@ -74,7 +75,6 @@ Donors
 -   Julian Ricardo (United States)
 -   Rav Vaid (United States)
 -   Clay Valarezo (United States)
--   `<a href="https://vaquero-martinez.gitlab.io" rel="nofollow">Javier Vaquero Martinez (Spain)</a>`{=html}
 -   Daniel Wollschläger (Germany)
 -   Kai Wu (China)
 -   `<a href="https://blog.zenggyu.com" rel="nofollow">广宇 曾 (China)</a>`{=html}
@@ -125,7 +125,6 @@ Supporting Members
 -   Ashanka Beligaswatte (Australia)
 -   Christopher Beltz (United States)
 -   Frederic BERTRAND (France)
--   Eduard Biche (Switzerland)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
@@ -138,10 +137,8 @@ Supporting Members
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
 -   Michael Chirico (United States)
--   William Chiu (United States)
 -   Gerard Conaghan (United Kingdom)
 -   Rafael Costa (Brazil)
--   Rémi Coulaud (France)
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
@@ -290,4 +287,4 @@ Supporting Members
 
 
 
-Last update: 2022-08-26
+Last update: 2022-09-05
