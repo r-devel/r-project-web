@@ -51,11 +51,12 @@ Donors
 -----------
 
 
+-   Bharat R Adhikary (Nepal)
 -   Jordan Aharoni (Canada)
 -   `<a href="https://www.it-schulungen.com" rel="nofollow">New Elements GmbH (Germany)</a>`{=html}
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
--   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
+-   `<a href="https://www.b-data.io/" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
 -   Mark Cachia (Canada)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
@@ -77,7 +78,6 @@ Donors
 -   Clay Valarezo (United States)
 -   Daniel Wollschläger (Germany)
 -   Kai Wu (China)
--   `<a href="https://blog.zenggyu.com" rel="nofollow">广宇 曾 (China)</a>`{=html}
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -108,6 +108,7 @@ Supporting Institutions
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   KIN Services, Tijuana (Mexico)
 -   oikostat GmbH, Ettiswil (Switzerland)
+-   [Rx Studio Inc., Walnut (United States)](https://rx.studio/)
 -   University of Iowa, Iowa City (United States)
 
 Supporting Members
@@ -145,7 +146,6 @@ Supporting Members
 -   Alistair Cullum (United States)
 -   Brandon Dahl (United States)
 -   Robert Daly (Australia)
--   Gergely Daroczi (Hungary)
 -   Ajit de Silva (United States)
 -   Jasja Dekker (Netherlands)
 -   Dubravko Dolic (Germany)
@@ -153,9 +153,11 @@ Supporting Members
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
 -   Johan Eklund (Sweden)
+-   MAEL ELEGOET (France)
 -   S Ellison (United Kingdom)
 -   Mitch Eppley (United States)
 -   cristiano esclapon (Switzerland)
+-   Faisel Eskander (United Kingdom)
 -   Dane Evans (United States)
 -   Guenter Faes (Germany)
 -   Leonardo Ferreira (Germany)
@@ -192,6 +194,7 @@ Supporting Members
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
 -   Christian Kampichler (Netherlands)
+-   An Khuc (United States)
 -   JUNE KEE KIM (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
 -   Ziyad Knio (United States)
@@ -203,6 +206,7 @@ Supporting Members
 -   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
+-   Bernardo Lares (Venezuela)
 -   Adrien Le Guillou (France)
 -   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
@@ -281,10 +285,9 @@ Supporting Members
 -   jaejoong yun (Korea, Republic of)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
--   晨皓 卞 (China)
 -   广宇 曾 (China)
 -   杨(Yang) 胡(Hu) (New Zealand)
 
 
 
-Last update: 2022-09-05
+Last update: 2022-09-19
