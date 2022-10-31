@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: [call for proposals](useR_2023_call.html) to host a global online useR! 2023 conference. Deadline for outline proposals **Friday 22 April 2022**.
+**News**: [call for proposals](useR_2023_call.html) to host a hybrid useR! conference in 2023 or 2024. Deadline for outline proposals: **Wednesday 30 November 2022**.
 
 ------------
 
@@ -26,11 +26,14 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
+<!--
 [useR! 2022](https://user2022.r-project.org/) will be a hybrid conference from June 20 to June 23, with opportunities to participate as an online attendee or to attend in person at Vanderbilt University Medical Center, Nashville, TN, USA. For the latest updates, follow ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
+-->
 
 <!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
-Calls for proposals to organize useR! will be announced on this page and the R Foundation Twitter account, ['@_R_Foundation'](https://twitter.com/_r_foundation). 
-**A [call for proposals](useR_2023_call.html) to host a global online useR! 2023 conference opened on 14 March**. Deadline for outline proposals **Friday 22 April 2022**.
+**A [call for proposals](useR_2023_call.html) is open to host a hybrid useR! conference in 2023 or 2024**. Deadline for outline proposals: **Wednesday 30 November 2022**.
+
+Calls for proposals to organize useR! will be announced on this page, the R Foundation Twitter account, ['@_R_Foundation'](https://twitter.com/_r_foundation) and the [R Foundation LinkedIn page](https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/).
 
 Announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on 
 the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
@@ -152,7 +155,7 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 Selected conferences are endorsed by the R Foundation to encourage the development of useR!-like meetings in regions currently beyond the reach of useR!. The aim is to strengthen the local useR community, particularly in academic and scientific research. These meetings may have official languages other than English.
 
-* [R@IIRSA](https://r-iisa2019.rbind.io/) [English] December, 2019, Mumbai, India.
+* R@IIRSA [English] December, India. [Bangalore](https://r-iisa2022.rbind.io/), 2022; [Mumbai](https://r-iisa2019.rbind.io/), 2019.
 * [ConectaR](https://www.conectar2019.org) [Spanish] January, 2019, San José, Costa Rica.
 * [LatinR](http://47jaiio.sadio.org.ar/index.php?q=node/125) [Spanish/Portuguese/English] September 2018, Buenos Aires, Argentina.
 * [R Day](http://rday.leg.ufpr.br/) [Portuguese] May 2018, Curitiba, Brazil.
