@@ -24,7 +24,7 @@ online [donation form](donations.html).
 Patrons
 -----------
 
-- `<a href="https://www.rstudio.com/" rel="nofollow">RStudio, PBC, United States</a>`{=html}
+- `<a href="https://posit.co/" rel="nofollow">Posit Software, PBC, United States</a>`{=html}
 - `<a href="https://opensource.indeedeng.io/FOSS-Contributor-Fund/" rel="nofollow">Indeed's FOSS Contributor Fund 2021</a>`{=html}
 - `<a href="https://www.r-project.org/gsoc.html" rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
 - `<a href="https://user2021.r-project.org/" rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
@@ -62,7 +62,7 @@ Donors
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://github.com/crossxwill" rel="nofollow">William Chiu (United States)</a>`{=html}
 -   `<a href="https://gilesd-j.com" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
--   `<a href="https://rvdetailsandiego.com/" rel="nofollow">RV Detailing Pros of San Diego (United States)</a>`{=html}
+-   RV Detailing Pros of San Diego (United States)
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
@@ -74,6 +74,7 @@ Donors
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
+-   `<a href="https://github.com/ptogias" rel="nofollow">Panagiotis Togias (Greece)</a>`{=html}
 -   Rav Vaid (United States)
 -   Clay Valarezo (United States)
 -   Daniel Wollschläger (Germany)
@@ -103,18 +104,18 @@ Supporting Institutions
 
 -   Alfred Mueller Analytic Services, München (Germany)
 -   Chicago R User Group, Chicago (United States)
--   CICE S.A., Madrid (Spain)
 -   Ef-prime, Inc., Chuo-ku (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   KIN Services, Tijuana (Mexico)
 -   oikostat GmbH, Ettiswil (Switzerland)
--   [Rx Studio Inc., Walnut (United States)](https://rx.studio/)
+-   Putnam Data Sciences, LLC, Cambridge (United States)
 -   University of Iowa, Iowa City (United States)
 
 Supporting Members
 -----------
 
 
+-   Douglas Adamoski (Brazil)
 -   Constantin Ahlmann-Eltze (Germany)
 -   Vedo Alagic (Austria)
 -   Diogo Almeida (United Arab Emirates)
@@ -131,7 +132,6 @@ Supporting Members
 -   Gordon Blunt (United Kingdom)
 -   Tamara Bozovic (New Zealand)
 -   Wesley Brooks (United States)
--   Greg Bukovatz (United States)
 -   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
 -   Robert Carnell (United States)
@@ -146,6 +146,7 @@ Supporting Members
 -   Alistair Cullum (United States)
 -   Brandon Dahl (United States)
 -   Robert Daly (Australia)
+-   Gergely Daroczi (Hungary)
 -   Ajit de Silva (United States)
 -   Jasja Dekker (Netherlands)
 -   Dubravko Dolic (Germany)
@@ -156,7 +157,6 @@ Supporting Members
 -   MAEL ELEGOET (France)
 -   S Ellison (United Kingdom)
 -   Mitch Eppley (United States)
--   cristiano esclapon (Switzerland)
 -   Faisel Eskander (United Kingdom)
 -   Dane Evans (United States)
 -   Guenter Faes (Germany)
@@ -194,6 +194,7 @@ Supporting Members
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
 -   Christian Kampichler (Netherlands)
+-   Curtis Kephart (United States)
 -   An Khuc (United States)
 -   JUNE KEE KIM (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
@@ -222,6 +223,7 @@ Supporting Members
 -   Gilles Marodon (France)
 -   Myriam Maumy (France)
 -   Daniel McNichol (United States)
+-   Amanuel Medhanie (United States)
 -   Bogdan-Alexandru Micu (Luxembourg)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
@@ -246,6 +248,7 @@ Supporting Members
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
+-   VASILEIOS PLESSAS (United Kingdom)
 -   Andrzej Pokładek (Poland)
 -   Davor Pranjic (United States)
 -   Srivatsan Raghunathan (India)
@@ -258,9 +261,11 @@ Supporting Members
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
 -   Sindri Shtepani (Canada)
--   Gaurav Singhal (United States)
+-   David Sides (United States)
 -   John Smith (United States)
+-   Rachel Smith-Hunter (United States)
 -   Murray Sondergard (Canada)
+-   Matteo Starri (Italy)
 -   Marco Steenbergen (Switzerland)
 -   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
@@ -274,6 +279,7 @@ Supporting Members
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
 -   Frans van Dunné (Costa Rica)
+-   Fred Viole (United States)
 -   Marcus Vollmer (Germany)
 -   Dr. Alfred Wagner (Germany)
 -   Petr Waldauf (Czechia)
@@ -290,4 +296,4 @@ Supporting Members
 
 
 
-Last update: 2022-09-19
+Last update: 2022-11-07
