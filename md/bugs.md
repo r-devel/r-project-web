@@ -36,7 +36,7 @@ If your issue doesn't fall into any of these categories - if it's R running slow
  1. [The r-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help); or [other R mailing lists](https://www.r-project.org/mail.html).
  2. [The Bioconductor support site](https://support.bioconductor.org/).
  3. [The R section of StackOverflow](https://stackoverflow.com/questions/tagged/r).
- 4. [The R Internet Relay Chat (IRC) channel](https://webchat.freenode.net/?channels=#R).
+ 4. [The R Internet Relay Chat (IRC) channel](https://web.libera.chat/?channels=#R).
 
 ## Where to submit bug reports and patches
 
