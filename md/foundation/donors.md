@@ -52,13 +52,11 @@ Donors
 
 
 -   Bharat R Adhikary (Nepal)
--   Jordan Aharoni (Canada)
 -   `<a href="https://www.it-schulungen.com" rel="nofollow">New Elements GmbH (Germany)</a>`{=html}
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io/" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
--   Mark Cachia (Canada)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://github.com/crossxwill" rel="nofollow">William Chiu (United States)</a>`{=html}
 -   `<a href="https://gilesd-j.com" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
@@ -125,8 +123,8 @@ Supporting Members
 -   Kristoffer Winther Balling (Denmark)
 -   Joaquín Baquer-Miravete (Spain)
 -   Ashanka Beligaswatte (Australia)
--   Christopher Beltz (United States)
 -   Frederic BERTRAND (France)
+-   Luis Biedma (Luxembourg)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
@@ -138,6 +136,7 @@ Supporting Members
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
 -   Michael Chirico (United States)
+-   Tom Clarke (United Kingdom)
 -   Gerard Conaghan (United Kingdom)
 -   Rafael Costa (Brazil)
 -   Charles Cowens (United States)
@@ -147,8 +146,10 @@ Supporting Members
 -   Brandon Dahl (United States)
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
+-   Dereck de Mezquita (United States)
 -   Ajit de Silva (United States)
 -   Jasja Dekker (Netherlands)
+-   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
 -   Michael Dorman (Israel)
 -   Fraser Edwards (United Kingdom)
@@ -179,6 +180,7 @@ Supporting Members
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   James Harris (United States)
+-   Joe Harwood (United Kingdom)
 -   Bela Hausmann (Austria)
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
@@ -194,6 +196,7 @@ Supporting Members
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
 -   Christian Kampichler (Netherlands)
+-   Nigokhos Kanaryan (Bulgaria)
 -   Curtis Kephart (United States)
 -   An Khuc (United States)
 -   JUNE KEE KIM (Korea, Republic of)
@@ -204,21 +207,23 @@ Supporting Members
 -   Miha Kosmac (United Kingdom)
 -   Sebastian Krantz (Germany)
 -   Jan Herman Kuiper (United Kingdom)
+-   Flavio L (Switzerland)
 -   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
 -   Bernardo Lares (Venezuela)
 -   Adrien Le Guillou (France)
+-   Thierry Lecerf (Switzerland)
 -   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
 -   Thomas Levine (United States)
 -   Zhiguang Li (United States)
--   Eric Lim (United Kingdom)
 -   Chin Soon Lim (Singapore)
+-   Eric Lim (United Kingdom)
 -   Yuewei Liu (China)
 -   Joseph Luchman (United States)
--   Alexandra Lypynska (United Kingdom)
 -   Sharon Machlis (United States)
+-   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
 -   Gilles Marodon (France)
 -   Myriam Maumy (France)
@@ -241,7 +246,6 @@ Supporting Members
 -   Bernard OFFMANN (France)
 -   Dan Orsholits (Switzerland)
 -   George Ostrouchov (United States)
--   Abdullah Öztop (Turkey)
 -   Antonio Paez (Canada)
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
@@ -257,6 +261,8 @@ Supporting Members
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
+-   Nico Schäfer (Germany)
+-   Raoul Schorer (Switzerland)
 -   Dejan Schuster (Germany)
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
@@ -296,4 +302,4 @@ Supporting Members
 
 
 
-Last update: 2022-11-07
+Last update: 2022-12-23
