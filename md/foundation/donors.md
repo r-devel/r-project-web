@@ -55,11 +55,11 @@ Donors
 -   `<a href="https://www.it-schulungen.com" rel="nofollow">New Elements GmbH (Germany)</a>`{=html}
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
--   `<a href="https://www.b-data.io/" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
+-   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://github.com/crossxwill" rel="nofollow">William Chiu (United States)</a>`{=html}
--   `<a href="https://gilesd-j.com" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
+-   `<a href="https://www.gilesd-j.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   RV Detailing Pros of San Diego (United States)
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
@@ -68,8 +68,10 @@ Donors
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Ann-Sophie Lehnert (Germany)
+-   Rudolph Martin (United States)
 -   `<a href="https://themesfromart.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
+-   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
 -   `<a href="https://github.com/ptogias" rel="nofollow">Panagiotis Togias (Greece)</a>`{=html}
@@ -77,6 +79,7 @@ Donors
 -   Clay Valarezo (United States)
 -   Daniel Wollschläger (Germany)
 -   Kai Wu (China)
+-   Jason Wyse (Ireland)
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -130,7 +133,6 @@ Supporting Members
 -   Gordon Blunt (United Kingdom)
 -   Tamara Bozovic (New Zealand)
 -   Wesley Brooks (United States)
--   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
 -   Robert Carnell (United States)
 -   Cédric Chambru (Switzerland)
@@ -174,9 +176,9 @@ Supporting Members
 -   Jan Marvin Garbuszus (Germany)
 -   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
+-   Pavel Goriacko (United States)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
--   Jim Gruman (United States)
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   James Harris (United States)
@@ -232,9 +234,11 @@ Supporting Members
 -   Bogdan-Alexandru Micu (Luxembourg)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
+-   Orlando Monsalve (Switzerland)
 -   Jairo Montenegro Arjona (Colombia)
 -   David Monterde (Spain)
 -   Stefan Moog (Germany)
+-   Keon-Woong Moon (Korea, Republic of)
 -   Steffen Moritz (Germany)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
@@ -243,7 +247,6 @@ Supporting Members
 -   Mark Niemann-Ross (United States)
 -   Boris Ntwoku (United States)
 -   Jens Oehlschlägel (Germany)
--   Bernard OFFMANN (France)
 -   Dan Orsholits (Switzerland)
 -   George Ostrouchov (United States)
 -   Antonio Paez (Canada)
@@ -254,8 +257,11 @@ Supporting Members
 -   Kelly Pisane (Netherlands)
 -   VASILEIOS PLESSAS (United Kingdom)
 -   Andrzej Pokładek (Poland)
+-   PierGianLuca Porta Mana (Norway)
+-   Bianca Prandi (Austria)
 -   Davor Pranjic (United States)
 -   Srivatsan Raghunathan (India)
+-   Fergus Reig Gracia (Spain)
 -   Fergus Reig Gracia (Spain)
 -   Stefano Rezzonico (Canada)
 -   Peter Ruckdeschel (Germany)
@@ -268,6 +274,7 @@ Supporting Members
 -   Jagat Sheth (United States)
 -   Sindri Shtepani (Canada)
 -   David Sides (United States)
+-   Pedro Silva (Brazil)
 -   John Smith (United States)
 -   Rachel Smith-Hunter (United States)
 -   Murray Sondergard (Canada)
@@ -278,7 +285,6 @@ Supporting Members
 -   Tobias Strapatsas (Germany)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
--   Koray Tascilar (Germany)
 -   Michael Tiefelsdorf (United States)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
@@ -288,12 +294,12 @@ Supporting Members
 -   Fred Viole (United States)
 -   Marcus Vollmer (Germany)
 -   Dr. Alfred Wagner (Germany)
+-   Dr. Alfred Wagner (Germany)
 -   Petr Waldauf (Czechia)
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
 -   Arne Jonas Warnke (Germany)
 -   Fredrik Wartenberg (Sweden)
--   Jason Wyse (Ireland)
 -   jaejoong yun (Korea, Republic of)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
@@ -302,4 +308,4 @@ Supporting Members
 
 
 
-Last update: 2022-12-23
+Last update: 2023-02-19
