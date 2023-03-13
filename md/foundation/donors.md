@@ -67,15 +67,15 @@ Donors
 -   Corrado Giannasca (Italy)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
+-   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   Ann-Sophie Lehnert (Germany)
--   Rudolph Martin (United States)
--   `<a href="https://themesfromart.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
+-   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
+-   `<a href="http://Scrubtheweb.com" rel="nofollow">Scrub the web (Poland)</a>`{=html}
 -   `<a href="https://github.com/ptogias" rel="nofollow">Panagiotis Togias (Greece)</a>`{=html}
--   Rav Vaid (United States)
 -   Clay Valarezo (United States)
 -   Daniel Wollschläger (Germany)
 -   Kai Wu (China)
@@ -97,7 +97,6 @@ Supporting Benefactors
 -----------
 
 
--   Adelchi Azzalini (Italy)
 
 Supporting Institutions
 -----------
@@ -117,12 +116,10 @@ Supporting Members
 
 
 -   Douglas Adamoski (Brazil)
--   Constantin Ahlmann-Eltze (Germany)
 -   Vedo Alagic (Austria)
 -   Diogo Almeida (United Arab Emirates)
 -   Mohammed Almozini (Saudi Arabia)
 -   Tim Appelhans (Germany)
--   Takaharu Araki (Japan)
 -   Kristoffer Winther Balling (Denmark)
 -   Joaquín Baquer-Miravete (Spain)
 -   Ashanka Beligaswatte (Australia)
@@ -150,7 +147,6 @@ Supporting Members
 -   Gergely Daroczi (Hungary)
 -   Dereck de Mezquita (United States)
 -   Ajit de Silva (United States)
--   Jasja Dekker (Netherlands)
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
 -   Michael Dorman (Israel)
@@ -179,6 +175,7 @@ Supporting Members
 -   Pavel Goriacko (United States)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
+-   Dejan Gregor (United Kingdom)
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   James Harris (United States)
@@ -204,11 +201,11 @@ Supporting Members
 -   JUNE KEE KIM (Korea, Republic of)
 -   Gavin Kirby (United Kingdom)
 -   Ziyad Knio (United States)
--   Gen KOBAYASHI (Japan)
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
 -   Sebastian Krantz (Germany)
 -   Jan Herman Kuiper (United Kingdom)
+-   Chris Kuty (United States)
 -   Flavio L (Switzerland)
 -   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
@@ -262,7 +259,6 @@ Supporting Members
 -   Davor Pranjic (United States)
 -   Srivatsan Raghunathan (India)
 -   Fergus Reig Gracia (Spain)
--   Fergus Reig Gracia (Spain)
 -   Stefano Rezzonico (Canada)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
@@ -275,7 +271,6 @@ Supporting Members
 -   Sindri Shtepani (Canada)
 -   David Sides (United States)
 -   Pedro Silva (Brazil)
--   John Smith (United States)
 -   Rachel Smith-Hunter (United States)
 -   Murray Sondergard (Canada)
 -   Matteo Starri (Italy)
@@ -308,4 +303,4 @@ Supporting Members
 
 
 
-Last update: 2023-02-19
+Last update: 2023-03-13
