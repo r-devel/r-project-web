@@ -57,6 +57,7 @@ Donors
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
+-   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://github.com/crossxwill" rel="nofollow">William Chiu (United States)</a>`{=html}
 -   `<a href="https://www.gilesd-j.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
@@ -78,7 +79,6 @@ Donors
 -   `<a href="https://github.com/ptogias" rel="nofollow">Panagiotis Togias (Greece)</a>`{=html}
 -   Clay Valarezo (United States)
 -   Daniel Wollschläger (Germany)
--   Kai Wu (China)
 -   Jason Wyse (Ireland)
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
@@ -104,7 +104,8 @@ Supporting Institutions
 
 -   Alfred Mueller Analytic Services, München (Germany)
 -   Chicago R User Group, Chicago (United States)
--   Ef-prime, Inc., Chuo-ku (Japan)
+-   Department of Clinical Research, University of Basel, Switzerland, Basel (Switzerland)
+-   Ef-prime, Inc., Tokyo (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   KIN Services, Tijuana (Mexico)
 -   oikostat GmbH, Ettiswil (Switzerland)
@@ -149,10 +150,8 @@ Supporting Members
 -   Ajit de Silva (United States)
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
--   Michael Dorman (Israel)
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
--   Johan Eklund (Sweden)
 -   MAEL ELEGOET (France)
 -   S Ellison (United Kingdom)
 -   Mitch Eppley (United States)
@@ -197,9 +196,9 @@ Supporting Members
 -   Christian Kampichler (Netherlands)
 -   Nigokhos Kanaryan (Bulgaria)
 -   Curtis Kephart (United States)
+-   Katharina Kesy (Germany)
 -   An Khuc (United States)
 -   JUNE KEE KIM (Korea, Republic of)
--   Gavin Kirby (United Kingdom)
 -   Ziyad Knio (United States)
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
@@ -217,8 +216,8 @@ Supporting Members
 -   Mauro Lepore (United States)
 -   Thomas Levine (United States)
 -   Zhiguang Li (United States)
--   Chin Soon Lim (Singapore)
 -   Eric Lim (United Kingdom)
+-   Chin Soon Lim (Singapore)
 -   Yuewei Liu (China)
 -   Joseph Luchman (United States)
 -   Sharon Machlis (United States)
@@ -228,7 +227,6 @@ Supporting Members
 -   Myriam Maumy (France)
 -   Daniel McNichol (United States)
 -   Amanuel Medhanie (United States)
--   Bogdan-Alexandru Micu (Luxembourg)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
 -   Orlando Monsalve (Switzerland)
@@ -259,7 +257,6 @@ Supporting Members
 -   Davor Pranjic (United States)
 -   Srivatsan Raghunathan (India)
 -   Fergus Reig Gracia (Spain)
--   Stefano Rezzonico (Canada)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
@@ -289,7 +286,6 @@ Supporting Members
 -   Fred Viole (United States)
 -   Marcus Vollmer (Germany)
 -   Dr. Alfred Wagner (Germany)
--   Dr. Alfred Wagner (Germany)
 -   Petr Waldauf (Czechia)
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
@@ -303,4 +299,4 @@ Supporting Members
 
 
 
-Last update: 2023-03-13
+Last update: 2023-04-21
