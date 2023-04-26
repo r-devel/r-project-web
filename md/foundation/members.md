@@ -15,7 +15,6 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Peter Dalgaard (Denmark)
 * Bill Dunlap (USA)
 * Dirk Eddelbuettel (USA)
-* John Fox (Canada)
 * Robert Gentleman (USA)
 * Bettina Grün (Austria)
 * Frank Harrell (USA)
