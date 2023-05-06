@@ -13,8 +13,6 @@ If you have questions about R like how to download and install the software, or 
     has been released on 2023-04-21.
 -   [**R version 4.2.3 (Shortstop Beagle)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2023-03-15.
--   Thanks to the organisers of useR! 2020 for a successful online conference. Recorded tutorials and talks from the conference are available on the
-    [R Consortium YouTube channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/playlists).
 - You can support the R Foundation with a renewable subscription as a
   [supporting member](https://www.r-project.org/foundation/donations.html)
   
