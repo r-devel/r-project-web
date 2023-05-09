@@ -77,9 +77,8 @@ Donors
 -   Julian Ricardo (United States)
 -   `<a href="http://Scrubtheweb.com" rel="nofollow">Scrub the web (Poland)</a>`{=html}
 -   `<a href="https://github.com/ptogias" rel="nofollow">Panagiotis Togias (Greece)</a>`{=html}
--   Clay Valarezo (United States)
+-   Rav Vaid (United States)
 -   Daniel Wollschläger (Germany)
--   Jason Wyse (Ireland)
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -218,7 +217,6 @@ Supporting Members
 -   Zhiguang Li (United States)
 -   Eric Lim (United Kingdom)
 -   Chin Soon Lim (Singapore)
--   Yuewei Liu (China)
 -   Joseph Luchman (United States)
 -   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
@@ -282,6 +280,7 @@ Supporting Members
 -   Philipp Upravitelev (Russian Federation)
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
+-   Thomas van der Vaart (Netherlands)
 -   Frans van Dunné (Costa Rica)
 -   Fred Viole (United States)
 -   Marcus Vollmer (Germany)
@@ -291,6 +290,7 @@ Supporting Members
 -   Sandra Ware (Australia)
 -   Arne Jonas Warnke (Germany)
 -   Fredrik Wartenberg (Sweden)
+-   Jason Wyse (Ireland)
 -   jaejoong yun (Korea, Republic of)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
@@ -299,4 +299,4 @@ Supporting Members
 
 
 
-Last update: 2023-04-21
+Last update: 2023-05-09
