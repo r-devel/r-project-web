@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: There is no useR! conference planned for 2023, the conference series will resume in 2024. Meanwhile, the R Foundation have endorsed a set of bridging events: so far we have confirmed 1-day meetings in Basel and San Francisco on July 21. More information will be shared in due course.
+**News**: There is no useR! conference planned for 2023, the conference series will resume in 2024. Meanwhile, the R Foundation have endorsed a series of bridging events: useR! Regional 2023. See the [Special Events](#special-events) section for more information.
 
 ------------
 
@@ -149,6 +149,10 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 ### Special Events
 
+* useR! Regional 2023
+    * [R/Basel 2023](https://user-regional-2023.gitlab.io/basel/), Friday 21 July, Basel, Switzerland. 
+        * Call for abstracts open until **Friday 26 May**.
+    * Friday 21 July, San Francisco, details to follow.
 * [celebRation](https://biostatistics.dk/celebration2020/) 28-29 February 2020, Copenhagen, Denmark. A two-day celebration of workshops and invited talks to mark the 20th anniversary of the release of R version 1.0.0.
 
 ### Events in under-supported regions
