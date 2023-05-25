@@ -9,6 +9,7 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   [**R version 4.3.1 (Beagle Scouts) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Tuesday 2023-06-06. Final release is scheduled for Friday 2023-06-16. 
 - R/Basel, a [useR! Regional 2023 event](conferences/#special-events), has a call for abstracts open until Friday 26 May 2023.
 -   [**R version 4.3.0 (Already Tomorrow)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2023-04-21.
