@@ -151,7 +151,7 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 * useR! Regional 2023
     * [R/Basel 2023](https://user-regional-2023.gitlab.io/basel/), Friday 21 July, Basel, Switzerland. 
-        * Call for abstracts open until **Friday 26 May**.
+        * Registration open until **Friday 14 July**, or when tickets sell out!
     * Friday 21 July, San Francisco, details to follow.
 * [celebRation](https://biostatistics.dk/celebration2020/) 28-29 February 2020, Copenhagen, Denmark. A two-day celebration of workshops and invited talks to mark the 20th anniversary of the release of R version 1.0.0.
 
