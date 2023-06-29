@@ -152,7 +152,11 @@ DSC has had two different incarnations. The first was a biennial conference seri
 * useR! Regional 2023
     * [R/Basel 2023](https://user-regional-2023.gitlab.io/basel/), Friday 21 July, Basel, Switzerland. 
         * Registration open until **Friday 14 July**, or when tickets sell out!
-    * Friday 21 July, San Francisco, details to follow.
+    * SummeR Bay Area R Meetup, San José State University, San Francisco. 
+        * [Good Software Engineering Practice for R Packages workshop](https://bbsw-tickets.ticketleap.com/summer-r-day1/), Thursday 20 July.
+        * [Day conference](https://bbsw-tickets.ticketleap.com/summer-r-day2/), Friday 21 July.
+        
+      Links above go to the corresponding registration page. Full schedule for both days posted on the [Bay Area Biotech-Pharma Statistics Workshop Meetups](https://www.bbsw.org/meetup-events) page.
 * [celebRation](https://biostatistics.dk/celebration2020/) 28-29 February 2020, Copenhagen, Denmark. A two-day celebration of workshops and invited talks to mark the 20th anniversary of the release of R version 1.0.0.
 
 ### Events in under-supported regions
