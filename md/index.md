@@ -16,7 +16,8 @@ If you have questions about R like how to download and install the software, or 
     has been released on 2023-03-15.
 - You can support the R Foundation with a renewable subscription as a
   [supporting member](https://www.r-project.org/foundation/donations.html)
-  
+
+<!-- No longer working, but preserving code here in case it is useful for setting up an alternative widget
 ## News via Twitter
 
 <a class="twitter-timeline"
@@ -29,11 +30,12 @@ If you have questions about R like how to download and install the software, or 
 <script async
  src="https://platform.twitter.com/widgets.js"
  charset="utf-8"></script>
- 
-## Other Social Media
+-->
+
+## Social Media
 
 <!-- rel="me" required to verify on Mastodon -->
-Follow the R Foundation on <a rel="me" href="https://fosstodon.org/@R_Foundation">Mastodon</a> or <a href="https://www.linkedin.com/company/the-r-foundation-for-statistical-computing">LinkedIn</a>.
+Follow the R Foundation on <a href="https://twitter.com/_R_Foundation">Twitter</a>, <a rel="me" href="https://fosstodon.org/@R_Foundation">Mastodon</a>, or <a href="https://www.linkedin.com/company/the-r-foundation-for-statistical-computing">LinkedIn</a>.
 
 <!--- (Boilerplate for release run-in)
 -   [**R version 3.1.3 (Smooth Sidewalk) prerelease versions**](https://cran.r-project.org/src/base-prerelease/) will appear starting February 28. Final release is scheduled for 2015-03-09.
