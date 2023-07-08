@@ -17,20 +17,23 @@ If you have questions about R like how to download and install the software, or 
 - You can support the R Foundation with a renewable subscription as a
   [supporting member](https://www.r-project.org/foundation/donations.html)
 
-<!-- No longer working, but preserving code here in case it is useful for setting up an alternative widget
-## News via Twitter
+## News via Mastodon
 
-<a class="twitter-timeline"
- href="https://twitter.com/_R_Foundation?ref_src=twsrc%5Etfw"
- data-width="400"
- data-show-replies="false"
- data-chrome="noheader,nofooter,noborders"
- data-dnt="true"
- data-tweet-limit="2">News from the R Foundation</a>
-<script async
- src="https://platform.twitter.com/widgets.js"
- charset="utf-8"></script>
+<!--
+Mastodon widget from https://gitlab.com/idotj/mastodon-embed-feed-timeline
+Files mastodon-feed-timeline.css and mastodon-feed-timeline.js are from this source
 -->
+
+<link rel="stylesheet" href="mastodon-timeline.css" />
+<script src="mastodon-timeline.js"></script>
+
+<link rel="stylesheet" href="mastodon-timeline.css" />
+<script src="mastodon-timeline.js"></script>
+<div class="mt-timeline">
+  <div id="mt-body" class="mt-body" role="feed">
+    <div class="loading-spinner"></div>
+  </div>
+</div>
 
 ## Social Media
 
