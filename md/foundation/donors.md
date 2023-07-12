@@ -64,12 +64,13 @@ Donors
 -   RV Detailing Pros of San Diego (United States)
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
+-   Spyridon Fortis (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
+-   ken ikeda (Japan)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
--   Ann-Sophie Lehnert (Germany)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Kem Phillips (United States)
@@ -78,6 +79,7 @@ Donors
 -   `<a href="http://Scrubtheweb.com" rel="nofollow">Scrub the web (Poland)</a>`{=html}
 -   `<a href="https://github.com/ptogias" rel="nofollow">Panagiotis Togias (Greece)</a>`{=html}
 -   Rav Vaid (United States)
+-   Axxos AG (Switzerland)
 -   Daniel Wollschläger (Germany)
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
@@ -107,6 +109,7 @@ Supporting Institutions
 -   Ef-prime, Inc., Tokyo (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   KIN Services, Tijuana (Mexico)
+-   NIFU Nordic Institute for Studies in Innovation, Research and Education, Oslo (Norway)
 -   oikostat GmbH, Ettiswil (Switzerland)
 -   Putnam Data Sciences, LLC, Cambridge (United States)
 -   University of Iowa, Iowa City (United States)
@@ -121,7 +124,6 @@ Supporting Members
 -   Mohammed Almozini (Saudi Arabia)
 -   Tim Appelhans (Germany)
 -   Kristoffer Winther Balling (Denmark)
--   Joaquín Baquer-Miravete (Spain)
 -   Ashanka Beligaswatte (Australia)
 -   Frederic BERTRAND (France)
 -   Luis Biedma (Luxembourg)
@@ -129,7 +131,6 @@ Supporting Members
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
 -   Tamara Bozovic (New Zealand)
--   Wesley Brooks (United States)
 -   Susan M Carlson (United States)
 -   Robert Carnell (United States)
 -   Cédric Chambru (Switzerland)
@@ -149,6 +150,7 @@ Supporting Members
 -   Ajit de Silva (United States)
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
+-   Serban Dragne (United Kingdom)
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
 -   MAEL ELEGOET (France)
@@ -157,7 +159,6 @@ Supporting Members
 -   Faisel Eskander (United Kingdom)
 -   Dane Evans (United States)
 -   Guenter Faes (Germany)
--   Leonardo Ferreira (Germany)
 -   Gottfried Fischer (Austria)
 -   Isaac Florence (United Kingdom)
 -   Neil Frazer (United States)
@@ -176,16 +177,17 @@ Supporting Members
 -   Dejan Gregor (United Kingdom)
 -   Krushi Gurudu (United States)
 -   Hlynur Hallgrímsson (Iceland)
+-   Chris Hanretty (United Kingdom)
 -   James Harris (United States)
 -   Joe Harwood (United Kingdom)
 -   Bela Hausmann (Austria)
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
+-   Malik Hebbat (Germany)
 -   Philippe Heymans Smith (Costa Rica)
 -   Adam Hill (United States)
 -   Alexander Huelle (Germany)
 -   Alessamdro Ielpi (Canada)
--   ken ikeda (Japan)
 -   Heidi Imker (United States)
 -   Lorenzo Isella (Belgium)
 -   Anup Jaltade (United States)
@@ -209,7 +211,6 @@ Supporting Members
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
 -   Bernardo Lares (Venezuela)
--   Adrien Le Guillou (France)
 -   Thierry Lecerf (Switzerland)
 -   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
@@ -299,4 +300,4 @@ Supporting Members
 
 
 
-Last update: 2023-05-09
+Last update: 2023-07-12
