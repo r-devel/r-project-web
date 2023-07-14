@@ -27,9 +27,7 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 ![useR logo](useR.png)\
 
 <!-- TODO: add link to https://user2024.r-project.org/ when working -->
-useR! 2024 will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. The conference website and social media accounts will be linked here and on R Foundation channels (see below) in due course.
-<!--
-For the latest updates, follow ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
+useR! 2024 will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. The conference website will be shared here and on R Foundation channels (see below) in due course. For updates in the meantime follow ['@R_Foundation@fosstodon.org'](https://fosstodon.org/@R_Foundation) on Mastodon, ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
 -->
 
 <!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
