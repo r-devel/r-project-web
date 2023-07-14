@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: There is no useR! conference planned for 2023, the conference series will resume in 2024. Meanwhile, the R Foundation have endorsed a series of bridging events: useR! Regional 2023. See the [Special Events](#special-events) section for more information.
+**News**: useR! 2024 will be a hybrid conference, taking place 8-11 July 2024 in Salzburg, Austria.
 
 ------------
 
@@ -26,8 +26,10 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
+<!-- TODO: add link to https://user2024.r-project.org/ when working -->
+useR! 2024 will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. The conference website and social media accounts will be linked here and on R Foundation channels (see below) in due course.
 <!--
-[useR! 2022](https://user2022.r-project.org/) will be a hybrid conference from June 20 to June 23, with opportunities to participate as an online attendee or to attend in person at Vanderbilt University Medical Center, Nashville, TN, USA. For the latest updates, follow ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
+For the latest updates, follow ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
 -->
 
 <!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
@@ -150,8 +152,7 @@ DSC has had two different incarnations. The first was a biennial conference seri
 ### Special Events
 
 * useR! Regional 2023
-    * [R/Basel 2023](https://user-regional-2023.gitlab.io/basel/), Friday 21 July, Basel, Switzerland. 
-        * Registration open until **Friday 14 July**, or when tickets sell out!
+    * [R/Basel 2023](https://user-regional-2023.gitlab.io/basel/), Friday 21 July, Basel, Switzerland.
     * SummeR Bay Area R Meetup, San José State University, San Francisco. 
         * [Good Software Engineering Practice for R Packages workshop](https://bbsw-tickets.ticketleap.com/summer-r-day1/), Thursday 20 July.
         * [Day conference](https://bbsw-tickets.ticketleap.com/summer-r-day2/), Friday 21 July.
