@@ -52,21 +52,21 @@ Donors
 
 
 -   Bharat R Adhikary (Nepal)
--   `<a href="https://www.it-schulungen.com" rel="nofollow">New Elements GmbH (Germany)</a>`{=html}
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
 -   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
--   `<a href="https://github.com/crossxwill" rel="nofollow">William Chiu (United States)</a>`{=html}
 -   `<a href="https://www.gilesd-j.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
+-   Daniel J. Duarte (Netherlands)
 -   RV Detailing Pros of San Diego (United States)
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
 -   Spyridon Fortis (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
+-   Dmitriy Grishin (United States)
 -   ken ikeda (Japan)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
@@ -104,14 +104,15 @@ Supporting Institutions
 
 
 -   Alfred Mueller Analytic Services, München (Germany)
--   Chicago R User Group, Chicago (United States)
 -   Department of Clinical Research, University of Basel, Switzerland, Basel (Switzerland)
+-   Digital Ecology Limited , Berkeley (United Kingdom)
 -   Ef-prime, Inc., Tokyo (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
--   KIN Services, Tijuana (Mexico)
 -   NIFU Nordic Institute for Studies in Innovation, Research and Education, Oslo (Norway)
 -   oikostat GmbH, Ettiswil (Switzerland)
 -   Putnam Data Sciences, LLC, Cambridge (United States)
+-   RIATE (CNRS), Paris (France)
+-   [Roseburg Forest Products, Springfield (United States)](https://www.roseburg.com/)
 -   University of Iowa, Iowa City (United States)
 
 Supporting Members
@@ -121,9 +122,9 @@ Supporting Members
 -   Douglas Adamoski (Brazil)
 -   Vedo Alagic (Austria)
 -   Diogo Almeida (United Arab Emirates)
--   Mohammed Almozini (Saudi Arabia)
 -   Tim Appelhans (Germany)
 -   Kristoffer Winther Balling (Denmark)
+-   Joaquín Baquer-Miravete (Spain)
 -   Ashanka Beligaswatte (Australia)
 -   Frederic BERTRAND (France)
 -   Luis Biedma (Luxembourg)
@@ -136,6 +137,7 @@ Supporting Members
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
 -   Michael Chirico (United States)
+-   William Chiu (United States)
 -   Tom Clarke (United Kingdom)
 -   Gerard Conaghan (United Kingdom)
 -   Rafael Costa (Brazil)
@@ -151,6 +153,7 @@ Supporting Members
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
 -   Serban Dragne (United Kingdom)
+-   Laurent Drouet (Italy)
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
 -   MAEL ELEGOET (France)
@@ -158,6 +161,7 @@ Supporting Members
 -   Mitch Eppley (United States)
 -   Faisel Eskander (United Kingdom)
 -   Dane Evans (United States)
+-   Stephen Ewing (United States)
 -   Guenter Faes (Germany)
 -   Gottfried Fischer (Austria)
 -   Isaac Florence (United Kingdom)
@@ -165,8 +169,6 @@ Supporting Members
 -   David Freedman (United States)
 -   Bernd Fröhlich (Germany)
 -   Keita Fukasawa (Japan)
--   Ainota Galadriota (United Kingdom)
--   Jutta Gampe (Germany)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
 -   Gabriel Gersztein (Brazil)
@@ -190,7 +192,6 @@ Supporting Members
 -   Alessamdro Ielpi (Canada)
 -   Heidi Imker (United States)
 -   Lorenzo Isella (Belgium)
--   Anup Jaltade (United States)
 -   Knut Helge Jensen (Norway)
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
@@ -211,15 +212,14 @@ Supporting Members
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
 -   Bernardo Lares (Venezuela)
+-   Rory Lawless (United States)
 -   Thierry Lecerf (Switzerland)
 -   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
 -   Thomas Levine (United States)
--   Zhiguang Li (United States)
 -   Eric Lim (United Kingdom)
 -   Chin Soon Lim (Singapore)
 -   Joseph Luchman (United States)
--   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
 -   Gilles Marodon (France)
@@ -237,7 +237,6 @@ Supporting Members
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
 -   Maciej Nasinski (Poland)
--   Aliaksandr Nekrashevich (Canada)
 -   Mark Niemann-Ross (United States)
 -   Boris Ntwoku (United States)
 -   Jens Oehlschlägel (Germany)
@@ -250,11 +249,8 @@ Supporting Members
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
 -   VASILEIOS PLESSAS (United Kingdom)
--   Andrzej Pokładek (Poland)
 -   PierGianLuca Porta Mana (Norway)
 -   Bianca Prandi (Austria)
--   Davor Pranjic (United States)
--   Srivatsan Raghunathan (India)
 -   Fergus Reig Gracia (Spain)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
@@ -269,6 +265,7 @@ Supporting Members
 -   Pedro Silva (Brazil)
 -   Rachel Smith-Hunter (United States)
 -   Murray Sondergard (Canada)
+-   Olga Starostecka (Germany)
 -   Matteo Starri (Italy)
 -   Marco Steenbergen (Switzerland)
 -   Berthold Stegemann (Germany)
@@ -276,13 +273,14 @@ Supporting Members
 -   Tobias Strapatsas (Germany)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
--   Michael Tiefelsdorf (United States)
+-   Ricardo Torres-Jardón (Mexico)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
 -   Thomas van der Vaart (Netherlands)
 -   Frans van Dunné (Costa Rica)
+-   Vincent van Hees (Netherlands)
 -   Fred Viole (United States)
 -   Marcus Vollmer (Germany)
 -   Dr. Alfred Wagner (Germany)
@@ -292,7 +290,6 @@ Supporting Members
 -   Arne Jonas Warnke (Germany)
 -   Fredrik Wartenberg (Sweden)
 -   Jason Wyse (Ireland)
--   jaejoong yun (Korea, Republic of)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
 -   广宇 曾 (China)
@@ -300,4 +297,4 @@ Supporting Members
 
 
 
-Last update: 2023-07-12
+Last update: 2023-10-20
