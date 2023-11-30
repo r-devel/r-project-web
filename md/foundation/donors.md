@@ -51,14 +51,13 @@ Donors
 -----------
 
 
--   Bharat R Adhikary (Nepal)
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
+-   `<a href="https://eurekamer.com/" rel="nofollow">SAS EUREKA MER (France)</a>`{=html}
 -   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
--   `<a href="https://www.gilesd-j.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   Daniel J. Duarte (Netherlands)
 -   RV Detailing Pros of San Diego (United States)
 -   David Feedman (United States)
@@ -94,11 +93,6 @@ Donors
 -   The Analytical Edge, Elackmans Bay (Australia)
 -   [Zurich R Courses, Zurich (Switzerland)](https://www.zhRcourses.uzh.ch)
 
-Supporting Benefactors
------------
-
-
-
 Supporting Institutions
 -----------
 
@@ -121,7 +115,6 @@ Supporting Members
 
 -   Douglas Adamoski (Brazil)
 -   Vedo Alagic (Austria)
--   Diogo Almeida (United Arab Emirates)
 -   Tim Appelhans (Germany)
 -   Kristoffer Winther Balling (Denmark)
 -   Joaquín Baquer-Miravete (Spain)
@@ -156,10 +149,8 @@ Supporting Members
 -   Laurent Drouet (Italy)
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
--   MAEL ELEGOET (France)
 -   S Ellison (United Kingdom)
 -   Mitch Eppley (United States)
--   Faisel Eskander (United Kingdom)
 -   Dane Evans (United States)
 -   Stephen Ewing (United States)
 -   Guenter Faes (Germany)
@@ -211,6 +202,7 @@ Supporting Members
 -   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
+-   Vishal Lama (United States)
 -   Bernardo Lares (Venezuela)
 -   Rory Lawless (United States)
 -   Thierry Lecerf (Switzerland)
@@ -226,6 +218,7 @@ Supporting Members
 -   Myriam Maumy (France)
 -   Daniel McNichol (United States)
 -   Amanuel Medhanie (United States)
+-   Bogdan-Alexandru Micu (Luxembourg)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
 -   Orlando Monsalve (Switzerland)
@@ -238,7 +231,6 @@ Supporting Members
 -   yoshinobu nakahashi (Japan)
 -   Maciej Nasinski (Poland)
 -   Mark Niemann-Ross (United States)
--   Boris Ntwoku (United States)
 -   Jens Oehlschlägel (Germany)
 -   Dan Orsholits (Switzerland)
 -   George Ostrouchov (United States)
@@ -248,7 +240,6 @@ Supporting Members
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
--   VASILEIOS PLESSAS (United Kingdom)
 -   PierGianLuca Porta Mana (Norway)
 -   Bianca Prandi (Austria)
 -   Fergus Reig Gracia (Spain)
@@ -273,6 +264,7 @@ Supporting Members
 -   Tobias Strapatsas (Germany)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
+-   Jan Tarabek (Czechia)
 -   Ricardo Torres-Jardón (Mexico)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
@@ -297,4 +289,4 @@ Supporting Members
 
 
 
-Last update: 2023-10-20
+Last update: 2023-11-30
