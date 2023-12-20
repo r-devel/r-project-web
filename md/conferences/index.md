@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: useR! 2024 will be a hybrid conference, taking place 8-11 July 2024 in Salzburg, Austria.
+**News**: [useR! 2024](https://user2024.r-project.org/) will be a hybrid conference, taking place 8-11 July 2024 in Salzburg, Austria.
 
 ------------
 
@@ -26,13 +26,12 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-<!-- TODO: add link to https://user2024.r-project.org/ when working -->
-useR! 2024 will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. The conference website will be shared here and on R Foundation channels (see below) in due course. For updates in the meantime follow ['@useR_conf@mastodon.social'](https://mastodon.social/@useR_conf) on Mastodon, ['@_useRconf'](https://twitter.com/_useRconf) on Twitter, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
+[useR! 2024](https://user2024.r-project.org/) will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. For regular updates follow ['@useR_conf@mastodon.social'](https://mastodon.social/@useR_conf) on Mastodon, ['@_useRconf'](https://twitter.com/_useRconf) on X, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
 
 <!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
 <!--**A [call for proposals](useR_2023_call.html) is open to host a hybrid useR! conference in 2023 or 2024**. Deadline for outline proposals: **Wednesday 30 November 2022**.-->
 
-Calls for proposals to organize useR! will be announced on this page, the R Foundation Twitter account, ['@_R_Foundation'](https://twitter.com/_r_foundation), the R Foundation Mastodon account, ['@R_Foundation@fosstodon.org'](https://fosstodon.org/@R_Foundation) and the [R Foundation LinkedIn page](https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/).
+Calls for proposals to organize useR! will be announced on this page, the R Foundation Mastodon account, ['@R_Foundation@fosstodon.org'](https://fosstodon.org/@R_Foundation), the R Foundation X account, ['@_R_Foundation'](https://twitter.com/_r_foundation), and the [R Foundation LinkedIn page](https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/).
 
 Announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on 
 the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
@@ -43,7 +42,7 @@ useR! is the main meeting of the R user and developer community, its program con
 -   The user-contributed presentations are submitted as abstracts prior to the conference and may be related to (virtually) any R-related topic. The presentations are typically organized in sessions of regular talks, lightning talks, and poster presentations.
 -   The RFCC welcomes expressions of interest from potential local organisers. Groups thinking about hosting a useR! conference are welcome to contact the RFCC by email at <R-conferences@r-project.org>.
 
-Usually, no proceedings are published for useR! conferences.
+Usually, no proceedings are published for useR! conferences, though slides and videos are often available on the conference websites. From 2022, videos can be found on the [useR! YouTube channel](https://www.youtube.com/c/useRConference_global).
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
 

@@ -9,12 +9,13 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   [**Registration for useR! 2024**](https://events.linuxfoundation.org/user/register/) has opened with early bird deadline March 31 2024.
 -   [**R version 4.3.2 (Eye Holes)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2023-10-31.
 -   [**R version 4.2.3 (Shortstop Beagle)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2023-03-15.
 - You can support the R Foundation with a renewable subscription as a
-  [supporting member](https://www.r-project.org/foundation/donations.html)
+  [supporting member](https://www.r-project.org/foundation/donations.html).
 
 ## News via Mastodon
 
