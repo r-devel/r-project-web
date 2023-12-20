@@ -56,7 +56,7 @@ Donors
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
 -   `<a href="https://eurekamer.com/" rel="nofollow">SAS EUREKA MER (France)</a>`{=html}
--   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
+-   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   Daniel J. Duarte (Netherlands)
 -   RV Detailing Pros of San Diego (United States)
@@ -70,8 +70,10 @@ Donors
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
+-   Flavio Lombardo (Switzerland)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
+-   `<a href="https://www.quintessa.org/" rel="nofollow">Quintessa Ltd (United Kingdom)</a>`{=html}
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
@@ -84,6 +86,7 @@ Donors
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
 -   Google Inc., Mountain View (United States)
+-   ilustat, Lisbon (Portugal)
 -   Merck Research Laboratories, Kenilwort (United States)
 -   Novartis Pharma AG, Basel (Switzerland)
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
@@ -125,8 +128,10 @@ Supporting Members
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
 -   Tamara Bozovic (New Zealand)
+-   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
 -   Robert Carnell (United States)
+-   Keith Chamberlain (United States)
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
 -   Michael Chirico (United States)
@@ -143,6 +148,7 @@ Supporting Members
 -   Gergely Daroczi (Hungary)
 -   Dereck de Mezquita (United States)
 -   Ajit de Silva (United States)
+-   Kevin DeMaio (United States)
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
 -   Serban Dragne (United Kingdom)
@@ -188,7 +194,6 @@ Supporting Members
 -   Brian Johnson (United States)
 -   Christian Kampichler (Netherlands)
 -   Nigokhos Kanaryan (Bulgaria)
--   Curtis Kephart (United States)
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
 -   JUNE KEE KIM (Korea, Republic of)
@@ -237,6 +242,7 @@ Supporting Members
 -   Antonio Paez (Canada)
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
+-   Sermet Pekin (Turkey)
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
@@ -265,6 +271,8 @@ Supporting Members
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
 -   Jan Tarabek (Czechia)
+-   Koray Tascilar (Germany)
+-   Chris Toney (United States)
 -   Ricardo Torres-Jardón (Mexico)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
@@ -273,7 +281,6 @@ Supporting Members
 -   Thomas van der Vaart (Netherlands)
 -   Frans van Dunné (Costa Rica)
 -   Vincent van Hees (Netherlands)
--   Fred Viole (United States)
 -   Marcus Vollmer (Germany)
 -   Dr. Alfred Wagner (Germany)
 -   Petr Waldauf (Czechia)
@@ -281,7 +288,9 @@ Supporting Members
 -   Sandra Ware (Australia)
 -   Arne Jonas Warnke (Germany)
 -   Fredrik Wartenberg (Sweden)
+-   Sam Waters (United States)
 -   Jason Wyse (Ireland)
+-   Matti Zemack (Sweden)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
 -   广宇 曾 (China)
@@ -289,4 +298,4 @@ Supporting Members
 
 
 
-Last update: 2023-11-30
+Last update: 2023-12-20
