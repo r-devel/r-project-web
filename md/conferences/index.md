@@ -26,15 +26,14 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-[useR! 2024](https://user2024.r-project.org/) will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. For regular updates follow ['@useR_conf@mastodon.social'](https://mastodon.social/@useR_conf) on Mastodon, ['@_useRconf'](https://twitter.com/_useRconf) on X, or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
+[useR! 2024](https://user2024.r-project.org/) will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. For regular updates follow ['@useR_conf@mastodon.social'](https://mastodon.social/@useR_conf) on Mastodon or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
 
 <!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
 <!--**A [call for proposals](useR_2023_call.html) is open to host a hybrid useR! conference in 2023 or 2024**. Deadline for outline proposals: **Wednesday 30 November 2022**.-->
 
-Calls for proposals to organize useR! will be announced on this page, the R Foundation Mastodon account, ['@R_Foundation@fosstodon.org'](https://fosstodon.org/@R_Foundation), the R Foundation X account, ['@_R_Foundation'](https://twitter.com/_r_foundation), and the [R Foundation LinkedIn page](https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/).
+Calls for proposals to organize useR! will be announced on this page, the R Foundation Mastodon account, ['@R_Foundation@fosstodon.org'](https://fosstodon.org/@R_Foundation), the [R Foundation LinkedIn page](https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/) and the ['@_R_Foundation'](https://twitter.com/_r_foundation) X account. 
 
-Announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on 
-the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
+Announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on the ['@_useRconf'](https://twitter.com/_useRconf) X account and the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
 
 useR! is the main meeting of the R user and developer community, its program consists of both invited and user-contributed presentations:
 
