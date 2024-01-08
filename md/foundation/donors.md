@@ -72,13 +72,14 @@ Donors
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   Flavio Lombardo (Switzerland)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
+-   `<a href="https://savvysurveysjd.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   `<a href="https://www.quintessa.org/" rel="nofollow">Quintessa Ltd (United Kingdom)</a>`{=html}
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   Julian Ricardo (United States)
+-   `<a href="https://www.brodrigues.co" rel="nofollow">Bruno Rodrigues (Luxembourg)</a>`{=html}
 -   `<a href="http://Scrubtheweb.com" rel="nofollow">Scrub the web (Poland)</a>`{=html}
--   `<a href="https://github.com/ptogias" rel="nofollow">Panagiotis Togias (Greece)</a>`{=html}
 -   Rav Vaid (United States)
 -   Axxos AG (Switzerland)
 -   Daniel Wollschläger (Germany)
@@ -107,7 +108,6 @@ Supporting Institutions
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   NIFU Nordic Institute for Studies in Innovation, Research and Education, Oslo (Norway)
 -   oikostat GmbH, Ettiswil (Switzerland)
--   Putnam Data Sciences, LLC, Cambridge (United States)
 -   RIATE (CNRS), Paris (France)
 -   [Roseburg Forest Products, Springfield (United States)](https://www.roseburg.com/)
 -   University of Iowa, Iowa City (United States)
@@ -116,6 +116,7 @@ Supporting Members
 -----------
 
 
+-   Richard Abdill (United States)
 -   Douglas Adamoski (Brazil)
 -   Vedo Alagic (Austria)
 -   Tim Appelhans (Germany)
@@ -249,6 +250,7 @@ Supporting Members
 -   PierGianLuca Porta Mana (Norway)
 -   Bianca Prandi (Austria)
 -   Fergus Reig Gracia (Spain)
+-   Fergus Reig Gracia (Spain)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
@@ -289,6 +291,7 @@ Supporting Members
 -   Arne Jonas Warnke (Germany)
 -   Fredrik Wartenberg (Sweden)
 -   Sam Waters (United States)
+-   Dieter Wilhelm (Germany)
 -   Jason Wyse (Ireland)
 -   Matti Zemack (Sweden)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
@@ -298,4 +301,4 @@ Supporting Members
 
 
 
-Last update: 2023-12-20
+Last update: 2024-01-08
