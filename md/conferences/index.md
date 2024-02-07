@@ -43,6 +43,8 @@ useR! is the main meeting of the R user and developer community, its program con
 
 Usually, no proceedings are published for useR! conferences, though slides and videos are often available on the conference websites. From 2022, videos can be found on the [useR! YouTube channel](https://www.youtube.com/c/useRConference_global).
 
+The [useR! Knowledgebase](https://rconf.gitlab.io/userknowledgebase/main/) provides a guide for anyone involved in organizing useR!, while the [useR! Infoboard](https://rconf.gitlab.io/userinfoboard/) provides data on past useR! conferences. These resources are maintained by useR! organizers past and present.
+
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
 
 * [useR! 2022](https://user2022.r-project.org/), Nashville, USA.
