@@ -44,7 +44,8 @@ Patrons
 - `<a href="https://www.r-project.org/conferences/useR-2007/" rel="nofollow">useR! 2007 Organising Team (Ames, Iowa)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2006/" rel="nofollow">useR! 2006 Organising Team (Vienna, Austria)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2004/" rel="nofollow">useR! 2004 Organising Team (Vienna, Austria)</a>`{=html}
-
+- `<a href="https://www.ag.ch/de/verwaltung/dfr/statistik" rel="nofollow">Statistik Aargau, Aarau (Switzerland)</a>`{=html}
+- `<a href="https://yihui.org" rel="nofollow">Yihui Xie (China)</a>`{=html}
 
 
 Donors 
@@ -58,6 +59,7 @@ Donors
 -   `<a href="https://eurekamer.com/" rel="nofollow">SAS EUREKA MER (France)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
+-   `<a href="https://policyanalysislab.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   Daniel J. Duarte (Netherlands)
 -   RV Detailing Pros of San Diego (United States)
 -   David Feedman (United States)
@@ -76,13 +78,16 @@ Donors
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   `<a href="https://www.quintessa.org/" rel="nofollow">Quintessa Ltd (United Kingdom)</a>`{=html}
 -   Kem Phillips (United States)
+-   Alexandra Pippitt (United States)
 -   Nickalus Redell (United States)
--   Julian Ricardo (United States)
 -   `<a href="https://www.brodrigues.co" rel="nofollow">Bruno Rodrigues (Luxembourg)</a>`{=html}
+-   David Smith (United States)
 -   `<a href="http://Scrubtheweb.com" rel="nofollow">Scrub the web (Poland)</a>`{=html}
 -   Rav Vaid (United States)
+-   Alejandro Verri Kozlowski (Argentina)
 -   Axxos AG (Switzerland)
 -   Daniel Wollschläger (Germany)
+-   `<a href="https://yihui.org" rel="nofollow">Yihui Xie (China)</a>`{=html}
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -93,7 +98,6 @@ Donors
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
 -   Somewhat Retired, North Potomac (United States)
 -   Spängler IQAM Invest GmbH, Salzburg (Austria)
--   [Statistik Aargau, Aarau (Switzerland)](https://www.ag.ch/de/verwaltung/dfr/statistik)
 -   The Analytical Edge, Elackmans Bay (Australia)
 -   [Zurich R Courses, Zurich (Switzerland)](https://www.zhRcourses.uzh.ch)
 
@@ -119,15 +123,17 @@ Supporting Members
 -   Richard Abdill (United States)
 -   Douglas Adamoski (Brazil)
 -   Vedo Alagic (Austria)
+-   Mohammed Almozini (Saudi Arabia)
 -   Tim Appelhans (Germany)
+-   Tim Arbogast (United States)
 -   Kristoffer Winther Balling (Denmark)
 -   Joaquín Baquer-Miravete (Spain)
 -   Ashanka Beligaswatte (Australia)
 -   Frederic BERTRAND (France)
--   Luis Biedma (Luxembourg)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Gordon Blunt (United Kingdom)
+-   Riccardo Bonfichi (Italy)
 -   Tamara Bozovic (New Zealand)
 -   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
@@ -147,7 +153,6 @@ Supporting Members
 -   Brandon Dahl (United States)
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
--   Dereck de Mezquita (United States)
 -   Ajit de Silva (United States)
 -   Kevin DeMaio (United States)
 -   Anna Doizy (Réunion)
@@ -169,6 +174,7 @@ Supporting Members
 -   Keita Fukasawa (Japan)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
+-   Eduardo García Galea (Spain)
 -   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Pavel Goriacko (United States)
@@ -176,6 +182,7 @@ Supporting Members
 -   Spencer Graves (United States)
 -   Dejan Gregor (United Kingdom)
 -   Krushi Gurudu (United States)
+-   Frank Hafner (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   Chris Hanretty (United Kingdom)
 -   James Harris (United States)
@@ -189,12 +196,10 @@ Supporting Members
 -   Alexander Huelle (Germany)
 -   Alessamdro Ielpi (Canada)
 -   Heidi Imker (United States)
--   Lorenzo Isella (Belgium)
 -   Knut Helge Jensen (Norway)
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
 -   Christian Kampichler (Netherlands)
--   Nigokhos Kanaryan (Bulgaria)
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
 -   JUNE KEE KIM (Korea, Republic of)
@@ -204,7 +209,6 @@ Supporting Members
 -   Sebastian Krantz (Germany)
 -   Jan Herman Kuiper (United Kingdom)
 -   Chris Kuty (United States)
--   Flavio L (Switzerland)
 -   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
@@ -216,7 +220,7 @@ Supporting Members
 -   Mauro Lepore (United States)
 -   Thomas Levine (United States)
 -   Eric Lim (United Kingdom)
--   Chin Soon Lim (Singapore)
+-   Baoxiao Liu (Netherlands)
 -   Joseph Luchman (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
@@ -254,9 +258,10 @@ Supporting Members
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
--   Nico Schäfer (Germany)
+-   John Schmitt (United States)
 -   Raoul Schorer (Switzerland)
 -   Dejan Schuster (Germany)
+-   Ivan Scotti (France)
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
 -   Sindri Shtepani (Canada)
@@ -288,11 +293,11 @@ Supporting Members
 -   Petr Waldauf (Czechia)
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
--   Arne Jonas Warnke (Germany)
 -   Fredrik Wartenberg (Sweden)
 -   Sam Waters (United States)
 -   Dieter Wilhelm (Germany)
 -   Jason Wyse (Ireland)
+-   Nan Xiao (United States)
 -   Matti Zemack (Sweden)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
@@ -301,4 +306,4 @@ Supporting Members
 
 
 
-Last update: 2024-01-08
+Last update: 2024-02-26
