@@ -6,7 +6,6 @@ The ordinary members are elected by a majority vote of the general assembly. New
 
 ## Ordinary members
 
-* Douglas Bates (USA)
 * Henrik Bengtsson (Sweden, USA)
 * Roger Bivand (Norway)
 * Jennifer Bryan (Canada)
