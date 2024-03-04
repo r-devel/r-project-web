@@ -12,7 +12,6 @@ write access to the R source, currently consisting of
                            and ~/R/D/r-devel/R/doc/THANKS
                                              ~~~~~~~~~~~~ -->
 
--   Douglas Bates
 -   John Chambers
 -   Peter Dalgaard
 -   Robert Gentleman
@@ -35,7 +34,7 @@ write access to the R source, currently consisting of
 
 plus Heiner Schwarte up to October 1999, Guido Masarotto up to June 2003,
 Stefano Iacus up to July 2014, Seth Falcon up to August 2015,
-Duncan Murdoch up to September 2017, and Martin Morgan up to June 2021.
+Duncan Murdoch up to September 2017, Martin Morgan up to June 2021, and Douglas Bates up to March 2024.
 
 R would not be what it is today without the invaluable help of these
 people outside of the (former and current) R Core team, who
