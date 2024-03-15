@@ -12,7 +12,6 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * John Chambers (USA)
 * Di Cook (Australia)
 * Peter Dalgaard (Denmark)
-* Bill Dunlap (USA)
 * Dirk Eddelbuettel (USA)
 * Robert Gentleman (USA)
 * Bettina Grün (Austria)
