@@ -12,19 +12,15 @@ We are grateful to the students, mentors and administrators, whose work
 also raises money for the R Foundation.
 
 Further information can be found on the GSoC-R pages hosted on
-[GitHub](https://github.com/rstats-gsoc/):
+[GitHub](https://github.com/rstats-gsoc/), notably
 
+* [GSoC-R 2024](https://github.com/rstats-gsoc/gsoc2024/wiki)
+* [GSoC-R 2023](https://github.com/rstats-gsoc/gsoc2023/wiki)
+* [GSoC-R 2022](https://github.com/rstats-gsoc/gsoc2022/wiki)
+* [GSoC-R 2021](https://github.com/rstats-gsoc/gsoc2021/wiki)
 * [GSoC-R 2020](https://github.com/rstats-gsoc/gsoc2020/wiki)
 
-* [GSoC-R 2019](https://github.com/rstats-gsoc/gsoc2019/wiki)
-
-* [GSoC-R 2018](https://github.com/rstats-gsoc/gsoc2018/wiki)
-
-* [GSoC-R 2017](https://github.com/rstats-gsoc/gsoc2017/wiki)
-
-* [GSoC-R 2016](https://github.com/rstats-gsoc/gsoc2016/wiki)
-
-* [GSoC-R 2015](https://github.com/rstats-gsoc/gsoc2015/wiki)
+* List of GSoC-R projects [2015 ff](https://github.com/rstats-gsoc/)
 
 * List of GSoC-R projects [2008-2014](https://github.com/hwborchers/gsoc-r/blob/master/README.md)
 
