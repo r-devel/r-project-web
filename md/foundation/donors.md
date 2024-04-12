@@ -48,6 +48,7 @@ Patrons
 - `<a href="https://yihui.org" rel="nofollow">Yihui Xie (China)</a>`{=html}
 
 
+
 Donors 
 -----------
 
@@ -57,11 +58,11 @@ Donors
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
 -   `<a href="https://eurekamer.com/" rel="nofollow">SAS EUREKA MER (France)</a>`{=html}
+-   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://policyanalysislab.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   Daniel J. Duarte (Netherlands)
--   RV Detailing Pros of San Diego (United States)
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
 -   Spyridon Fortis (United States)
@@ -98,6 +99,7 @@ Donors
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
 -   Somewhat Retired, North Potomac (United States)
 -   Spängler IQAM Invest GmbH, Salzburg (Austria)
+-   [Statistik Aargau, Aarau (Switzerland)](https://www.ag.ch/de/verwaltung/dfr/statistik)
 -   The Analytical Edge, Elackmans Bay (Australia)
 -   [Zurich R Courses, Zurich (Switzerland)](https://www.zhRcourses.uzh.ch)
 
@@ -106,7 +108,7 @@ Supporting Institutions
 
 
 -   Alfred Mueller Analytic Services, München (Germany)
--   Department of Clinical Research, University of Basel, Switzerland, Basel (Switzerland)
+-   Departement Klinische Forschung, Basel (Switzerland)
 -   Digital Ecology Limited , Berkeley (United Kingdom)
 -   Ef-prime, Inc., Tokyo (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
@@ -132,10 +134,11 @@ Supporting Members
 -   Frederic BERTRAND (France)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
+-   Emmanuel Blondel (France)
 -   Gordon Blunt (United Kingdom)
 -   Riccardo Bonfichi (Italy)
+-   Tom Boulay (United States)
 -   Tamara Bozovic (New Zealand)
--   Gilberto Camara (Brazil)
 -   Susan M Carlson (United States)
 -   Robert Carnell (United States)
 -   Keith Chamberlain (United States)
@@ -163,7 +166,6 @@ Supporting Members
 -   Anthony Alan Egerton (Malaysia)
 -   S Ellison (United Kingdom)
 -   Mitch Eppley (United States)
--   Dane Evans (United States)
 -   Stephen Ewing (United States)
 -   Guenter Faes (Germany)
 -   Gottfried Fischer (Austria)
@@ -176,6 +178,7 @@ Supporting Members
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
 -   Gabriel Gersztein (Brazil)
+-   SUJOY GHOSH (United States)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Pavel Goriacko (United States)
 -   Brian Gramberg (Netherlands)
@@ -228,10 +231,10 @@ Supporting Members
 -   Myriam Maumy (France)
 -   Daniel McNichol (United States)
 -   Amanuel Medhanie (United States)
+-   Philippe MICHEL (France)
 -   Bogdan-Alexandru Micu (Luxembourg)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
--   Orlando Monsalve (Switzerland)
 -   Jairo Montenegro Arjona (Colombia)
 -   David Monterde (Spain)
 -   Stefan Moog (Germany)
@@ -239,6 +242,7 @@ Supporting Members
 -   Steffen Moritz (Germany)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
+-   Tsubasa Narihiro (Japan)
 -   Maciej Nasinski (Poland)
 -   Mark Niemann-Ross (United States)
 -   Jens Oehlschlägel (Germany)
@@ -252,8 +256,6 @@ Supporting Members
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
 -   PierGianLuca Porta Mana (Norway)
--   Bianca Prandi (Austria)
--   Fergus Reig Gracia (Spain)
 -   Fergus Reig Gracia (Spain)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
@@ -266,7 +268,6 @@ Supporting Members
 -   Jagat Sheth (United States)
 -   Sindri Shtepani (Canada)
 -   David Sides (United States)
--   Pedro Silva (Brazil)
 -   Rachel Smith-Hunter (United States)
 -   Murray Sondergard (Canada)
 -   Olga Starostecka (Germany)
@@ -289,7 +290,6 @@ Supporting Members
 -   Frans van Dunné (Costa Rica)
 -   Vincent van Hees (Netherlands)
 -   Marcus Vollmer (Germany)
--   Dr. Alfred Wagner (Germany)
 -   Petr Waldauf (Czechia)
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
@@ -306,4 +306,4 @@ Supporting Members
 
 
 
-Last update: 2024-02-26
+Last update: 2024-04-12
