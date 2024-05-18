@@ -23,7 +23,6 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Julie Josse (France)
 * Tomas Kalibera (Czechia, USA)
 * Michael Lawrence (USA)
-* Friedrich Leisch (Austria)
 * Uwe Ligges (Germany)
 * Thomas Lumley (USA, New Zealand)
 * Martin Mächler (Switzerland)
