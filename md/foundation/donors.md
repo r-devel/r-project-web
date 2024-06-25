@@ -66,12 +66,15 @@ Donors
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
 -   Spyridon Fortis (United States)
+-   Lawrence Fredendall (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   Dmitriy Grishin (United States)
+-   Thomas Hennequin (Netherlands)
 -   ken ikeda (Japan)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
+-   `<a href="https://r2bit.com" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   Flavio Lombardo (Switzerland)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
@@ -83,11 +86,11 @@ Donors
 -   Nickalus Redell (United States)
 -   `<a href="https://www.brodrigues.co" rel="nofollow">Bruno Rodrigues (Luxembourg)</a>`{=html}
 -   David Smith (United States)
--   `<a href="http://Scrubtheweb.com" rel="nofollow">Scrub the web (Poland)</a>`{=html}
 -   Rav Vaid (United States)
 -   Alejandro Verri Kozlowski (Argentina)
 -   Axxos AG (Switzerland)
 -   Daniel Wollschläger (Germany)
+-   Jason Wyse (Ireland)
 -   `<a href="https://yihui.org" rel="nofollow">Yihui Xie (China)</a>`{=html}
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
@@ -116,6 +119,7 @@ Supporting Institutions
 -   oikostat GmbH, Ettiswil (Switzerland)
 -   RIATE (CNRS), Paris (France)
 -   [Roseburg Forest Products, Springfield (United States)](https://www.roseburg.com/)
+-   The University of Auckland, Statistics Department, Auckland (New Zealand)
 -   University of Iowa, Iowa City (United States)
 
 Supporting Members
@@ -131,7 +135,6 @@ Supporting Members
 -   Kristoffer Winther Balling (Denmark)
 -   Joaquín Baquer-Miravete (Spain)
 -   Ashanka Beligaswatte (Australia)
--   Frederic BERTRAND (France)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Emmanuel Blondel (France)
@@ -148,6 +151,7 @@ Supporting Members
 -   William Chiu (United States)
 -   Tom Clarke (United Kingdom)
 -   Gerard Conaghan (United Kingdom)
+-   Giuseppe Corbelli (Italy)
 -   Rafael Costa (Brazil)
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
@@ -157,6 +161,7 @@ Supporting Members
 -   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
 -   Ajit de Silva (United States)
+-   Elliott Deal (United States)
 -   Kevin DeMaio (United States)
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
@@ -183,7 +188,7 @@ Supporting Members
 -   Pavel Goriacko (United States)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
--   Dejan Gregor (United Kingdom)
+-   Susan Gruber (United States)
 -   Krushi Gurudu (United States)
 -   Frank Hafner (United States)
 -   Hlynur Hallgrímsson (Iceland)
@@ -225,14 +230,15 @@ Supporting Members
 -   Eric Lim (United Kingdom)
 -   Baoxiao Liu (Netherlands)
 -   Joseph Luchman (United States)
+-   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
 -   Gilles Marodon (France)
--   Myriam Maumy (France)
 -   Daniel McNichol (United States)
 -   Amanuel Medhanie (United States)
 -   Philippe MICHEL (France)
 -   Bogdan-Alexandru Micu (Luxembourg)
+-   Igor Mikheenko (Russian Federation)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
 -   Jairo Montenegro Arjona (Colombia)
@@ -251,17 +257,20 @@ Supporting Members
 -   Antonio Paez (Canada)
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
+-   josiah parry (United States)
 -   Sermet Pekin (Turkey)
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
 -   PierGianLuca Porta Mana (Norway)
+-   Paul Rayburn (Canada)
 -   Fergus Reig Gracia (Spain)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
 -   John Schmitt (United States)
 -   Raoul Schorer (Switzerland)
+-   Dominic Schuhmacher (Germany)
 -   Dejan Schuster (Germany)
 -   Ivan Scotti (France)
 -   Christian Seubert (Austria)
@@ -280,6 +289,7 @@ Supporting Members
 -   ROBERT Szabo (Sweden)
 -   Jan Tarabek (Czechia)
 -   Koray Tascilar (Germany)
+-   Tim Taylor (United Kingdom)
 -   Chris Toney (United States)
 -   Ricardo Torres-Jardón (Mexico)
 -   Nicholas Turner (United States)
@@ -296,7 +306,6 @@ Supporting Members
 -   Fredrik Wartenberg (Sweden)
 -   Sam Waters (United States)
 -   Dieter Wilhelm (Germany)
--   Jason Wyse (Ireland)
 -   Nan Xiao (United States)
 -   Matti Zemack (Sweden)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
@@ -306,4 +315,4 @@ Supporting Members
 
 
 
-Last update: 2024-04-12
+Last update: 2024-06-25
