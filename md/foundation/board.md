@@ -2,18 +2,20 @@
 title: Board and Auditors
 ---
 
-__Presidents:__ [Simon Urbanek](http://urbanek.info) & [Martyn Plummer](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/plummer)
+__President:__ [Simon Urbanek](https://urbanek.info)
+__Vice-President:__ [Kurt Hornik](https://statmath.wu.ac.at/~hornik/)
 
-__Secretary General:__ [Martin Mächler](http://stat.ethz.ch/people/maechler)
+__Secretary General:__ [Martin Mächler](https://people.math.ethz.ch/~maechler)
 
-__Treasurer:__ [Torsten Hothorn](http://user.math.uzh.ch/hothorn/)
+__Treasurer:__ [Torsten Hothorn](https://user.math.uzh.ch/hothorn/)
 
 __RF Representative in R Consortium:__ [Michael Lawrence](mailto:lawrence@r-project.org)
 
 __Members at Large:__
 
-* [John Chambers](http://statweb.stanford.edu/~jmc4/)
-* [Dirk Eddelbuettel](http://dirk.eddelbuettel.com)
+* [John Chambers](https://statistics.stanford.edu/people/john-chambers)
+* [Di Cook](https://www.dicook.org/)
+* [Dirk Eddelbuettel](https://dirk.eddelbuettel.com)
 * [Heather Turner](https://www.heatherturner.net/)
 
 In addition, [Peter Dalgaard](http://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/pdmes) and [Roger Bivand](https://www.nhh.no/en/employees/faculty/roger-bivand/) were elected as auditors.
