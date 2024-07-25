@@ -43,15 +43,15 @@ contributed by donating code, bug fixes and documentation:
 > Valerio Aimale, Suharto Anggono, Thomas Baier, Gabe Becker, Henrik Bengtsson,
 > Roger Bivand, Ben Bolker, David Brahm, Göran Broström, Patrick Burns,
 > Vince Carey, Saikat DebRoy, Matt Dowle, Brian D'Urso, Lyndon Drake,
-> Dirk Eddelbuettel, Claus Ekstrom, Sebastian Fischmeister, John Fox, 
-> Paul Gilbert, Yu Gong, Gabor Grothendieck, Frank E Harrell Jr, 
+> Dirk Eddelbuettel, Claus Ekstrom, Sebastian Fischmeister, John Fox,
+> Paul Gilbert, Yu Gong, Gabor Grothendieck, Frank E Harrell Jr,
 > Peter M. Haverty, Torsten Hothorn, Robert King, Kjetil Kjernsmo, Roger Koenker,
 > Philippe Lambert, Jan de Leeuw, Jim Lindsey, Patrick Lindsey, Catherine Loader,
-> Gordon Maclean, Arni Magnusson, John Maindonald, David Meyer, Ei-ji Nakama, 
-> Jens Oehlschägel, Steve Oncley, Richard O'Keefe, Hubert Palme, 
+> Gordon Maclean, Arni Magnusson, John Maindonald, David Meyer, Ei-ji Nakama,
+> Jens Oehlschägel, Steve Oncley, Richard O'Keefe, Hubert Palme,
 > Roger D. Peng, José C. Pinheiro, Tony Plate, Anthony Rossini, Jonathan Rougier,
 > Petr Savicky, Günther Sawitzki, Marc Schwartz, Arun Srinivasan, Detlef Steuer,
-> Bill Simpson, Gordon Smyth, Adrian Trapletti, Terry Therneau, Rolf Turner, 
+> Bill Simpson, Gordon Smyth, Adrian Trapletti, Terry Therneau, Rolf Turner,
 > Bill Venables, Gregory R. Warnes, Andreas Weingessel, Morten Welinder,
 > James Wettenhall, Simon Wood, and Achim Zeileis.
 
@@ -96,8 +96,8 @@ the macOS port, including the R.app GUI, toolchains and packaging.
 
 The Windows port was developed by Guido Masarotto (for a while a
 member of R Core) and Brian Ripley, then Duncan Murdoch (a former
-member of R Core) and currently by Jeroen Ooms (base) and Uwe Ligges
-(packages).
+member of R Core), then Jeroen Ooms (base, up to R 4.1.x), then
+Tomas Kalibera (base & packages) and Uwe Ligges (packages).
 
 Tomas Kalibera's work has been sponsored by Jan Vitek and funded by
 his European Research Council grant "Evolving Language Ecosystems
