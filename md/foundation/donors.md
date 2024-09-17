@@ -65,19 +65,19 @@ Donors
 -   Daniel J. Duarte (Netherlands)
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
--   Spyridon Fortis (United States)
 -   Lawrence Fredendall (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   Dmitriy Grishin (United States)
 -   Thomas Hennequin (Netherlands)
--   ken ikeda (Japan)
+-   Calvin Hopper (United States)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   `<a href="https://r2bit.com" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   Flavio Lombardo (Switzerland)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
+-   `<a href="https://www.ineri.org" rel="nofollow">Plamen Vladkov Mirazchiyski (Slovenia)</a>`{=html}
 -   `<a href="https://savvysurveysjd.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   `<a href="https://www.quintessa.org/" rel="nofollow">Quintessa Ltd (United Kingdom)</a>`{=html}
@@ -88,7 +88,6 @@ Donors
 -   David Smith (United States)
 -   Rav Vaid (United States)
 -   Alejandro Verri Kozlowski (Argentina)
--   Axxos AG (Switzerland)
 -   Daniel Wollschläger (Germany)
 -   Jason Wyse (Ireland)
 -   `<a href="https://yihui.org" rel="nofollow">Yihui Xie (China)</a>`{=html}
@@ -105,6 +104,11 @@ Donors
 -   [Statistik Aargau, Aarau (Switzerland)](https://www.ag.ch/de/verwaltung/dfr/statistik)
 -   The Analytical Edge, Elackmans Bay (Australia)
 -   [Zurich R Courses, Zurich (Switzerland)](https://www.zhRcourses.uzh.ch)
+
+Supporting Benefactors
+-----------
+
+
 
 Supporting Institutions
 -----------
@@ -134,6 +138,7 @@ Supporting Members
 -   Tim Arbogast (United States)
 -   Kristoffer Winther Balling (Denmark)
 -   Joaquín Baquer-Miravete (Spain)
+-   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
@@ -169,7 +174,6 @@ Supporting Members
 -   Laurent Drouet (Italy)
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
--   S Ellison (United Kingdom)
 -   Mitch Eppley (United States)
 -   Stephen Ewing (United States)
 -   Guenter Faes (Germany)
@@ -198,11 +202,10 @@ Supporting Members
 -   Bela Hausmann (Austria)
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
--   Malik Hebbat (Germany)
 -   Philippe Heymans Smith (Costa Rica)
 -   Adam Hill (United States)
 -   Alexander Huelle (Germany)
--   Alessamdro Ielpi (Canada)
+-   ken ikeda (Japan)
 -   Heidi Imker (United States)
 -   Knut Helge Jensen (Norway)
 -   Sebastian Jeworutzki (Germany)
@@ -230,6 +233,7 @@ Supporting Members
 -   Eric Lim (United Kingdom)
 -   Baoxiao Liu (Netherlands)
 -   Joseph Luchman (United States)
+-   Andrea Luciani (Italy)
 -   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
@@ -248,6 +252,7 @@ Supporting Members
 -   Steffen Moritz (Germany)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
+-   Markus Näpflin (Switzerland)
 -   Tsubasa Narihiro (Japan)
 -   Maciej Nasinski (Poland)
 -   Mark Niemann-Ross (United States)
@@ -265,6 +270,7 @@ Supporting Members
 -   PierGianLuca Porta Mana (Norway)
 -   Paul Rayburn (Canada)
 -   Fergus Reig Gracia (Spain)
+-   Ramon Rodriguez-Santana (United States)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
@@ -279,7 +285,6 @@ Supporting Members
 -   David Sides (United States)
 -   Rachel Smith-Hunter (United States)
 -   Murray Sondergard (Canada)
--   Olga Starostecka (Germany)
 -   Matteo Starri (Italy)
 -   Marco Steenbergen (Switzerland)
 -   Berthold Stegemann (Germany)
@@ -296,7 +301,6 @@ Supporting Members
 -   Philipp Upravitelev (Russian Federation)
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
--   Thomas van der Vaart (Netherlands)
 -   Frans van Dunné (Costa Rica)
 -   Vincent van Hees (Netherlands)
 -   Marcus Vollmer (Germany)
@@ -315,4 +319,4 @@ Supporting Members
 
 
 
-Last update: 2024-06-25
+Last update: 2024-09-17
