@@ -58,6 +58,7 @@ Donors
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
 -   `<a href="https://eurekamer.com/" rel="nofollow">SAS EUREKA MER (France)</a>`{=html}
+-   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
 -   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
@@ -71,6 +72,7 @@ Donors
 -   Dmitriy Grishin (United States)
 -   Thomas Hennequin (Netherlands)
 -   Calvin Hopper (United States)
+-   Emma Howard (Ireland)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   `<a href="https://r2bit.com" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
@@ -109,6 +111,7 @@ Supporting Benefactors
 -----------
 
 
+-   Zubin Dowlaty (United States)
 
 Supporting Institutions
 -----------
@@ -122,7 +125,7 @@ Supporting Institutions
 -   NIFU Nordic Institute for Studies in Innovation, Research and Education, Oslo (Norway)
 -   oikostat GmbH, Ettiswil (Switzerland)
 -   RIATE (CNRS), Paris (France)
--   [Roseburg Forest Products, Springfield (United States)](https://www.roseburg.com/)
+-   Roseburg Forest Products, Springfield (United States)
 -   The University of Auckland, Statistics Department, Auckland (New Zealand)
 -   University of Iowa, Iowa City (United States)
 
@@ -137,7 +140,6 @@ Supporting Members
 -   Tim Appelhans (Germany)
 -   Tim Arbogast (United States)
 -   Kristoffer Winther Balling (Denmark)
--   Joaquín Baquer-Miravete (Spain)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
 -   Chris Billingham (United Kingdom)
@@ -171,13 +173,11 @@ Supporting Members
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
 -   Serban Dragne (United Kingdom)
--   Laurent Drouet (Italy)
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
 -   Mitch Eppley (United States)
 -   Stephen Ewing (United States)
 -   Guenter Faes (Germany)
--   Gottfried Fischer (Austria)
 -   Isaac Florence (United Kingdom)
 -   Neil Frazer (United States)
 -   David Freedman (United States)
@@ -296,7 +296,6 @@ Supporting Members
 -   Koray Tascilar (Germany)
 -   Tim Taylor (United Kingdom)
 -   Chris Toney (United States)
--   Ricardo Torres-Jardón (Mexico)
 -   Nicholas Turner (United States)
 -   Philipp Upravitelev (Russian Federation)
 -   Robert van den Berg (Austria)
@@ -319,4 +318,4 @@ Supporting Members
 
 
 
-Last update: 2024-09-17
+Last update: 2024-10-16
