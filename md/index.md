@@ -9,9 +9,8 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
--   [**R version 4.4.2 (Pile of Leaves) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2024-10-21. Final release is scheduled for Thursday 2024-10-31. 
--   [**R version 4.4.1 (Race for Your Life)**](https://cran.r-project.org/src/base/R-4)
-    has been released on 2024-06-14.
+-   [**R version 4.4.2 (Pile of Leaves)**](https://cran.r-project.org/src/base/R-4)
+    has been released on 2024-10-31.
 -   We are deeply sorry to announce that our friend and colleague Friedrich (Fritz) Leisch has died. [Read our tribute to Fritz here](doc/obit/fritz.html).
 -   [**R version 4.3.3 (Angel Food Cake)**](https://cran.r-project.org/src/base/R-4)
     (wrap-up of 4.3.x) was released on 2024-02-29.
