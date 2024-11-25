@@ -39,7 +39,7 @@ Files mastodon-feed-timeline.css and mastodon-feed-timeline.js are from this sou
 ## Social Media
 
 <!-- rel="me" required to verify on Mastodon -->
-Follow the R Foundation on <a rel="me" href="https://fosstodon.org/@R_Foundation">Mastodon</a>, <a href="https://twitter.com/_R_Foundation">Twitter</a>, or <a href="https://www.linkedin.com/company/the-r-foundation-for-statistical-computing">LinkedIn</a>.
+Follow the R Foundation on <a rel="me" href="https://fosstodon.org/@R_Foundation">Mastodon</a>, <a href="https://bsky.app/profile/r-foundation.bsky.social">BlueSky</a>, or <a href="https://www.linkedin.com/company/the-r-foundation-for-statistical-computing">LinkedIn</a>.
 
 <!--- (Boilerplate for release run-in)
 -   [**R version 3.1.3 (Smooth Sidewalk) prerelease versions**](https://cran.r-project.org/src/base-prerelease/) will appear starting February 28. Final release is scheduled for 2015-03-09.
