@@ -59,17 +59,14 @@ Donors
 -   Bryan Berend (United States)
 -   `<a href="https://eurekamer.com/" rel="nofollow">SAS EUREKA MER (France)</a>`{=html}
 -   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
--   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://policyanalysislab.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
--   Daniel J. Duarte (Netherlands)
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
 -   Lawrence Fredendall (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
--   Dmitriy Grishin (United States)
 -   Thomas Hennequin (Netherlands)
 -   Calvin Hopper (United States)
 -   Emma Howard (Ireland)
@@ -78,7 +75,9 @@ Donors
 -   `<a href="https://r2bit.com" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   Flavio Lombardo (Switzerland)
+-   Joseph Luchman (United States)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
+-   Riccardo Martinelli (Italy)
 -   `<a href="https://www.ineri.org" rel="nofollow">Plamen Vladkov Mirazchiyski (Slovenia)</a>`{=html}
 -   `<a href="https://savvysurveysjd.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
@@ -88,6 +87,7 @@ Donors
 -   Nickalus Redell (United States)
 -   `<a href="https://www.brodrigues.co" rel="nofollow">Bruno Rodrigues (Luxembourg)</a>`{=html}
 -   David Smith (United States)
+-   Tobias Strapatsas (Germany)
 -   Rav Vaid (United States)
 -   Alejandro Verri Kozlowski (Argentina)
 -   Daniel Wollschläger (Germany)
@@ -124,7 +124,6 @@ Supporting Institutions
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   NIFU Nordic Institute for Studies in Innovation, Research and Education, Oslo (Norway)
 -   oikostat GmbH, Ettiswil (Switzerland)
--   RIATE (CNRS), Paris (France)
 -   Roseburg Forest Products, Springfield (United States)
 -   The University of Auckland, Statistics Department, Auckland (New Zealand)
 -   University of Iowa, Iowa City (United States)
@@ -142,15 +141,16 @@ Supporting Members
 -   Kristoffer Winther Balling (Denmark)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
+-   Nathan Bernhardt (United States)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Emmanuel Blondel (France)
 -   Gordon Blunt (United Kingdom)
 -   Riccardo Bonfichi (Italy)
 -   Tom Boulay (United States)
--   Tamara Bozovic (New Zealand)
--   Susan M Carlson (United States)
+-   Gilberto Camara (Brazil)
 -   Robert Carnell (United States)
+-   Ivan Maria Castellani (Italy)
 -   Keith Chamberlain (United States)
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
@@ -176,7 +176,6 @@ Supporting Members
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
 -   Mitch Eppley (United States)
--   Stephen Ewing (United States)
 -   Guenter Faes (Germany)
 -   Isaac Florence (United Kingdom)
 -   Neil Frazer (United States)
@@ -210,6 +209,7 @@ Supporting Members
 -   Knut Helge Jensen (Norway)
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
+-   Markus Kainu (Finland)
 -   Christian Kampichler (Netherlands)
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
@@ -232,8 +232,8 @@ Supporting Members
 -   Thomas Levine (United States)
 -   Eric Lim (United Kingdom)
 -   Baoxiao Liu (Netherlands)
--   Joseph Luchman (United States)
 -   Andrea Luciani (Italy)
+-   David Luckett (Australia)
 -   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
@@ -271,6 +271,7 @@ Supporting Members
 -   Paul Rayburn (Canada)
 -   Fergus Reig Gracia (Spain)
 -   Ramon Rodriguez-Santana (United States)
+-   David Romano (United States)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
@@ -289,7 +290,6 @@ Supporting Members
 -   Marco Steenbergen (Switzerland)
 -   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
--   Tobias Strapatsas (Germany)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
 -   Jan Tarabek (Czechia)
@@ -318,4 +318,4 @@ Supporting Members
 
 
 
-Last update: 2024-10-16
+Last update: 2024-12-19
