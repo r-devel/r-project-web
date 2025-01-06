@@ -9,12 +9,12 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   The **useR! 2025** conference will take place at Duke University, in Durham, NC, USA, August 8-10.
 -   [**R version 4.4.2 (Pile of Leaves)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2024-10-31.
 -   We are deeply sorry to announce that our friend and colleague Friedrich (Fritz) Leisch has died. [Read our tribute to Fritz here](doc/obit/fritz.html).
 -   [**R version 4.3.3 (Angel Food Cake)**](https://cran.r-project.org/src/base/R-4)
     (wrap-up of 4.3.x) was released on 2024-02-29.
--   [**Registration for useR! 2024**](https://events.linuxfoundation.org/user/register/) has opened with early bird deadline March 31 2024.
 - You can support the R Foundation with a renewable subscription as a
   [supporting member](https://www.r-project.org/foundation/donations.html).
 

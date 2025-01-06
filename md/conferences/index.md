@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: [useR! 2024](https://user2024.r-project.org/) will be a hybrid conference, taking place 8-11 July 2024 in Salzburg, Austria.
+**News**: The **useR! 2025** conference will take place at Duke University, in Durham, NC, USA, August 8-10. 
 
 ------------
 
@@ -26,7 +26,7 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-[useR! 2024](https://user2024.r-project.org/) will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. For regular updates follow ['@useR_conf@mastodon.social'](https://mastodon.social/@useR_conf) on Mastodon or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
+The **useR! 2025** conference will take place at Duke University, in Durham, NC, USA, August 8-10. For regular updates follow ['@useR_conf@mastodon.social'](https://mastodon.social/@useR_conf) on Mastodon or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
 
 <!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
 <!--**A [call for proposals](useR_2023_call.html) is open to host a hybrid useR! conference in 2023 or 2024**. Deadline for outline proposals: **Wednesday 30 November 2022**.-->
@@ -47,11 +47,17 @@ The [useR! Knowledgebase](https://rconf.gitlab.io/userknowledgebase/main/) provi
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
 
-* [useR! 2022](https://user2022.r-project.org/), Nashville, USA.
+* [useR! 2024](https://user2024.r-project.org/), Salzburg, Austria.
+  ([local copy](https://www.r-project.org/conferences/useR-2024/)).
+
+* [useR! 2022](https://user2022.r-project.org/), online.
+  ([local copy](https://www.r-project.org/conferences/useR-2022/)).
 
 * [useR! 2021](https://user2021.r-project.org/), online.
+  ([local copy](https://www.r-project.org/conferences/useR-2021/)).
 
 * [useR! 2020](https://user2020.r-project.org/), online.
+  ([local copy](https://www.r-project.org/conferences/useR-2020/)).
 
 * [useR! 2019](https://user2019.r-project.org/), Toulouse, France.
   ([local copy](https://www.r-project.org/conferences/useR-2019/)).
