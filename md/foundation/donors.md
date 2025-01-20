@@ -57,10 +57,10 @@ Donors
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Bryan Berend (United States)
--   `<a href="https://eurekamer.com/" rel="nofollow">SAS EUREKA MER (France)</a>`{=html}
 -   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
+-   `<a href="https://profiles.auckland.ac.nz/j-curran" rel="nofollow">James Curran (New Zealand)</a>`{=html}
 -   `<a href="https://policyanalysislab.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   David Feedman (United States)
 -   Shalese Fitzgerald (United States)
@@ -79,14 +79,16 @@ Donors
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
 -   Riccardo Martinelli (Italy)
 -   `<a href="https://www.ineri.org" rel="nofollow">Plamen Vladkov Mirazchiyski (Slovenia)</a>`{=html}
--   `<a href="https://savvysurveysjd.com" rel="nofollow">Rees Morrison (United States)</a>`{=html}
+-   `<a href="http://www.stat.auckland.ac.nz" rel="nofollow">The University of Auckland, Statistics Department (New Zealand)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   `<a href="https://www.quintessa.org/" rel="nofollow">Quintessa Ltd (United Kingdom)</a>`{=html}
 -   Kem Phillips (United States)
 -   Alexandra Pippitt (United States)
 -   Nickalus Redell (United States)
+-   Fergus Reig Gracia (Spain)
 -   `<a href="https://www.brodrigues.co" rel="nofollow">Bruno Rodrigues (Luxembourg)</a>`{=html}
 -   David Smith (United States)
+-   Thomas Stadler (Switzerland)
 -   Tobias Strapatsas (Germany)
 -   Rav Vaid (United States)
 -   Alejandro Verri Kozlowski (Argentina)
@@ -112,6 +114,7 @@ Supporting Benefactors
 
 
 -   Zubin Dowlaty (United States)
+-   b-data GmbH, Winterthur (Switzerland)
 
 Supporting Institutions
 -----------
@@ -169,6 +172,7 @@ Supporting Members
 -   Gergely Daroczi (Hungary)
 -   Ajit de Silva (United States)
 -   Elliott Deal (United States)
+-   Dan Dediu (Spain)
 -   Kevin DeMaio (United States)
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
@@ -198,7 +202,6 @@ Supporting Members
 -   Chris Hanretty (United Kingdom)
 -   James Harris (United States)
 -   Joe Harwood (United Kingdom)
--   Bela Hausmann (Austria)
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
 -   Philippe Heymans Smith (Costa Rica)
@@ -214,6 +217,7 @@ Supporting Members
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
 -   JUNE KEE KIM (Korea, Republic of)
+-   JUNE KEE KIM (Korea, Republic of)
 -   Ziyad Knio (United States)
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
@@ -224,6 +228,7 @@ Supporting Members
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
 -   Vishal Lama (United States)
+-   Caleb Lareau (United States)
 -   Bernardo Lares (Venezuela)
 -   Rory Lawless (United States)
 -   Thierry Lecerf (Switzerland)
@@ -237,7 +242,6 @@ Supporting Members
 -   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
--   Gilles Marodon (France)
 -   Daniel McNichol (United States)
 -   Amanuel Medhanie (United States)
 -   Philippe MICHEL (France)
@@ -269,7 +273,6 @@ Supporting Members
 -   Kelly Pisane (Netherlands)
 -   PierGianLuca Porta Mana (Norway)
 -   Paul Rayburn (Canada)
--   Fergus Reig Gracia (Spain)
 -   Ramon Rodriguez-Santana (United States)
 -   David Romano (United States)
 -   Peter Ruckdeschel (Germany)
@@ -310,6 +313,7 @@ Supporting Members
 -   Sam Waters (United States)
 -   Dieter Wilhelm (Germany)
 -   Nan Xiao (United States)
+-   Agnieszka Zawiejska (Poland)
 -   Matti Zemack (Sweden)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
@@ -318,4 +322,4 @@ Supporting Members
 
 
 
-Last update: 2024-12-19
+Last update: 2025-01-20
