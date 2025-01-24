@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: The **useR! 2025** conference will take place at Duke University, in Durham, NC, USA, August 8-10. 
+**News**: The [**useR! 2025**](https://user2025.r-project.org) conference will take place at Duke University, in Durham, NC, USA, August 8-10. 
 
 ------------
 
@@ -26,14 +26,16 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-The **useR! 2025** conference will take place at Duke University, in Durham, NC, USA, August 8-10. For regular updates follow ['@useR_conf@mastodon.social'](https://mastodon.social/@useR_conf) on Mastodon or ['user-conf'](https://www.linkedin.com/company/user-conf/) on LinkedIn.
+The [**useR! 2025**](https://user2025.r-project.org) conference will take place at Duke University, in Durham, NC, USA, August 8-10. 
+
+For regular updates follow [useR_conf@mastodon.social](https://mastodon.social/@useR_conf) on Mastodon, [user-conf](https://www.linkedin.com/company/user-conf/) on LinkedIn, or [user-conf](https://bsky.app/profile/user-conf.bsky.social) on Bluesky.
 
 <!-- We are not currently seeking hosts or organizers for future useR! conferences. -->
 <!--**A [call for proposals](useR_2023_call.html) is open to host a hybrid useR! conference in 2023 or 2024**. Deadline for outline proposals: **Wednesday 30 November 2022**.-->
 
-Calls for proposals to organize useR! will be announced on this page, the R Foundation Mastodon account, ['@R_Foundation@fosstodon.org'](https://fosstodon.org/@R_Foundation), the [R Foundation LinkedIn page](https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/) and the ['@_R_Foundation'](https://twitter.com/_r_foundation) X account. 
+Calls for proposals to organize useR! will be announced on this page, and the R Foundation social media accounts: [R_Foundation@fosstodon.org](https://fosstodon.org/@R_Foundation) on Mastodon, [the-r-foundation-for-statistical-computing](https://www.linkedin.com/company/the-r-foundation-for-statistical-computing/) on LinkedIn, and [r-foundation](https://bsky.app/profile/r-foundation.bsky.social) on Bluesky. 
 
-Announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on the ['@_useRconf'](https://twitter.com/_useRconf) X account and the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
+Major announcements regarding useR! (e.g. call for abstracts, call for proposals to host useR!) are also made on the low-volume [R-Announce mailing list](https://stat.ethz.ch/mailman/listinfo/r-announce) (posts to R-Announce go to the [R-help mailing list](https://stat.ethz.ch/mailman/listinfo/r-help) as well).
 
 useR! is the main meeting of the R user and developer community, its program consists of both invited and user-contributed presentations:
 
@@ -46,6 +48,8 @@ Usually, no proceedings are published for useR! conferences, though slides and v
 The [useR! Knowledgebase](https://rconf.gitlab.io/userknowledgebase/main/) provides a guide for anyone involved in organizing useR!, while the [useR! Infoboard](https://rconf.gitlab.io/userinfoboard/) provides data on past useR! conferences. These resources are maintained by useR! organizers past and present.
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
+
+* [useR! 2025](https://user2025.r-project.org/), Durham, NC, USA.
 
 * [useR! 2024](https://user2024.r-project.org/), Salzburg, Austria.
   ([local copy](https://www.r-project.org/conferences/useR-2024/)).
