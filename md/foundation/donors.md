@@ -100,6 +100,7 @@ Donors
 -   Estonian Genome Center, Tartu (Estonia)
 -   Google Inc., Mountain View (United States)
 -   ilustat, Lisbon (Portugal)
+-   [iOMEDICO, Freiburg (Germany)](https://www.iomedico.com)
 -   Merck Research Laboratories, Kenilwort (United States)
 -   Novartis Pharma AG, Basel (Switzerland)
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
@@ -263,7 +264,6 @@ Supporting Members
 -   Jens Oehlschlägel (Germany)
 -   Dan Orsholits (Switzerland)
 -   George Ostrouchov (United States)
--   Antonio Paez (Canada)
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
 -   josiah parry (United States)
@@ -322,4 +322,4 @@ Supporting Members
 
 
 
-Last update: 2025-01-20
+Last update: 2025-01-31
