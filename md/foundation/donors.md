@@ -25,7 +25,7 @@ Patrons
 -----------
 
 - `<a href="https://posit.co/" rel="nofollow">Posit Software, PBC, United States</a>`{=html}
-- `<a href="https://opensource.indeedeng.io/FOSS-Contributor-Fund/" rel="nofollow">Indeed's FOSS Contributor Fund 2021</a>`{=html}
+- `<a href="https://engineering.indeedblog.com/blog/2021/02/indeeds-foss-contributor-fund-2021-updates/" rel="nofollow">Indeed's FOSS Contributor Fund 2021</a>`{=html}
 - `<a href="https://www.r-project.org/gsoc.html" rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
 - `<a href="https://user2021.r-project.org/" rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
 - `<a href="https://user2020.r-project.org/" rel="nofollow">useR! 2020 Organising Team (virtual from Munich, Germany)</a>`{=html}
@@ -56,14 +56,13 @@ Donors
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
--   Bryan Berend (United States)
 -   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
+-   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://profiles.auckland.ac.nz/j-curran" rel="nofollow">James Curran (New Zealand)</a>`{=html}
 -   `<a href="https://policyanalysislab.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   David Feedman (United States)
--   Shalese Fitzgerald (United States)
 -   Lawrence Fredendall (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
@@ -74,27 +73,22 @@ Donors
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   `<a href="https://r2bit.com" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
--   Flavio Lombardo (Switzerland)
 -   Joseph Luchman (United States)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
 -   Riccardo Martinelli (Italy)
 -   `<a href="https://www.ineri.org" rel="nofollow">Plamen Vladkov Mirazchiyski (Slovenia)</a>`{=html}
 -   `<a href="http://www.stat.auckland.ac.nz" rel="nofollow">The University of Auckland, Statistics Department (New Zealand)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
--   `<a href="https://www.quintessa.org/" rel="nofollow">Quintessa Ltd (United Kingdom)</a>`{=html}
 -   Kem Phillips (United States)
--   Alexandra Pippitt (United States)
 -   Nickalus Redell (United States)
 -   Fergus Reig Gracia (Spain)
--   `<a href="https://www.brodrigues.co" rel="nofollow">Bruno Rodrigues (Luxembourg)</a>`{=html}
 -   David Smith (United States)
 -   Thomas Stadler (Switzerland)
 -   Tobias Strapatsas (Germany)
--   Rav Vaid (United States)
+-   `<a href="https://orcid.org/0000-0001-8436-7798" rel="nofollow">Sebastiano Trevisani (Italy)</a>`{=html}
 -   Alejandro Verri Kozlowski (Argentina)
 -   Daniel Wollschläger (Germany)
 -   Jason Wyse (Ireland)
--   `<a href="https://yihui.org" rel="nofollow">Yihui Xie (China)</a>`{=html}
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -152,7 +146,7 @@ Supporting Members
 -   Gordon Blunt (United Kingdom)
 -   Riccardo Bonfichi (Italy)
 -   Tom Boulay (United States)
--   Gilberto Camara (Brazil)
+-   Pina Brinker (Germany)
 -   Robert Carnell (United States)
 -   Ivan Maria Castellani (Italy)
 -   Keith Chamberlain (United States)
@@ -166,7 +160,6 @@ Supporting Members
 -   Rafael Costa (Brazil)
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
--   Robin Crockett (United Kingdom)
 -   Alistair Cullum (United States)
 -   Brandon Dahl (United States)
 -   Robert Daly (Australia)
@@ -179,7 +172,7 @@ Supporting Members
 -   Dubravko Dolic (Germany)
 -   Serban Dragne (United Kingdom)
 -   Fraser Edwards (United Kingdom)
--   Anthony Alan Egerton (Malaysia)
+-   Martin Elff (Germany)
 -   Mitch Eppley (United States)
 -   Guenter Faes (Germany)
 -   Isaac Florence (United Kingdom)
@@ -191,15 +184,12 @@ Supporting Members
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
 -   Gabriel Gersztein (Brazil)
--   SUJOY GHOSH (United States)
 -   Anne Catherine Gieshoff (Switzerland)
--   Pavel Goriacko (United States)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
 -   Susan Gruber (United States)
 -   Krushi Gurudu (United States)
 -   Frank Hafner (United States)
--   Hlynur Hallgrímsson (Iceland)
 -   Chris Hanretty (United Kingdom)
 -   James Harris (United States)
 -   Joe Harwood (United Kingdom)
@@ -211,6 +201,7 @@ Supporting Members
 -   ken ikeda (Japan)
 -   Heidi Imker (United States)
 -   Knut Helge Jensen (Norway)
+-   Sebastian Jentschke (Norway)
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
 -   Markus Kainu (Finland)
@@ -218,14 +209,12 @@ Supporting Members
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
 -   JUNE KEE KIM (Korea, Republic of)
--   JUNE KEE KIM (Korea, Republic of)
 -   Ziyad Knio (United States)
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
 -   Sebastian Krantz (Germany)
 -   Jan Herman Kuiper (United Kingdom)
 -   Chris Kuty (United States)
--   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
 -   Vishal Lama (United States)
@@ -243,14 +232,12 @@ Supporting Members
 -   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
--   Daniel McNichol (United States)
 -   Amanuel Medhanie (United States)
 -   Philippe MICHEL (France)
 -   Bogdan-Alexandru Micu (Luxembourg)
 -   Igor Mikheenko (Russian Federation)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
--   Jairo Montenegro Arjona (Colombia)
 -   David Monterde (Spain)
 -   Stefan Moog (Germany)
 -   Keon-Woong Moon (Korea, Republic of)
@@ -296,7 +283,6 @@ Supporting Members
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
 -   Jan Tarabek (Czechia)
--   Koray Tascilar (Germany)
 -   Tim Taylor (United Kingdom)
 -   Chris Toney (United States)
 -   Nicholas Turner (United States)
@@ -310,11 +296,9 @@ Supporting Members
 -   Jaap Walhout (Netherlands)
 -   Sandra Ware (Australia)
 -   Fredrik Wartenberg (Sweden)
--   Sam Waters (United States)
--   Dieter Wilhelm (Germany)
 -   Nan Xiao (United States)
+-   Yihui Xie (China)
 -   Agnieszka Zawiejska (Poland)
--   Matti Zemack (Sweden)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
 -   广宇 曾 (China)
@@ -322,4 +306,4 @@ Supporting Members
 
 
 
-Last update: 2025-01-31
+Last update: 2025-03-26
