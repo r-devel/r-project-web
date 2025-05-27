@@ -16,7 +16,7 @@ A rough outline of the format for the respective conferences is given below; bot
 The R Foundation also [endorses a small number of conferences](#other-conferences-endorsed-by-the-r-foundation) for special events or to encourage the development of the local R community in under-supported regions.
 
 Conference-related activities are co-ordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of
-[Julie Josse (Ecole Polytechnique)](http://juliejosse.com/), [Heather Turner](https://www.heatherturner.net/) and [Achim Zeileis (Universität Innsbruck)](https://www.zeileis.org/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
+[Julie Josse (Ecole Polytechnique)](https://juliejosse.com/), [Heather Turner](https://www.heatherturner.net/) and [Achim Zeileis (Universität Innsbruck)](https://www.zeileis.org/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
 
 The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](/coc.html) at R conferences.
 
@@ -135,7 +135,7 @@ DSC has had two different incarnations. The first was a biennial conference seri
 * [DSC 2009](https://www.r-project.org/DSC-2009/), Copenhagen, Denmark
   ([local copy](https://www.r-project.org/conferences/DSC-2009/)).
 
-* [DSC 2007](http://www.stat.auckland.ac.nz/dsc-2007/), Auckland, New Zealand
+* [DSC 2007](https://www.stat.auckland.ac.nz/dsc-2007/), Auckland, New Zealand
   ([local copy](https://www.r-project.org/conferences/DSC-2007/), proceedings have
   been published as issue
   [24/2 of Computational Statistics](https://link.springer.com/journal/180/volumes-and-issues/24-2)).
