@@ -11,7 +11,7 @@ The R Foundation actively supports two conference series, organized regularly by
 * useR!, a forum for the R user community.
 * DSC, a platform for developers of statistical software.
 
-A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation/).
+A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](https://statmath.wu.ac.at/AASC/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation/).
 
 The R Foundation also [endorses a small number of conferences](#other-conferences-endorsed-by-the-r-foundation) for special events or to encourage the development of the local R community in under-supported regions.
 
