@@ -9,8 +9,9 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   [**R version 4.5.1 (Great Square Root) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Tuesday 2025-06-03. Final release is scheduled for Friday 2025-06-13. 
 -   [**R version 4.5.0 (How About a Twenty-Six)**](https://cran.r-project.org/src/base/R-4)
-    has been released on 2025-04-11.
+    has been released on 2025-04-11. 
 -   [**R version 4.4.3 (Trophy Case)**](https://cran.r-project.org/src/base/R-4)
     (wrap-up of 4.4.x) was released on 2025-02-28.
 -   The [**useR! 2025**](https://user2025.r-project.org) conference will take place at Duke University, in Durham, NC, USA, August 8-10.
