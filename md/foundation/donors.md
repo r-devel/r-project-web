@@ -44,7 +44,7 @@ Patrons
 - `<a href="https://www.r-project.org/conferences/useR-2007/" rel="nofollow">useR! 2007 Organising Team (Ames, Iowa)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2006/" rel="nofollow">useR! 2006 Organising Team (Vienna, Austria)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2004/" rel="nofollow">useR! 2004 Organising Team (Vienna, Austria)</a>`{=html}
-- `<a href="https://www.ag.ch/de/verwaltung/dfr/statistik" rel="nofollow">Statistik Aargau, Aarau (Switzerland)</a>`{=html}
+- `<a href="http://www.ag.ch/de/themen/staat-politik/statistik" rel="nofollow">Statistik Aargau, Aarau (Switzerland)</a>`{=html}
 - `<a href="https://yihui.org" rel="nofollow">Yihui Xie (China)</a>`{=html}
 
 
@@ -61,7 +61,6 @@ Donors
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   `<a href="https://profiles.auckland.ac.nz/j-curran" rel="nofollow">James Curran (New Zealand)</a>`{=html}
--   `<a href="https://policyanalysislab.com/" rel="nofollow">Giles Dickenson-Jones (Australia)</a>`{=html}
 -   David Feedman (United States)
 -   Lawrence Fredendall (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
@@ -86,9 +85,7 @@ Donors
 -   Thomas Stadler (Switzerland)
 -   Tobias Strapatsas (Germany)
 -   `<a href="https://orcid.org/0000-0001-8436-7798" rel="nofollow">Sebastiano Trevisani (Italy)</a>`{=html}
--   Alejandro Verri Kozlowski (Argentina)
 -   Daniel Wollschläger (Germany)
--   Jason Wyse (Ireland)
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -100,7 +97,7 @@ Donors
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
 -   Somewhat Retired, North Potomac (United States)
 -   Spängler IQAM Invest GmbH, Salzburg (Austria)
--   [Statistik Aargau, Aarau (Switzerland)](https://www.ag.ch/de/verwaltung/dfr/statistik)
+-   [Statistik Aargau, Aarau (Switzerland)](http://www.ag.ch/de/themen/staat-politik/statistik)
 -   The Analytical Edge, Elackmans Bay (Australia)
 -   [Zurich R Courses, Zurich (Switzerland)](https://www.zhRcourses.uzh.ch)
 
@@ -133,9 +130,8 @@ Supporting Members
 -   Richard Abdill (United States)
 -   Douglas Adamoski (Brazil)
 -   Vedo Alagic (Austria)
--   Mohammed Almozini (Saudi Arabia)
+-   jose alaya (Peru)
 -   Tim Appelhans (Germany)
--   Tim Arbogast (United States)
 -   Kristoffer Winther Balling (Denmark)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
@@ -144,14 +140,15 @@ Supporting Members
 -   Michael Blanks (United States)
 -   Emmanuel Blondel (France)
 -   Gordon Blunt (United Kingdom)
--   Riccardo Bonfichi (Italy)
 -   Tom Boulay (United States)
 -   Pina Brinker (Germany)
+-   Andreas Büttner (Germany)
 -   Robert Carnell (United States)
 -   Ivan Maria Castellani (Italy)
 -   Keith Chamberlain (United States)
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
+-   Chao Cheng (China)
 -   Michael Chirico (United States)
 -   William Chiu (United States)
 -   Tom Clarke (United Kingdom)
@@ -183,7 +180,6 @@ Supporting Members
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
--   Gabriel Gersztein (Brazil)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
@@ -215,6 +211,7 @@ Supporting Members
 -   Sebastian Krantz (Germany)
 -   Jan Herman Kuiper (United Kingdom)
 -   Chris Kuty (United States)
+-   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
 -   Vishal Lama (United States)
@@ -232,6 +229,7 @@ Supporting Members
 -   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
+-   Ivan Marino (Italy)
 -   Amanuel Medhanie (United States)
 -   Philippe MICHEL (France)
 -   Bogdan-Alexandru Micu (Luxembourg)
@@ -254,22 +252,20 @@ Supporting Members
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
 -   josiah parry (United States)
+-   josiah parry (United States)
 -   Sermet Pekin (Turkey)
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
 -   PierGianLuca Porta Mana (Norway)
--   Paul Rayburn (Canada)
 -   Ramon Rodriguez-Santana (United States)
 -   David Romano (United States)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
--   John Schmitt (United States)
 -   Raoul Schorer (Switzerland)
 -   Dominic Schuhmacher (Germany)
 -   Dejan Schuster (Germany)
--   Ivan Scotti (France)
 -   Christian Seubert (Austria)
 -   Jagat Sheth (United States)
 -   Sindri Shtepani (Canada)
@@ -306,4 +302,4 @@ Supporting Members
 
 
 
-Last update: 2025-03-26
+Last update: 2025-07-09
