@@ -27,21 +27,22 @@ Patrons
 - `<a href="https://posit.co/" rel="nofollow">Posit Software, PBC, United States</a>`{=html}
 - `<a href="https://engineering.indeedblog.com/blog/2021/02/indeeds-foss-contributor-fund-2021-updates/" rel="nofollow">Indeed's FOSS Contributor Fund 2021</a>`{=html}
 - `<a href="https://www.r-project.org/gsoc.html" rel="nofollow">Google Summer of Code Team (Toby Dylan Hocking, Brian Peterson and Virgilio Gomez Rubio)</a>`{=html}
+- `<a href="https://user2025.r-project.org/" rel="nofollow">useR! 2025 Organising Team (Durhman, North Carolina, U.S.A.)</a>`{=html}
 - `<a href="https://user2021.r-project.org/" rel="nofollow">useR! 2021 Organising Team (virtual from Zurich, Switzerland)</a>`{=html}
 - `<a href="https://user2020.r-project.org/" rel="nofollow">useR! 2020 Organising Team (virtual from Munich, Germany)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2019/" rel="nofollow">useR! 2019 Organising Team (Toulouse, France)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2018/" rel="nofollow">useR! 2018 Organising Team (Brisbane, Australia)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2017/" rel="nofollow">useR! 2017 Organising Team (Brussels, Belgium)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2016/" rel="nofollow">useR! 2016 Organising Team (Stanford, California)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2016/" rel="nofollow">useR! 2016 Organising Team (Stanford, California, U.S.A.)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2015/" rel="nofollow">useR! 2015 Organising Team (Aalborg, Denmark)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2014/" rel="nofollow">useR! 2014 Organising Team (Los Angeles, California)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2014/" rel="nofollow">useR! 2014 Organising Team (Los Angeles, California, U.S.A.)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2013/" rel="nofollow">useR! 2013 Organising Team (Albacete, Spain)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2012/" rel="nofollow">useR! 2012 Organising Team (Nashville, Tennessee)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2012/" rel="nofollow">useR! 2012 Organising Team (Nashville, Tennessee, U.S.A.)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2011/" rel="nofollow">useR! 2011 Organising Team (Warwick, UK)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2010/" rel="nofollow">useR! 2010 Organising Team (Gaithersburg, Maryland) </a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2010/" rel="nofollow">useR! 2010 Organising Team (Gaithersburg, Maryland, U.S.A.) </a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2009/" rel="nofollow">useR! 2009 Organising Team (Rennes, France)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2008/" rel="nofollow">useR! 2008 Organising Team (Dortmund, Germany)</a>`{=html}
-- `<a href="https://www.r-project.org/conferences/useR-2007/" rel="nofollow">useR! 2007 Organising Team (Ames, Iowa)</a>`{=html}
+- `<a href="https://www.r-project.org/conferences/useR-2007/" rel="nofollow">useR! 2007 Organising Team (Ames, Iowa, U.S.A.)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2006/" rel="nofollow">useR! 2006 Organising Team (Vienna, Austria)</a>`{=html}
 - `<a href="https://www.r-project.org/conferences/useR-2004/" rel="nofollow">useR! 2004 Organising Team (Vienna, Austria)</a>`{=html}
 - `<a href="http://www.ag.ch/de/themen/staat-politik/statistik" rel="nofollow">Statistik Aargau, Aarau (Switzerland)</a>`{=html}
@@ -60,12 +61,11 @@ Donors
 -   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
+-   Richard COUSINEAU (Canada)
 -   `<a href="https://profiles.auckland.ac.nz/j-curran" rel="nofollow">James Curran (New Zealand)</a>`{=html}
 -   David Feedman (United States)
--   Lawrence Fredendall (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
--   Thomas Hennequin (Netherlands)
 -   Calvin Hopper (United States)
 -   Emma Howard (Ireland)
 -   Jonathan Keane (United States)
@@ -81,7 +81,6 @@ Donors
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   Fergus Reig Gracia (Spain)
--   David Smith (United States)
 -   Thomas Stadler (Switzerland)
 -   Tobias Strapatsas (Germany)
 -   `<a href="https://orcid.org/0000-0001-8436-7798" rel="nofollow">Sebastiano Trevisani (Italy)</a>`{=html}
@@ -133,6 +132,7 @@ Supporting Members
 -   jose alaya (Peru)
 -   Tim Appelhans (Germany)
 -   Kristoffer Winther Balling (Denmark)
+-   Maurice Baudet von Gersdorff (Germany)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
 -   Nathan Bernhardt (United States)
@@ -152,9 +152,9 @@ Supporting Members
 -   Michael Chirico (United States)
 -   William Chiu (United States)
 -   Tom Clarke (United Kingdom)
+-   Thomas Collins (United States)
 -   Gerard Conaghan (United Kingdom)
 -   Giuseppe Corbelli (Italy)
--   Rafael Costa (Brazil)
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
 -   Alistair Cullum (United States)
@@ -181,6 +181,7 @@ Supporting Members
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
 -   Anne Catherine Gieshoff (Switzerland)
+-   Aurélien Ginolhac (Luxembourg)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
 -   Susan Gruber (United States)
@@ -189,6 +190,7 @@ Supporting Members
 -   Chris Hanretty (United Kingdom)
 -   James Harris (United States)
 -   Joe Harwood (United Kingdom)
+-   Benedikt Haug (Netherlands)
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
 -   Philippe Heymans Smith (Costa Rica)
@@ -204,6 +206,7 @@ Supporting Members
 -   Christian Kampichler (Netherlands)
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
+-   Mohammad Golam Kibria (United States)
 -   JUNE KEE KIM (Korea, Republic of)
 -   Ziyad Knio (United States)
 -   Sebastian Koehler (Germany)
@@ -224,16 +227,13 @@ Supporting Members
 -   Thomas Levine (United States)
 -   Eric Lim (United Kingdom)
 -   Baoxiao Liu (Netherlands)
--   Andrea Luciani (Italy)
 -   David Luckett (Australia)
--   Sharon Machlis (United States)
 -   Mehrad Mahmoudian (Finland)
 -   Michal Majka (Austria)
 -   Ivan Marino (Italy)
 -   Amanuel Medhanie (United States)
 -   Philippe MICHEL (France)
 -   Bogdan-Alexandru Micu (Luxembourg)
--   Igor Mikheenko (Russian Federation)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
 -   David Monterde (Spain)
@@ -251,7 +251,6 @@ Supporting Members
 -   George Ostrouchov (United States)
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
--   josiah parry (United States)
 -   josiah parry (United States)
 -   Sermet Pekin (Turkey)
 -   Elgin Perry (United States)
@@ -278,6 +277,7 @@ Supporting Members
 -   Harald Sterly (Germany)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
+-   Emi Tanaka (Australia)
 -   Jan Tarabek (Czechia)
 -   Tim Taylor (United Kingdom)
 -   Chris Toney (United States)
@@ -302,4 +302,4 @@ Supporting Members
 
 
 
-Last update: 2025-07-09
+Last update: 2025-09-16
