@@ -2,7 +2,7 @@
 title: Conferences
 ---
 
-**News**: The [**useR! 2025**](https://user2025.r-project.org) conference will take place at Duke University, in Durham, NC, USA, August 8-10. 
+**News**: The [**useR! 2026**](https://user2026.r-project.org) conference will take place in Warsaw, Poland, July 7-9.
 
 ------------
 
@@ -26,7 +26,7 @@ The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](
 
 ![useR logo](useR.png)\
 
-The [**useR! 2025**](https://user2025.r-project.org) conference will take place at Duke University, in Durham, NC, USA, August 8-10. 
+The [**useR! 2026**](https://user2026.r-project.org) conference will take place in Warsaw, Poland, July 7-9.
 
 For regular updates follow [useR_conf@mastodon.social](https://mastodon.social/@useR_conf) on Mastodon, [user-conf](https://www.linkedin.com/company/user-conf/) on LinkedIn, or [user-conf](https://bsky.app/profile/user-conf.bsky.social) on Bluesky.
 
@@ -48,6 +48,7 @@ Usually, no proceedings are published for useR! conferences, though slides and v
 The [useR! Knowledgebase](https://rconf.gitlab.io/userknowledgebase/main/) provides a guide for anyone involved in organizing useR!, while the [useR! Infoboard](https://rconf.gitlab.io/userinfoboard/) provides data on past useR! conferences. These resources are maintained by useR! organizers past and present.
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
+* [useR! 2026](https://user2026.r-project.org). Warsaw, Poland.
 
 * [useR! 2025](https://user2025.r-project.org/), Durham, NC, USA.
 
