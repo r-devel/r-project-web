@@ -115,7 +115,7 @@ The [useR! Knowledgebase](https://rconf.gitlab.io/userknowledgebase/main/) provi
 
 DSC is a conference for the developers of statistical software and researchers in statistical computing which is somewhat focused on but not exclusively devoted to R. It aims at providing a platform for exchanging ideas about developments in statistical computing (rather than \`only' the usage of statistical software for applications).
 
-DSC has had two different incarnations. The first was a biennial conference series from 1999 to 2009 with open registration, an open call for papers and peer-reviewed conference proceedings. After a 5 year hiatus, DSC resumed in 2014 as an annual conference coinciding with the General Assembly of the R Foundation. For 2020, speakers will be invited, but there will be open registration.
+DSC has had two different incarnations. The first was a biennial conference series from 1999 to 2009 with open registration, an open call for papers and peer-reviewed conference proceedings. After a 5 year hiatus, DSC resumed in 2014 as an annual conference coinciding with the General Assembly of the R Foundation. 
 
 * DSC 2020, St Louis, MO, USA.
 
