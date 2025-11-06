@@ -66,7 +66,6 @@ Donors
 -   David Feedman (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
--   Calvin Hopper (United States)
 -   Emma Howard (Ireland)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
@@ -75,7 +74,6 @@ Donors
 -   Joseph Luchman (United States)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
 -   Riccardo Martinelli (Italy)
--   `<a href="https://www.ineri.org" rel="nofollow">Plamen Vladkov Mirazchiyski (Slovenia)</a>`{=html}
 -   `<a href="http://www.stat.auckland.ac.nz" rel="nofollow">The University of Auckland, Statistics Department (New Zealand)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   Kem Phillips (United States)
@@ -113,7 +111,6 @@ Supporting Institutions
 
 -   Alfred Mueller Analytic Services, München (Germany)
 -   Departement Klinische Forschung, Basel (Switzerland)
--   Digital Ecology Limited , Berkeley (United Kingdom)
 -   Ef-prime, Inc., Tokyo (Japan)
 -   Institute of Botany of the Czech Academy of Sciences, Pruhonice (Czechia)
 -   NIFU Nordic Institute for Studies in Innovation, Research and Education, Oslo (Norway)
@@ -130,7 +127,9 @@ Supporting Members
 -   Douglas Adamoski (Brazil)
 -   Vedo Alagic (Austria)
 -   jose alaya (Peru)
+-   Jeremy Allen (United States)
 -   Tim Appelhans (Germany)
+-   Chris Aragao (United States)
 -   Kristoffer Winther Balling (Denmark)
 -   Maurice Baudet von Gersdorff (Germany)
 -   Amit Behera (United States)
@@ -177,9 +176,11 @@ Supporting Members
 -   David Freedman (United States)
 -   Bernd Fröhlich (Germany)
 -   Keita Fukasawa (Japan)
+-   Arthur Gailes (United States)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
+-   YEHONATAN MORDECHAI GIDEON (Israel)
 -   Anne Catherine Gieshoff (Switzerland)
 -   Aurélien Ginolhac (Luxembourg)
 -   Brian Gramberg (Netherlands)
@@ -196,6 +197,7 @@ Supporting Members
 -   Philippe Heymans Smith (Costa Rica)
 -   Adam Hill (United States)
 -   Alexander Huelle (Germany)
+-   Rob Hyndman (Australia)
 -   ken ikeda (Japan)
 -   Heidi Imker (United States)
 -   Knut Helge Jensen (Norway)
@@ -222,7 +224,6 @@ Supporting Members
 -   Bernardo Lares (Venezuela)
 -   Rory Lawless (United States)
 -   Thierry Lecerf (Switzerland)
--   Seungdoe Lee (Korea, Republic of)
 -   Mauro Lepore (United States)
 -   Thomas Levine (United States)
 -   Eric Lim (United Kingdom)
@@ -257,11 +258,11 @@ Supporting Members
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
 -   PierGianLuca Porta Mana (Norway)
--   Ramon Rodriguez-Santana (United States)
 -   David Romano (United States)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (Korea, Republic of)
+-   Benjamin Schneider (United States)
 -   Raoul Schorer (Switzerland)
 -   Dominic Schuhmacher (Germany)
 -   Dejan Schuster (Germany)
@@ -275,6 +276,7 @@ Supporting Members
 -   Marco Steenbergen (Switzerland)
 -   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
+-   Samuel Stewart (Canada)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
 -   Emi Tanaka (Australia)
@@ -282,6 +284,7 @@ Supporting Members
 -   Tim Taylor (United Kingdom)
 -   Chris Toney (United States)
 -   Nicholas Turner (United States)
+-   Derrick Um (United States)
 -   Philipp Upravitelev (Russian Federation)
 -   Robert van den Berg (Austria)
 -   Mark van der Loo (Netherlands)
@@ -302,4 +305,4 @@ Supporting Members
 
 
 
-Last update: 2025-09-16
+Last update: 2025-11-06
