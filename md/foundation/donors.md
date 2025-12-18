@@ -57,8 +57,8 @@ Donors
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
+-   Andreas Büttner (Germany)
 -   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
--   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   Richard COUSINEAU (Canada)
@@ -66,9 +66,9 @@ Donors
 -   David Feedman (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
--   Emma Howard (Ireland)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
+-   Bruce Larson (United States)
 -   `<a href="https://r2bit.com" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   Joseph Luchman (United States)
@@ -76,12 +76,14 @@ Donors
 -   Riccardo Martinelli (Italy)
 -   `<a href="http://www.stat.auckland.ac.nz" rel="nofollow">The University of Auckland, Statistics Department (New Zealand)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
+-   HMS Analytical Software GmbH (Germany)
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   Fergus Reig Gracia (Spain)
 -   Thomas Stadler (Switzerland)
 -   Tobias Strapatsas (Germany)
 -   `<a href="https://orcid.org/0000-0001-8436-7798" rel="nofollow">Sebastiano Trevisani (Italy)</a>`{=html}
+-   Roland Wedekind (France)
 -   Daniel Wollschläger (Germany)
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
@@ -130,6 +132,7 @@ Supporting Members
 -   Jeremy Allen (United States)
 -   Tim Appelhans (Germany)
 -   Chris Aragao (United States)
+-   Justan Baker (United States)
 -   Kristoffer Winther Balling (Denmark)
 -   Maurice Baudet von Gersdorff (Germany)
 -   Amit Behera (United States)
@@ -141,7 +144,7 @@ Supporting Members
 -   Gordon Blunt (United Kingdom)
 -   Tom Boulay (United States)
 -   Pina Brinker (Germany)
--   Andreas Büttner (Germany)
+-   Gilberto Camara (Brazil)
 -   Robert Carnell (United States)
 -   Ivan Maria Castellani (Italy)
 -   Keith Chamberlain (United States)
@@ -164,6 +167,7 @@ Supporting Members
 -   Elliott Deal (United States)
 -   Dan Dediu (Spain)
 -   Kevin DeMaio (United States)
+-   Ian Dinwoodie (United States)
 -   Anna Doizy (Réunion)
 -   Dubravko Dolic (Germany)
 -   Serban Dragne (United Kingdom)
@@ -249,7 +253,6 @@ Supporting Members
 -   Mark Niemann-Ross (United States)
 -   Jens Oehlschlägel (Germany)
 -   Dan Orsholits (Switzerland)
--   George Ostrouchov (United States)
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
 -   josiah parry (United States)
@@ -279,6 +282,7 @@ Supporting Members
 -   Samuel Stewart (Canada)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
+-   Koki Takayama (Japan)
 -   Emi Tanaka (Australia)
 -   Jan Tarabek (Czechia)
 -   Tim Taylor (United Kingdom)
@@ -305,4 +309,4 @@ Supporting Members
 
 
 
-Last update: 2025-11-06
+Last update: 2025-12-18
