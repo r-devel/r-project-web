@@ -64,6 +64,8 @@ Donors
 -   Richard COUSINEAU (Canada)
 -   `<a href="https://profiles.auckland.ac.nz/j-curran" rel="nofollow">James Curran (New Zealand)</a>`{=html}
 -   David Feedman (United States)
+-   `<a href="https://tobias.fellinger.wien/" rel="nofollow">Tobias Fellinger (Austria)</a>`{=html}
+-   Shalese Fitzgerald (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   Jonathan Keane (United States)
@@ -79,10 +81,10 @@ Donors
 -   HMS Analytical Software GmbH (Germany)
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
--   Fergus Reig Gracia (Spain)
+-   `<a href="http://fergusreig.es" rel="nofollow">Fergus Reig Gracia (Spain)</a>`{=html}
 -   Thomas Stadler (Switzerland)
--   Tobias Strapatsas (Germany)
 -   `<a href="https://orcid.org/0000-0001-8436-7798" rel="nofollow">Sebastiano Trevisani (Italy)</a>`{=html}
+-   Zane Troyer (United States)
 -   Roland Wedekind (France)
 -   Daniel Wollschläger (Germany)
 -   明彦 田中 (Japan)
@@ -159,6 +161,7 @@ Supporting Members
 -   Giuseppe Corbelli (Italy)
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
+-   Robin Crockett (United Kingdom)
 -   Alistair Cullum (United States)
 -   Brandon Dahl (United States)
 -   Robert Daly (Australia)
@@ -172,6 +175,7 @@ Supporting Members
 -   Dubravko Dolic (Germany)
 -   Serban Dragne (United Kingdom)
 -   Fraser Edwards (United Kingdom)
+-   Anthony Alan Egerton (Malaysia)
 -   Martin Elff (Germany)
 -   Mitch Eppley (United States)
 -   Guenter Faes (Germany)
@@ -213,7 +217,7 @@ Supporting Members
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
 -   Mohammad Golam Kibria (United States)
--   JUNE KEE KIM (Korea, Republic of)
+-   JUNE KEE KIM (South Korea)
 -   Ziyad Knio (United States)
 -   Sebastian Koehler (Germany)
 -   Miha Kosmac (United Kingdom)
@@ -243,7 +247,7 @@ Supporting Members
 -   Ernst Molitor (Germany)
 -   David Monterde (Spain)
 -   Stefan Moog (Germany)
--   Keon-Woong Moon (Korea, Republic of)
+-   Keon-Woong Moon (South Korea)
 -   Steffen Moritz (Germany)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
@@ -256,7 +260,7 @@ Supporting Members
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
 -   josiah parry (United States)
--   Sermet Pekin (Turkey)
+-   Sermet Pekin (Türkiye)
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
@@ -264,7 +268,7 @@ Supporting Members
 -   David Romano (United States)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
--   Choonghyun Ryu (Korea, Republic of)
+-   Choonghyun Ryu (South Korea)
 -   Benjamin Schneider (United States)
 -   Raoul Schorer (Switzerland)
 -   Dominic Schuhmacher (Germany)
@@ -280,6 +284,7 @@ Supporting Members
 -   Berthold Stegemann (Germany)
 -   Harald Sterly (Germany)
 -   Samuel Stewart (Canada)
+-   Tobias Strapatsas (Germany)
 -   Kai Streicher (Switzerland)
 -   ROBERT Szabo (Sweden)
 -   Koki Takayama (Japan)
@@ -309,4 +314,4 @@ Supporting Members
 
 
 
-Last update: 2025-12-18
+Last update: 2026-01-05
