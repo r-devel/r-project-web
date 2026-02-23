@@ -56,13 +56,12 @@ Donors
 
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
--   `<a href="https://www.b-data.io" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
+-   `<a href="https://www.b-data.io/" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Andreas Büttner (Germany)
 -   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
 -   Keith Chamberlain (United States)
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   Richard COUSINEAU (Canada)
--   `<a href="https://profiles.auckland.ac.nz/j-curran" rel="nofollow">James Curran (New Zealand)</a>`{=html}
 -   David Feedman (United States)
 -   `<a href="https://tobias.fellinger.wien/" rel="nofollow">Tobias Fellinger (Austria)</a>`{=html}
 -   Shalese Fitzgerald (United States)
@@ -74,8 +73,8 @@ Donors
 -   `<a href="https://r2bit.com" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   Joseph Luchman (United States)
+-   `<a href="https://www.instagram.com/ohccugm/" rel="nofollow">One Health Collaborating Center Universitas Gadjah Mada (Indonesia)</a>`{=html}
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
--   Riccardo Martinelli (Italy)
 -   `<a href="http://www.stat.auckland.ac.nz" rel="nofollow">The University of Auckland, Statistics Department (New Zealand)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   HMS Analytical Software GmbH (Germany)
@@ -85,6 +84,7 @@ Donors
 -   Thomas Stadler (Switzerland)
 -   `<a href="https://orcid.org/0000-0001-8436-7798" rel="nofollow">Sebastiano Trevisani (Italy)</a>`{=html}
 -   Zane Troyer (United States)
+-   Dr. Alfred Wagner (Germany)
 -   Roland Wedekind (France)
 -   Daniel Wollschläger (Germany)
 -   明彦 田中 (Japan)
@@ -139,17 +139,15 @@ Supporting Members
 -   Maurice Baudet von Gersdorff (Germany)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
--   Nathan Bernhardt (United States)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Emmanuel Blondel (France)
 -   Gordon Blunt (United Kingdom)
 -   Tom Boulay (United States)
+-   James Briggs (United States)
 -   Pina Brinker (Germany)
 -   Gilberto Camara (Brazil)
 -   Robert Carnell (United States)
--   Ivan Maria Castellani (Italy)
--   Keith Chamberlain (United States)
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
 -   Chao Cheng (China)
@@ -163,8 +161,8 @@ Supporting Members
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
 -   Alistair Cullum (United States)
+-   James Curran (New Zealand)
 -   Brandon Dahl (United States)
--   Robert Daly (Australia)
 -   Gergely Daroczi (Hungary)
 -   Ajit de Silva (United States)
 -   Elliott Deal (United States)
@@ -189,7 +187,6 @@ Supporting Members
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
 -   YEHONATAN MORDECHAI GIDEON (Israel)
--   Anne Catherine Gieshoff (Switzerland)
 -   Aurélien Ginolhac (Luxembourg)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
@@ -204,15 +201,16 @@ Supporting Members
 -   Kieran Healy (United States)
 -   Philippe Heymans Smith (Costa Rica)
 -   Adam Hill (United States)
+-   Delia Hol (Paraguay)
 -   Alexander Huelle (Germany)
 -   Rob Hyndman (Australia)
 -   ken ikeda (Japan)
 -   Heidi Imker (United States)
+-   Ben Jefferies (United States)
 -   Knut Helge Jensen (Norway)
 -   Sebastian Jentschke (Norway)
 -   Sebastian Jeworutzki (Germany)
 -   Brian Johnson (United States)
--   Markus Kainu (Finland)
 -   Christian Kampichler (Netherlands)
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
@@ -220,6 +218,7 @@ Supporting Members
 -   JUNE KEE KIM (South Korea)
 -   Ziyad Knio (United States)
 -   Sebastian Koehler (Germany)
+-   Maryna Kołeczek (Poland)
 -   Miha Kosmac (United Kingdom)
 -   Sebastian Krantz (Germany)
 -   Jan Herman Kuiper (United Kingdom)
@@ -245,18 +244,24 @@ Supporting Members
 -   Bogdan-Alexandru Micu (Luxembourg)
 -   harvey minnigh (Puerto Rico)
 -   Ernst Molitor (Germany)
+-   Jairo Montenegro Arjona (Colombia)
 -   David Monterde (Spain)
 -   Stefan Moog (Germany)
 -   Keon-Woong Moon (South Korea)
 -   Steffen Moritz (Germany)
+-   Andrew Morrison (Canada)
 -   Guido Möser (Germany)
 -   yoshinobu nakahashi (Japan)
 -   Markus Näpflin (Switzerland)
 -   Tsubasa Narihiro (Japan)
 -   Maciej Nasinski (Poland)
 -   Mark Niemann-Ross (United States)
+-   Ana Ns (Paraguay)
 -   Jens Oehlschlägel (Germany)
+-   Bastián Olea Herrera (Chile)
 -   Dan Orsholits (Switzerland)
+-   Antonio Paez (Canada)
+-   Brynjar Snær Pálsson (Iceland)
 -   Jaesung James Park (Korea, Republic of)
 -   Matt Parker (United States)
 -   josiah parry (United States)
@@ -265,7 +270,7 @@ Supporting Members
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
 -   PierGianLuca Porta Mana (Norway)
--   David Romano (United States)
+-   Joyce Robbins (United States)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Choonghyun Ryu (South Korea)
@@ -314,4 +319,4 @@ Supporting Members
 
 
 
-Last update: 2026-01-05
+Last update: 2026-02-23
