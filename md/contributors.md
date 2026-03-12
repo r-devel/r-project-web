@@ -29,6 +29,7 @@ write access to the R source, currently consisting of
 -   Deepayan Sarkar
 -   Duncan Temple Lang
 -   Luke Tierney
+-   Heather Turner
 -   Simon Urbanek
 
 plus Heiner Schwarte up to October 1999, Guido Masarotto up to June 2003,
