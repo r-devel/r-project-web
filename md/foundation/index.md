@@ -5,7 +5,7 @@ title: The R Foundation
 The R Foundation is a not for profit organization working in the public interest. It has been founded by the members of the R Development Core Team in order to
 
 -   Provide support for the R project and other innovations in statistical computing. We believe that R has become a mature and valuable tool and we would like to ensure its continued development and the development of future innovations in software for statistical and computational research.
--   Provide a reference point for individuals, instititutions or commercial enterprises that want to support or interact with the R development community.
+-   Provide a reference point for individuals, institutions or commercial enterprises that want to support or interact with the R development community.
 -   Hold and administer the copyright of R software and documentation.
 
 R is an official part of the [Free Software Foundation](https://www.fsf.org/)'s GNU project, and the R Foundation has similar goals to other open source software foundations like the [Apache Foundation](https://www.apache.org/foundation/) or the [GNOME Foundation](http://foundation.gnome.org).
