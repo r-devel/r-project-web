@@ -9,7 +9,7 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
--   [**R version 4.6.0 (Happy Hop) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Tuesday 2026-03-24. Final release is scheduled for Friday 2026-04-24. 
+-   [**R version 4.6.0 (Because it was There) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Tuesday 2026-03-24. Final release is scheduled for Friday 2026-04-24. 
 -   [**R version 4.5.3 (Reassured Reassurer)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2026-03-11.
 -   The [**useR! 2026**](https://user2026.r-project.org) conference will take place in Warsaw, Poland, July 7-9.
