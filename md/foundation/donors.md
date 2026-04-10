@@ -59,9 +59,10 @@ Donors
 -   `<a href="https://www.b-data.io/" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
 -   Andreas Büttner (Germany)
 -   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
--   Keith Chamberlain (United States)
+-   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   Richard COUSINEAU (Canada)
+-   Jeevaka Dassanayake (United States)
 -   David Feedman (United States)
 -   `<a href="https://tobias.fellinger.wien/" rel="nofollow">Tobias Fellinger (Austria)</a>`{=html}
 -   Shalese Fitzgerald (United States)
@@ -81,7 +82,6 @@ Donors
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   `<a href="http://fergusreig.es" rel="nofollow">Fergus Reig Gracia (Spain)</a>`{=html}
--   Thomas Stadler (Switzerland)
 -   `<a href="https://orcid.org/0000-0001-8436-7798" rel="nofollow">Sebastiano Trevisani (Italy)</a>`{=html}
 -   Zane Troyer (United States)
 -   Dr. Alfred Wagner (Germany)
@@ -92,7 +92,6 @@ Donors
 -   Estonian Genome Center, Tartu (Estonia)
 -   Google Inc., Mountain View (United States)
 -   ilustat, Lisbon (Portugal)
--   [iOMEDICO, Freiburg (Germany)](https://www.iomedico.com)
 -   Merck Research Laboratories, Kenilwort (United States)
 -   Novartis Pharma AG, Basel (Switzerland)
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
@@ -107,12 +106,12 @@ Supporting Benefactors
 
 
 -   Zubin Dowlaty (United States)
--   b-data GmbH, Winterthur (Switzerland)
 
 Supporting Institutions
 -----------
 
 
+-   Ngo Thaiduong (Vietnam)
 -   Alfred Mueller Analytic Services, München (Germany)
 -   Departement Klinische Forschung, Basel (Switzerland)
 -   Ef-prime, Inc., Tokyo (Japan)
@@ -121,6 +120,7 @@ Supporting Institutions
 -   oikostat GmbH, Ettiswil (Switzerland)
 -   Roseburg Forest Products, Springfield (United States)
 -   The University of Auckland, Statistics Department, Auckland (New Zealand)
+-   Universitätsspital Basel, Basel (Switzerland)
 -   University of Iowa, Iowa City (United States)
 
 Supporting Members
@@ -139,6 +139,7 @@ Supporting Members
 -   Maurice Baudet von Gersdorff (Germany)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
+-   Matthew Bhagat-Conway (United States)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
 -   Emmanuel Blondel (France)
@@ -146,7 +147,6 @@ Supporting Members
 -   Tom Boulay (United States)
 -   James Briggs (United States)
 -   Pina Brinker (Germany)
--   Gilberto Camara (Brazil)
 -   Robert Carnell (United States)
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
@@ -157,6 +157,7 @@ Supporting Members
 -   Thomas Collins (United States)
 -   Gerard Conaghan (United Kingdom)
 -   Giuseppe Corbelli (Italy)
+-   Rafael Costa (Brazil)
 -   Charles Cowens (United States)
 -   Terry Cox (United States)
 -   Robin Crockett (United Kingdom)
@@ -186,6 +187,7 @@ Supporting Members
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
+-   SUJOY GHOSH (United States)
 -   YEHONATAN MORDECHAI GIDEON (Israel)
 -   Aurélien Ginolhac (Luxembourg)
 -   Brian Gramberg (Netherlands)
@@ -255,6 +257,7 @@ Supporting Members
 -   Markus Näpflin (Switzerland)
 -   Tsubasa Narihiro (Japan)
 -   Maciej Nasinski (Poland)
+-   Tan Duc Nguyen (Vietnam)
 -   Mark Niemann-Ross (United States)
 -   Ana Ns (Paraguay)
 -   Jens Oehlschlägel (Germany)
@@ -273,6 +276,7 @@ Supporting Members
 -   Joyce Robbins (United States)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
+-   Erik Ruzek (United States)
 -   Choonghyun Ryu (South Korea)
 -   Benjamin Schneider (United States)
 -   Raoul Schorer (Switzerland)
@@ -311,12 +315,12 @@ Supporting Members
 -   Fredrik Wartenberg (Sweden)
 -   Nan Xiao (United States)
 -   Yihui Xie (China)
--   Agnieszka Zawiejska (Poland)
 -   Vaidotas Zemlys-Balevičius (Lithuania)
 -   Lim Zhong Hao (Singapore)
+-   鈴木 慎也 (Japan)
 -   广宇 曾 (China)
 -   杨(Yang) 胡(Hu) (New Zealand)
 
 
 
-Last update: 2026-02-23
+Last update: 2026-04-10
