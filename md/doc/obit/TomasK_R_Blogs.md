@@ -1,3 +1,6 @@
+## The 41 "R Blogs" by Tomas Kalibera
+#### latest first, from  March 2018, after creating the "R Blog" site, till January 2026
+
 | Title                                                                                                                                                         | Date       | Author(s)   |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|:------------|
 | [Debugging Sensitivity to C math library on Linux](https://blog.r-project.org/2026/01/30/debugging-sensitivity-to-c-math-library-on-linux/)                   | 2026-01-30 | TK          |
