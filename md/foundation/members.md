@@ -21,7 +21,6 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Stefano Iacus (Italy)
 * Ross Ihaka (New Zealand)
 * Julie Josse (France)
-* Tomas Kalibera (Czechia, USA)
 * Michael Lawrence (USA)
 * Uwe Ligges (Germany)
 * Thomas Lumley (USA, New Zealand)
@@ -40,3 +39,9 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Simon Urbanek (Germany, USA)
 * Hadley Wickham (USA)
 * Achim Zeileis (Austria)
+
+## Past ordinary members
+
+* Friedrich Leisch (Austria)
+* Tomas Kalibera (Czechia, USA)
+* Brian D. Ripley (UK)
