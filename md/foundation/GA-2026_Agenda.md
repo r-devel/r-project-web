@@ -24,10 +24,13 @@ years term (<https://www.R-project.org/foundation/board.html>):
    * [Heather Turner](https://www.heatherturner.net/)
 
 At the RF conference call (May 12, 2026), Martin Mächler has proposed to
-step down as Secretary General to make room for a new one.
+step down as Secretary General (SG) to make room for a new one.
 Anyone (ordinary RF members) willing to serve should send an e-mail till May 22 to
-Martin <Maechler@r-project.org>, apart from Hadley who has already
+Martin <Maechler@r-project.org>, apart from Hadley Wickham who has already
 announced his willingness during the call.
+On May 13, *before* the GA invitation was sent, Bettina Gruen sent an
+E-mail to the above address, volunteering for the SG office, as well.
+(The above May 22 deadline for more nominations still applies.)
 
 
 ## (b) Election and dismissal of the auditors.
