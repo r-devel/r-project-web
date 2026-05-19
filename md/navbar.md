@@ -31,7 +31,7 @@
 * [Foundation](/foundation/)
 * [Board](/foundation/board.html)
 * [Members](/foundation/members.html)
-* [In Memoriam](/doc/obit/index.html)
+* [In Memoriam](/doc/obit/)
 * [Donors](/foundation/donors.html)
 * [Donate](/foundation/donations.html)
 
