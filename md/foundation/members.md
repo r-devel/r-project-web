@@ -42,6 +42,10 @@ The ordinary members are elected by a majority vote of the general assembly. New
 
 ## Past ordinary members
 
+* Douglas Bates (USA)
+* Bill Dunlap (USA)
+* John Fox (Canada) [(deceased)](https://en.wikipedia.org/wiki/John_Fox_%28sociologist%29)
 * Friedrich Leisch (Austria)
 * Tomas Kalibera (Czechia, USA)
+* Duncan Murdoch (Canada)
 * Brian D. Ripley (UK)
