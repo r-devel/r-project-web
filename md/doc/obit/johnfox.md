@@ -4,6 +4,8 @@ title: John David Fox (1947-2025)
 
 ![John Fox, presenting "The Social Organization of the R Project", Dortmund 2008](johnfox.jpg)
 
+\ 
+
 John Fox passed away on November 26th, 2025. This was sad news, although not unexpected. John had retired from the R Foundation in March 2023, citing health issues. He had been an elected member since 2006.
 
 With a background as a user of S-PLUS, for which his `car` software was originally written, John became  a very early adopter of R and was active on the R mailing lists even before R 1.0.0 in 2000. He remained active in the following decades and was answering questions on R-help as late as mid-2025.
