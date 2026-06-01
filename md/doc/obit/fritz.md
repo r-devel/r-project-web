@@ -1,4 +1,6 @@
-# Fritz Leisch 1968-2024
+---
+title: Fritz Leisch 1968-2024
+---
 
 ![](fritz.jpg)
 
