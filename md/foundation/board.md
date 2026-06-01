@@ -5,9 +5,10 @@ title: Board and Auditors
 __President:__ [Simon Urbanek](https://urbanek.info)
 __Vice-President:__ [Kurt Hornik](https://statmath.wu.ac.at/~hornik/)
 
-__Secretary General:__ [Martin Mächler](https://people.math.ethz.ch/~maechler)
-
+__Secretary General:__ [Bettina Grün](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/bettina-gruen)
 __Treasurer:__ [Torsten Hothorn](https://user.math.uzh.ch/hothorn/)
+
+__Vice Secretary General:__ [Hadley Wickham](https://hadley.nz/)
 
 __RF Representative in R Consortium:__ [Michael Lawrence](mailto:lawrence@r-project.org)
 
