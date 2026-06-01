@@ -1,5 +1,6 @@
-# Tomáš Kalibera (1978–2026)
-
+---
+title: Tomáš Kalibera (1978–2026)
+---
 
 Tomáš Kalibera, PhD, R core member, died on April 1, 2026, aged 48.
 
