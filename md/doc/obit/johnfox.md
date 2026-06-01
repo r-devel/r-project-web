@@ -30,9 +30,9 @@ _Peter Dalgaard on behalf of The R Foundation_
 
 ## References 
 
-Fox J. (2005). The R Commander: A Basic-Statistics Graphical User Interface to R. Journal of Statistical Software, 14(9), 1–42. [doi: 10.18637/jss.v014.i09](https://doi.org/10.18637/jss.v014.i09)
+Fox, J. (2005). The R Commander: A Basic-Statistics Graphical User Interface to R. Journal of Statistical Software, 14(9), 1–42. [doi: 10.18637/jss.v014.i09](https://doi.org/10.18637/jss.v014.i09)
 
-Fox J. (2009). Aspects of the Social Organization and Trajectory of the R Project. The R
+Fox, J. (2009). Aspects of the Social Organization and Trajectory of the R Project. The R
 Journal, 1(2), 5–13. [doi:10.32614/rj-2009-014](https://doi.org/10.32614/rj-2009-014)
 
 
