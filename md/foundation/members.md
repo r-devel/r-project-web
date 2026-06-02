@@ -44,7 +44,7 @@ The ordinary members are elected by a majority vote of the general assembly. New
 
 * Douglas Bates (USA)
 * Bill Dunlap (USA)
-* John Fox (Canada) [(deceased)](https://en.wikipedia.org/wiki/John_Fox_%28sociologist%29)
+* John Fox (Canada) [(deceased)](/doc/obit/johnfox.html)
 * Friedrich Leisch (Austria) [(deceased)](/doc/obit/fritz.html)
 * Tomas Kalibera (Czechia, USA) [(deceased)](/doc/obit/tomas.html)
 * Duncan Murdoch (Canada)
