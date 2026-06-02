@@ -2,7 +2,7 @@
 title: John David Fox (1947-2025)
 ---
 
-![John Fox, presenting "The Social Organization of the R Project", Dortmund 2008](johnfox.jpg)
+![John Fox, presenting "The Social Organization of the R Project", Dortmund 2008](johnfox.jpg){width=50%}
 
 \ 
 
