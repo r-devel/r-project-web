@@ -20,6 +20,7 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Torsten Hothorn (Switzerland)
 * Stefano Iacus (Italy)
 * Ross Ihaka (New Zealand)
+* Mikael Jagan (Canada)
 * Julie Josse (France)
 * Michael Lawrence (USA)
 * Uwe Ligges (Germany)
