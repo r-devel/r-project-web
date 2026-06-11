@@ -96,10 +96,12 @@ To prepare a patch, you're going to need the latest developer version of R. This
 
 This should create a directory, `R-devel`, in your current working directory. This contains the source code for the newest version of R.
 
-Go through and make the changes you need to make in order to patch the bug - try to keep to whatever coding style and conventions the functions you're changing use, just to make things easier. Once you're done, go to the `R-devel` directory in your terminal and type:
+Go through and make the changes you need to make in order to patch the bug - try to keep to whatever coding style and conventions the functions
+you're changing use, just to make things easier. Once you're done, go to the `R-devel` directory in your terminal and type
+ (after replacing `<topic_patch>` by something specific to the bug topic, possibly including something as `PR_<bugzilla_nr>`):
 
     svn update
-    svn diff > patch.diff
+    svn diff >  <topic_patch>.diff
 
 This updates the code then creates a new file, `patch.diff`, that contains the changes between the latest version of R, and your alterations. 
 And that’s a patch! Before submitting the patch, make sure that the built system works correctly by running:
