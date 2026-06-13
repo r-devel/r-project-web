@@ -103,7 +103,7 @@ you're changing use, just to make things easier. Once you're done, go to the `R-
     svn update
     svn diff >  <topic_patch>.diff
 
-This updates the code then creates a new file _<topic>_`.diff` containing
+This updates the code then creates a new file _topic_`.diff` containing
 the changes between the latest version of R, and your alterations.
 And that’s a patch! Before submitting the patch, make sure that the built system works correctly by running:
 
