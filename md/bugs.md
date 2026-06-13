@@ -57,7 +57,7 @@ the R help for the package, or the webpage for the package from the relevant rep
 If your bug is in the language, though, or the Core-supported packages, you should submit your report to R's [Bugzilla](https://bugs.r-project.org/).  
 **NOTE: due to abuse by spammers, since 2016-07-09 only "members" (including all who have previously submitted bugs) can submit new bugs on R's Bugzilla.
 In order to get a bugzilla account (i.e., become "member"), please send an e-mail (from the address you want to use as your login) to
-`bug-report-request@r-project.org` briefly explaining why, i.e., with _some_ details, 
+`bug-report-request@r-project.org` briefly explaining why, i.e., with _some_ details,
 and a volunteer will add you to R's Bugzilla members.**
 It is important to try to make sure that the report isn't extraneous. The easiest way to do this is to first look at the [upcoming changes in R](https://svn.r-project.org/R/trunk/doc/NEWS.Rd), to see if the bug has already been patched (just not released yet),
  and to [browse the latest bug reports](https://bugs.r-project.org/buglist.cgi?bug_file_loc_type=allwordssubstr&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=UNCONFIRMED&bugidtype=include&chfieldto=Now&cmdtype=doit&emailassigned_to1=1&emailassigned_to2=1&emailcc2=1&emailreporter2=1&emailtype1=substring&emailtype2=substring&field0-0-0=noop&long_desc_type=substring&order=bugs.delta_ts%20desc&query_format=advanced&short_desc_type=allwordssubstr&type0-0-0=noop) 
@@ -103,7 +103,8 @@ you're changing use, just to make things easier. Once you're done, go to the `R-
     svn update
     svn diff >  <topic_patch>.diff
 
-This updates the code then creates a new file, `patch.diff`, that contains the changes between the latest version of R, and your alterations. 
+This updates the code then creates a new file _<topic>_`.diff` containing
+the changes between the latest version of R, and your alterations.
 And that’s a patch! Before submitting the patch, make sure that the built system works correctly by running:
 
 	make check-devel
