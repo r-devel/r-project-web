@@ -57,7 +57,6 @@ Donors
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io/" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
--   Andreas Büttner (Germany)
 -   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
 -   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
@@ -66,6 +65,7 @@ Donors
 -   David Feedman (United States)
 -   `<a href="https://tobias.fellinger.wien/" rel="nofollow">Tobias Fellinger (Austria)</a>`{=html}
 -   Shalese Fitzgerald (United States)
+-   Spyridon Fortis (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
 -   Jonathan Keane (United States)
@@ -82,7 +82,6 @@ Donors
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   `<a href="http://fergusreig.es" rel="nofollow">Fergus Reig Gracia (Spain)</a>`{=html}
--   `<a href="https://orcid.org/0000-0001-8436-7798" rel="nofollow">Sebastiano Trevisani (Italy)</a>`{=html}
 -   Zane Troyer (United States)
 -   Dr. Alfred Wagner (Germany)
 -   Roland Wedekind (France)
@@ -130,12 +129,12 @@ Supporting Members
 -   Richard Abdill (United States)
 -   Douglas Adamoski (Brazil)
 -   Vedo Alagic (Austria)
--   jose alaya (Peru)
 -   Jeremy Allen (United States)
 -   Tim Appelhans (Germany)
 -   Chris Aragao (United States)
 -   Justan Baker (United States)
 -   Kristoffer Winther Balling (Denmark)
+-   Joaquín Baquer-Miravete (Spain)
 -   Maurice Baudet von Gersdorff (Germany)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
@@ -147,6 +146,7 @@ Supporting Members
 -   Tom Boulay (United States)
 -   James Briggs (United States)
 -   Pina Brinker (Germany)
+-   Andreas Büttner (Germany)
 -   Robert Carnell (United States)
 -   Cédric Chambru (Switzerland)
 -   John Chandler (United States)
@@ -175,6 +175,7 @@ Supporting Members
 -   Serban Dragne (United Kingdom)
 -   Fraser Edwards (United Kingdom)
 -   Anthony Alan Egerton (Malaysia)
+-   Philip Eigen (United States)
 -   Martin Elff (Germany)
 -   Mitch Eppley (United States)
 -   Guenter Faes (Germany)
@@ -184,6 +185,7 @@ Supporting Members
 -   Bernd Fröhlich (Germany)
 -   Keita Fukasawa (Japan)
 -   Arthur Gailes (United States)
+-   Emily Galvin (United States)
 -   Sven Garbade (Germany)
 -   Jan Marvin Garbuszus (Germany)
 -   Eduardo García Galea (Spain)
@@ -201,12 +203,12 @@ Supporting Members
 -   Benedikt Haug (Netherlands)
 -   Takehiko Hayashi (Japan)
 -   Kieran Healy (United States)
+-   Gerold Hepp (Austria)
 -   Philippe Heymans Smith (Costa Rica)
 -   Adam Hill (United States)
 -   Delia Hol (Paraguay)
 -   Alexander Huelle (Germany)
 -   Rob Hyndman (Australia)
--   ken ikeda (Japan)
 -   Heidi Imker (United States)
 -   Ben Jefferies (United States)
 -   Knut Helge Jensen (Norway)
@@ -239,12 +241,13 @@ Supporting Members
 -   Baoxiao Liu (Netherlands)
 -   David Luckett (Australia)
 -   Mehrad Mahmoudian (Finland)
--   Michal Majka (Austria)
 -   Ivan Marino (Italy)
+-   Oliver Marugg (Switzerland)
 -   Amanuel Medhanie (United States)
 -   Philippe MICHEL (France)
 -   Bogdan-Alexandru Micu (Luxembourg)
 -   harvey minnigh (Puerto Rico)
+-   YASEER SUHAIMI MOHD (Malaysia)
 -   Ernst Molitor (Germany)
 -   Jairo Montenegro Arjona (Colombia)
 -   David Monterde (Spain)
@@ -265,19 +268,21 @@ Supporting Members
 -   Dan Orsholits (Switzerland)
 -   Antonio Paez (Canada)
 -   Brynjar Snær Pálsson (Iceland)
--   Jaesung James Park (Korea, Republic of)
+-   Jaesung James Park (South Korea)
 -   Matt Parker (United States)
--   josiah parry (United States)
 -   Sermet Pekin (Türkiye)
+-   Victor PERRIER (France)
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
 -   PierGianLuca Porta Mana (Norway)
+-   Charles Raffaele (United States)
 -   Joyce Robbins (United States)
 -   Peter Ruckdeschel (Germany)
 -   Ingo Ruczinski (United States)
 -   Erik Ruzek (United States)
 -   Choonghyun Ryu (South Korea)
+-   Romit Samanta (United Kingdom)
 -   Benjamin Schneider (United States)
 -   Raoul Schorer (Switzerland)
 -   Dominic Schuhmacher (Germany)
@@ -308,6 +313,7 @@ Supporting Members
 -   Mark van der Loo (Netherlands)
 -   Frans van Dunné (Costa Rica)
 -   Vincent van Hees (Netherlands)
+-   Fred Viole (United States)
 -   Marcus Vollmer (Germany)
 -   Petr Waldauf (Czechia)
 -   Jaap Walhout (Netherlands)
@@ -323,4 +329,4 @@ Supporting Members
 
 
 
-Last update: 2026-04-10
+Last update: 2026-06-26

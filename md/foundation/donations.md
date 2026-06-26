@@ -16,6 +16,11 @@ and to other activities of the R community.
 Like all activities of the R Foundation, donations are managed by volunteers and
 the list of donors is typically updated once or twice per month. 
 
+New: The 2026 general assembly of the R Foundation decided to increase the
+annual membership fees to EUR 50 (individuals), EUR 500 (institutions), and EUR
+1000 (benefactors), starting January 2027. The current fees have been in
+place since the establishment of the R Foundation in 2004.
+
 ## Supporting Membership Application Form
 
 To become a supporting member of the R Foundation, please fill out the
