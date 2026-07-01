@@ -199,6 +199,7 @@ Supporting Members
 -   Frank Hafner (United States)
 -   Chris Hanretty (United Kingdom)
 -   James Harris (United States)
+-   Stefan Hartmann (Germany)
 -   Joe Harwood (United Kingdom)
 -   Benedikt Haug (Netherlands)
 -   Takehiko Hayashi (Japan)
@@ -329,4 +330,4 @@ Supporting Members
 
 
 
-Last update: 2026-06-26
+Last update: 2026-07-01
