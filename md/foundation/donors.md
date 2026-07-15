@@ -79,6 +79,7 @@ Donors
 -   `<a href="http://www.stat.auckland.ac.nz" rel="nofollow">The University of Auckland, Statistics Department (New Zealand)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
 -   HMS Analytical Software GmbH (Germany)
+-   Kristhian Leandro Peña Cerón (Germany)
 -   Kem Phillips (United States)
 -   Nickalus Redell (United States)
 -   `<a href="http://fergusreig.es" rel="nofollow">Fergus Reig Gracia (Spain)</a>`{=html}
@@ -138,6 +139,7 @@ Supporting Members
 -   Maurice Baudet von Gersdorff (Germany)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
+-   Daniel Bermúdez (Spain)
 -   Matthew Bhagat-Conway (United States)
 -   Chris Billingham (United Kingdom)
 -   Michael Blanks (United States)
@@ -194,6 +196,7 @@ Supporting Members
 -   Aurélien Ginolhac (Luxembourg)
 -   Brian Gramberg (Netherlands)
 -   Spencer Graves (United States)
+-   Jörg große Schlarmann (Germany)
 -   Susan Gruber (United States)
 -   Krushi Gurudu (United States)
 -   Frank Hafner (United States)
@@ -292,6 +295,7 @@ Supporting Members
 -   Jagat Sheth (United States)
 -   Sindri Shtepani (Canada)
 -   David Sides (United States)
+-   Robert Skeřil (Czechia)
 -   Rachel Smith-Hunter (United States)
 -   Murray Sondergard (Canada)
 -   Matteo Starri (Italy)
@@ -330,4 +334,4 @@ Supporting Members
 
 
 
-Last update: 2026-07-01
+Last update: 2026-07-15
