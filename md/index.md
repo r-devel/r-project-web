@@ -16,26 +16,52 @@ If you have questions about R like how to download and install the software, or 
 -   The [**useR! 2026**](https://user2026.r-project.org) conference took place in Warsaw, Poland, July 7-9.
 -   You can support the R Foundation with a renewable subscription as a [supporting member](https://www.r-project.org/foundation/donations.html).
 
-## News via Mastodon
 
+## Social Media
+
+<!-- rel="me" required to verify on Mastodon -->
+Follow the R Foundation on <a href="https://bsky.app/profile/r-foundation.bsky.social">BlueSky</a>, <a rel="me" href="https://fosstodon.org/@R_Foundation">Mastodon</a>, or <a href="https://www.linkedin.com/company/the-r-foundation-for-statistical-computing">LinkedIn</a>.
+
+<ul class="nav nav-tabs" role="tablist">
+  <li class="active"><a href="#bsky" data-toggle="tab">News on BlueSky</a></li>
+  <li><a href="#mastodon" data-toggle="tab">News on Mastodon</a></li>
+</ul>
+
+<div class="tab-content">
+<div class="tab-pane active" id="bsky">
+<!--
+bsky-embed widget from https://github.com/Vincenius/bsky-embed obtained via
+wget https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js
+-->
+
+<script type="module" src="js/bsky-embed.es.js" async></script>
+<bsky-embed
+   username="r-foundation.bsky.social"
+   mode=""
+   limit="3"
+   load-more="true"
+   link-image="true"
+   disable-images="true"
+   disable-videos="true"
+   link-target="_top"
+>
+</bsky-embed>
+</div>
+
+<div class="tab-pane" id="mastodon">
 <!--
 Mastodon widget from https://gitlab.com/idotj/mastodon-embed-feed-timeline
 Files mastodon-feed-timeline.css and mastodon-feed-timeline.js are from this source
 -->
 
-<link rel="stylesheet" href="mastodon-timeline.css" />
-<script src="mastodon-timeline.js"></script>
+<link rel="stylesheet" href="css/mastodon-timeline.css" />
+<script src="js/mastodon-timeline.js"></script>
 
-<link rel="stylesheet" href="mastodon-timeline.css" />
-<script src="mastodon-timeline.js"></script>
 <div class="mt-timeline">
   <div id="mt-body" class="mt-body" role="feed">
     <div class="loading-spinner"></div>
   </div>
 </div>
+</div>
 
-## Social Media
-
-<!-- rel="me" required to verify on Mastodon -->
-Follow the R Foundation on <a rel="me" href="https://fosstodon.org/@R_Foundation">Mastodon</a>, <a href="https://bsky.app/profile/r-foundation.bsky.social">BlueSky</a>, or <a href="https://www.linkedin.com/company/the-r-foundation-for-statistical-computing">LinkedIn</a>.
-
+</div>
