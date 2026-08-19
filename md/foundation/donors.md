@@ -68,6 +68,7 @@ Donors
 -   Spyridon Fortis (United States)
 -   `<a href="http://users.stat.umn.edu/~geyer/" rel="nofollow">Charles Geyer (United States)</a>`{=html}
 -   Corrado Giannasca (Italy)
+-   susan hilsenbeck (United States)
 -   Jonathan Keane (United States)
 -   `<a href="http://www.econ.uiuc.edu/~roger/" rel="nofollow">Roger Koenker (United Kingdom)</a>`{=html}
 -   Bruce Larson (United States)
@@ -234,6 +235,7 @@ Supporting Members
 -   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
 -   Jindra Lacko (Czechia)
+-   Kelvin Lam (Canada)
 -   Vishal Lama (United States)
 -   Caleb Lareau (United States)
 -   Bernardo Lares (Venezuela)
@@ -265,7 +267,6 @@ Supporting Members
 -   Tsubasa Narihiro (Japan)
 -   Maciej Nasinski (Poland)
 -   Tan Duc Nguyen (Vietnam)
--   Mark Niemann-Ross (United States)
 -   Ana Ns (Paraguay)
 -   Jens Oehlschlägel (Germany)
 -   Bastián Olea Herrera (Chile)
@@ -310,6 +311,7 @@ Supporting Members
 -   Emi Tanaka (Australia)
 -   Jan Tarabek (Czechia)
 -   Tim Taylor (United Kingdom)
+-   Adrià Termes (Spain)
 -   Chris Toney (United States)
 -   Nicholas Turner (United States)
 -   Derrick Um (United States)
@@ -334,4 +336,4 @@ Supporting Members
 
 
 
-Last update: 2026-07-15
+Last update: 2026-08-19
