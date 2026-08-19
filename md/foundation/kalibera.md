@@ -14,9 +14,9 @@ Therefore, the R Foundation plans to install funds dedicated to
 helping the family, especially supporting Filip's later education.
 
 The R Foundation invites useRs to join these efforts by contributing to our
-fund via the donation form available at:
+fund via the donation form on this page:
 
 <script type="module" src="https://donorbox.org/widgets.js" async></script><dbox-widget campaign="tomas-kalibera-family-fund" type="donation_form" enable-auto-scroll="true"></dbox-widget>
 
-open from now on until end of December 2026. We will also forward comments
+The form will be open until end of December 2026. We will also forward comments
 you may enter in the form above to Tomáš' widow, Anna.
