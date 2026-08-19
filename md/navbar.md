@@ -32,7 +32,7 @@
 * [Board](/foundation/board.html)
 * [Members](/foundation/members.html)
 * [In Memoriam](/doc/obit/)
-* \ 
+* [Kalibera Family Fund](/foundation/kalibera.html)
 * [Donors](/foundation/donors.html)
 * [Donate](/foundation/donations.html)
 
