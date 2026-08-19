@@ -18,4 +18,5 @@ fund via the donation form available at:
 
 <script type="module" src="https://donorbox.org/widgets.js" async></script><dbox-widget campaign="tomas-kalibera-family-fund" type="donation_form" enable-auto-scroll="true"></dbox-widget>
 
-open from now on until end of December 2026.
+open from now on until end of December 2026. We will also forward comments
+you may enter in the form above to Tomáš' widow, Anna.
