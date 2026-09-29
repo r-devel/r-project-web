@@ -9,6 +9,8 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+
+-   [**R version 4.6.2 (Diversified Portfolio) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2026-10-19. Final release is scheduled for Thursday 2026-10-29. 
 -   [Kalibera Family Fund](/foundation/kalibera.html) accepts donations until the end of 2026.
 -   [**R version 4.6.1 (Happy Hop)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2026-06-24.
