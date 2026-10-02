@@ -57,7 +57,6 @@ Donors
 -   `<a href="https://ilustat.com" rel="nofollow">ilustat (Portugal)</a>`{=html}
 -   Vladimir Benda (Slovakia)
 -   `<a href="https://www.b-data.io/" rel="nofollow">b-data GmbH (Switzerland)</a>`{=html}
--   `<a href="https://qualitasag.ch" rel="nofollow">Qualitas AG (Switzerland)</a>`{=html}
 -   `<a href="https://gilbertocamara.org/" rel="nofollow">Gilberto Camara (Brazil)</a>`{=html}
 -   `<a href="https://amy17519.me/" rel="nofollow">Amy Tzu-Yu Chen (United States)</a>`{=html}
 -   Richard COUSINEAU (Canada)
@@ -76,6 +75,7 @@ Donors
 -   `<a href="https://r2bit.com/seoul-r/" rel="nofollow">Korea R User Group (Korea, Republic of)</a>`{=html}
 -   Joseph Luchman (United States)
 -   `<a href="https://www.instagram.com/ohccugm/" rel="nofollow">One Health Collaborating Center Universitas Gadjah Mada (Indonesia)</a>`{=html}
+-   Steve Martin (Canada)
 -   `<a href="https://www.linkedin.com/in/rudymartin/" rel="nofollow">Rudolph Martin (United States)</a>`{=html}
 -   `<a href="http://www.stat.auckland.ac.nz" rel="nofollow">The University of Auckland, Statistics Department (New Zealand)</a>`{=html}
 -   `<a href="https://minato.sip21c.org/" rel="nofollow">Minato Nakazawa (Japan)</a>`{=html}
@@ -88,6 +88,7 @@ Donors
 -   Dr. Alfred Wagner (Germany)
 -   Roland Wedekind (France)
 -   Daniel Wollschläger (Germany)
+-   `<a href="https://cran.r-project.org/web/packages/ham/index.html" rel="nofollow">Stephen Zuniga (United States)</a>`{=html}
 -   明彦 田中 (Japan)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Estonian Genome Center, Tartu (Estonia)
@@ -130,6 +131,7 @@ Supporting Members
 
 -   Richard Abdill (United States)
 -   Douglas Adamoski (Brazil)
+-   Tiago Adria Nunes (Brazil)
 -   Vedo Alagic (Austria)
 -   Jeremy Allen (United States)
 -   Tim Appelhans (Germany)
@@ -138,6 +140,7 @@ Supporting Members
 -   Kristoffer Winther Balling (Denmark)
 -   Joaquín Baquer-Miravete (Spain)
 -   Maurice Baudet von Gersdorff (Germany)
+-   Patrick Baylis (Canada)
 -   Amit Behera (United States)
 -   Ashanka Beligaswatte (Australia)
 -   Daniel Bermúdez (Spain)
@@ -219,7 +222,6 @@ Supporting Members
 -   Knut Helge Jensen (Norway)
 -   Sebastian Jentschke (Norway)
 -   Sebastian Jeworutzki (Germany)
--   Brian Johnson (United States)
 -   Christian Kampichler (Netherlands)
 -   Katharina Kesy (Germany)
 -   An Khuc (United States)
@@ -234,7 +236,6 @@ Supporting Members
 -   Chris Kuty (United States)
 -   Luca La Rocca (Italy)
 -   Teemu Daniel Laajala (Finland)
--   Jindra Lacko (Czechia)
 -   Kelvin Lam (Canada)
 -   Vishal Lama (United States)
 -   Caleb Lareau (United States)
@@ -280,6 +281,7 @@ Supporting Members
 -   Elgin Perry (United States)
 -   Bill Pikounis (United States)
 -   Kelly Pisane (Netherlands)
+-   Giuseppe Polimene (Italy)
 -   PierGianLuca Porta Mana (Norway)
 -   Charles Raffaele (United States)
 -   Joyce Robbins (United States)
@@ -336,4 +338,4 @@ Supporting Members
 
 
 
-Last update: 2026-08-19
+Last update: 2026-10-02
