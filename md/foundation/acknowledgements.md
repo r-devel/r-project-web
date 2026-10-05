@@ -2,8 +2,6 @@
 title: Acknowledgements
 ---
 
-## Acknowledgements
-
 The R Foundation for Statistical Computing acknowledges general 
 aid and infrastructure support by the following organisations (listed in
 lexicographical order):
