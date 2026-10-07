@@ -8,15 +8,15 @@ lexicographical order):
 
  <a href="https://fit.cvut.cz/"><img src="/foundation/icons/CTU.png" width="100" height="100" alt = "CTU" /></a> 
  <a href="https://fit.cvut.cz/">Czech Technical University</a>
- <a href="https://posit.co/"><img src="/foundation/icons/posit.png" width="100"  height="100" alt = "posit" /></a>
- <a href="https://posit.co/">Posit Software, PBC</a>
-
- <a href="https://r-consortium.org/"><img src="/foundation/icons/RC.png" width = "100" height="100" alt = "R Consortium" /></a>
- <a href="https://r-consortium.org/">R Consortium, Inc.</a>
  <a href="https://math.ethz.ch/sfs/"><img src="/foundation/icons/ethz.png" width="270"  height="100" alt = "ETHZ" /></a>
  <a href="https://math.ethz.ch/sfs/">ETH Zürich</a>
 
- <a href="https://www.sovereign.tech/"><img src="/foundation/icons/sta.png" width="326"  height="100" alt =  "STA" /></a> 
+ <a href="https://posit.co/"><img src="/foundation/icons/posit.png" width="100"  height="100" alt = "posit" /></a>
+ <a href="https://posit.co/">Posit Software, PBC</a>
+ <a href="https://r-consortium.org/"><img src="/foundation/icons/RC.png" width = "100" height="100" alt = "R Consortium" /></a>
+ <a href="https://r-consortium.org/">R Consortium, Inc.</a>
+
+ <a href="https://www.sovereign.tech/"><img src="/foundation/icons/sta.png" width="217"  height="66" alt =  "STA" /></a> 
  <a href="https://www.sovereign.tech/">Sovereign Tech Agency</a>
  <a href="https://statistik.tu-dortmund.de/"><img src="/foundation/icons/TUD.png" width="115" height="100" alt = "TUD" /></a>
  <a href="https://statistik.tu-dortmund.de/">TU Dortmund</a>
