@@ -23,13 +23,15 @@ lexicographical order):
 
  <a href="https://www.auckland.ac.nz/"><img src="/foundation/icons/UoA.png" width="100"  height="100" alt = "UoA" /></a>
  <a href="https://www.auckland.ac.nz/">University of Auckland</a>
- <a href="https://uiowa.edu//"><img src="/foundation/icons/IOWA.png"  width="200"  height="100" alt = "IOWA" /></a>
+ <a href="https://uiowa.edu/"><img src="/foundation/icons/IOWA.png"  width="200"  height="100" alt = "IOWA" /></a>
  <a href="https://uiowa.edu/">University of Iowa</a>
 
+ <a href="https://www.kent.ac.uk/"><img src="/foundation/icons/UoK.png" width="100"  height="100" alt = "UoK" /></a>
+ <a href="https://www.kent.ac.uk/">University of Kent</a>
  <a href="https://www.stats.ox.ac.uk/"><img src="/foundation/icons/UOx.png" width="100"  height="100" alt = "UOx" /></a>
  <a href="https://www.stats.ox.ac.uk/">University of Oxford</a>
+
  <a href="https://www.wu.ac.at"><img src="/foundation/icons/WU.png" width="100"  height="100" alt = "WU" /></a>
  <a href="https://www.wu.ac.at">WU Vienna</a>
-
  <a href="https://zulip.com"><img src="/foundation/icons/zulip.png" width="100" height="100" alt = "zulip" /></a>
  <a href="https://zulip.com">Zulip</a>
