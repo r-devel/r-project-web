@@ -35,6 +35,7 @@
 * [Kalibera Family Fund](/foundation/kalibera.html)
 * [Donors](/foundation/donors.html)
 * [Donate](/foundation/donations.html)
+* [Acknowledgements](/foundation/acknowledgements.html)
 
 ## Help With R
 
