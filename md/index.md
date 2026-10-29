@@ -10,10 +10,9 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
--   [**R version 4.6.2 (Diversified Portfolio) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2026-10-19. Final release is scheduled for Thursday 2026-10-29. 
+-   [**R version 4.6.2 (Diversified Portfolio)**](https://cran.r-project.org/src/base/R-4)
+    has been released on 2026-10-29.
 -   [Kalibera Family Fund](/foundation/kalibera.html) accepts donations until the end of 2026.
--   [**R version 4.6.1 (Happy Hop)**](https://cran.r-project.org/src/base/R-4)
-    has been released on 2026-06-24.
 -   [**R version 4.5.3 (Reassured Reassurer)**](https://cran.r-project.org/src/base/R-4)
     (wrap-up release) was released on 2026-03-11.
 -   The [**useR! 2026**](https://user2026.r-project.org) conference took place in Warsaw, Poland, July 7-9.
