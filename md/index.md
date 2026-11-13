@@ -10,12 +10,13 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   The [**useR! 2027**](https://user2027.r-project.org) conference will take place in Santiago, Chile, July 20-23 2027.
 -   [**R version 4.6.2 (Diversified Portfolio)**](https://cran.r-project.org/src/base/R-4)
     has been released on 2026-10-29.
 -   [Kalibera Family Fund](/foundation/kalibera.html) accepts donations until the end of 2026.
 -   [**R version 4.5.3 (Reassured Reassurer)**](https://cran.r-project.org/src/base/R-4)
     (wrap-up release) was released on 2026-03-11.
--   The [**useR! 2026**](https://user2026.r-project.org) conference took place in Warsaw, Poland, July 7-9.
+-   The [**useR! 2026**](https://user2026.r-project.org) conference took place in Warsaw, Poland, July 7-9 2026.
 -   You can support the R Foundation with a renewable subscription as a [supporting member](https://www.r-project.org/foundation/donations.html).
 
 
