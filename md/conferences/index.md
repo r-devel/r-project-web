@@ -15,8 +15,7 @@ A rough outline of the format for the respective conferences is given below; bot
 
 The R Foundation also [endorses a small number of conferences](#other-conferences-endorsed-by-the-r-foundation) for special events or to encourage the development of the local R community in under-supported regions.
 
-Conference-related activities are co-ordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of
-[Julie Josse (Ecole Polytechnique)](https://juliejosse.com/), [Heather Turner](https://www.heatherturner.net/) and [Achim Zeileis (Universität Innsbruck)](https://www.zeileis.org/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
+Conference-related activities are co-ordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of [Julie Josse (Ecole Polytechnique)](https://juliejosse.com/), [Theresa Scharl (BOKU University)](https://boku.ac.at/nwnr/stat/personen/scharl-hirsch-theresa), [Heather Turner](https://www.heatherturner.net/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
 
 The R Foundation has a [policy](/coc-policy.html) requiring a [code of conduct](/coc.html) at R conferences.
 
