@@ -119,3 +119,17 @@ If you experience technical issues with R's Bugzilla that do not resolve themsel
 Even better would be to install a pre-release alpha or beta version to confirm it is still present, and report that.
 
 If you feel it has been assessed wrongly, you can leave a comment to that effect on Bugzilla.  If you are personally acquainted with a member of R Core you could contact them directly.  In either case, present your case clearly, and respect the fact that the R Core members may judge the importance of the issue (or even whether it is a bug or not) differently than you do.
+
+## A note on using AI tools
+
+Advances in AI tools have made it easier to find bugs and develop
+patches for many systems, including R.  If you submit a report created
+using AI tools make sure to acknowledge this, and make sure the report
+is accurate and concise.
+
+If you submit a patch created using AI tools again make sure to
+acknowledge this. Make sure you understand the patch well enough to be
+able to respond to questions reviewers might have. For patches
+touching more than on or two lines of code be sure to explain how you
+created the patch in enough detail to allow a reviewer to reproduce
+your patch using the tools you used.
